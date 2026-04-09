@@ -27,7 +27,7 @@
 | ------------------------------------ | ---------- |
 | Rocha Cotrina, Alvaro                | U202411243 |
 | Esquicha Alcántara, Diego Alonso     | U202411799 |
-| Quispe llacsahuanga, César Agusto    | U202417405 |
+| Quispe Llacsahuanga, César Agusto    | U202417405 |
 | Guillen Giraldo, Mike Dylan          | U202211881 |
 | Teran Zavala, Mauricio Alejandro     | U202417423 |
 
