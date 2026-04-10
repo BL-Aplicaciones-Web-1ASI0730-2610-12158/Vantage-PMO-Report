@@ -44,6 +44,77 @@ Las organizaciones pierden entre un 20% y 30% de su productividad semanal en tar
 
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
+
+El estado actual de la gestión de proyectos en organizaciones medianas y grandes ha dependido principalmente de procesos manuales y herramientas fragmentadas como hojas de cálculo, correos electrónicos y software no integrado. Estos métodos generan silos de información, falta de visibilidad en tiempo real y una pérdida de productividad de hasta el 30% debido a la recopilación manual de datos.
+
+Lo que los productos actuales no resuelven eficientemente es la necesidad de una plataforma centralizada y estandarizada que permita a los Project Managers y Stakeholders alinear los objetivos estratégicos con los resultados operativos sin una curva de aprendizaje técnica excesiva.
+
+Vantage PMO abordará esta brecha mediante una plataforma web que digitaliza el monitoreo de proyectos, automatiza la generación de reportes y centraliza la comunicación entre los equipos operativos y la gerencia.
+
+Nuestro enfoque inicial estará dirigido a Project Managers, PMO Leads y Stakeholders en empresas que manejan múltiples portafolios. Sabremos que hemos tenido éxito cuando veamos una reducción en los sobrecostos operativos, una mejora en el cumplimiento de los hitos y una adopción recurrente de la plataforma para la toma de decisiones estratégicas.
+
 #### 1.2.2.2. Lean UX Assumptions
+
+##### A. Business Assumptions
+**Creemos que nuestros clientes necesitan:** Centralizar la visibilidad de sus proyectos y estandarizar la toma de decisiones basada en datos reales.
+
+**Estas necesidades se resuelven con:** Una plataforma SaaS (Vantage PMO) que integre gestión, monitoreo y control en una única interfaz.
+
+**Nuestros primeros clientes serán:** Empresas medianas y grandes con departamentos de PMO que sufren de desorden informativo.
+
+**Valor #1 esperado:** Control centralizado y visibilidad 360° del portafolio en tiempo real.
+
+**Beneficios adicionales:** Reducción de errores humanos, ahorro de tiempo en reporteo y alineación estratégica.
+
+**Adquisición:** Consultoría directa, alianzas con la red UPC y marketing enfocado en gestión de ingeniería.
+
+**Ingresos:** Suscripción B2B escalonada según el volumen de proyectos o número de usuarios.
+
+**Competencia principal:** Microsoft Project, Jira, Monday.com (pero con enfoque en la complejidad de PMOs tradicionales).
+
+**Ventaja competitiva:** Estandarización de procesos bajo metodología PMO sin la fricción de herramientas genéricas.
+
+**Mayor riesgo de producto:** Resistencia al cambio por parte de equipos acostumbrados a Excel.
+
+**Mitigación:** Onboarding simplificado, plantillas de proyectos precargadas y visualización inmediata de beneficios (Quick-wins).
+
+###### B. User Assumptions
+**¿Quién es el usuario?** Project Managers que ejecutan y Stakeholders que deciden.
+
+**¿Dónde encaja el producto?** En el seguimiento diario de hitos y en las reuniones semanales/mensuales de revisión de desempeño.
+
+**Problema a resolver:** Dispersión de la información → falta de control y decisiones tardías.
+
+**Uso típico:** Actualizar el progreso de tareas, revisar dashboards de salud del proyecto y exportar reportes ejecutivos.
+
+**Características importantes:** Dashboard en tiempo real, alertas de desviaciones (costo/tiempo), gestión de recursos y repositorio central de documentos.
+
+**Look & feel:** Interfaz corporativa, limpia, con gráficos analíticos claros y navegación intuitiva por módulos.
+
+##### C. User Outcome & Benefit Assumptions
+Visibilidad inmediata del estado de salud de todos los proyectos (Semáforos de estado).
+
+Eliminación de la recopilación manual de datos para reportes mensuales.
+
+Reducción de la desalineación entre las áreas operativas y los objetivos de la empresa.
+
+Optimización en la asignación de recursos humanos y financieros.
+
+##### D. Business Outcome Assumptions
+Reducción del 25% en el tiempo de entrega de reportes operativos en los primeros 3 meses.
+
+Incremento del 20% en la productividad semanal de los Project Managers al automatizar tareas de control.
+
+Lograr 50 proyectos activos gestionados en la plataforma durante el primer año (2026).
+
+Retención de clientes superior al 90% tras los primeros 6 meses de uso.
+
+##### E. Feature Assumptions
+**Dashboard Centralizado:** Creemos que una vista unificada reducirá la desinformación en las reuniones de seguimiento.
+
+**Generador de Reportes Automático:** Creemos que automatizar los KPIs mensuales eliminará el 30% de la carga administrativa.
+
+**Sistema de Alertas Tempranas:** Creemos que notificar desviaciones en hitos evitará multas por incumplimiento de plazos.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
 #### 1.2.2.4. Lean UX Canvas
