@@ -56,65 +56,65 @@ Nuestro enfoque inicial estará dirigido a Project Managers, PMO Leads y Stakeho
 #### 1.2.2.2. Lean UX Assumptions
 
 ##### A. Business Assumptions
-**Creemos que nuestros clientes necesitan:** Centralizar la visibilidad de sus proyectos y estandarizar la toma de decisiones basada en datos reales.
+1. **Creemos que nuestros clientes necesitan:** Centralizar la visibilidad de sus proyectos y estandarizar la toma de decisiones basada en datos reales.
 
-**Estas necesidades se resuelven con:** Una plataforma SaaS (Vantage PMO) que integre gestión, monitoreo y control en una única interfaz.
+2. **Estas necesidades se resuelven con:** Una plataforma SaaS (Vantage PMO) que integre gestión, monitoreo y control en una única interfaz.
 
-**Nuestros primeros clientes serán:** Empresas medianas y grandes con departamentos de PMO que sufren de desorden informativo.
+3. **Nuestros primeros clientes serán:** Empresas medianas y grandes con departamentos de PMO que sufren de desorden informativo.
 
-**Valor #1 esperado:** Control centralizado y visibilidad 360° del portafolio en tiempo real.
+4. **Valor #1 esperado:** Control centralizado y visibilidad 360° del portafolio en tiempo real.
 
-**Beneficios adicionales:** Reducción de errores humanos, ahorro de tiempo en reporteo y alineación estratégica.
+5. **Beneficios adicionales:** Reducción de errores humanos, ahorro de tiempo en reporteo y alineación estratégica.
 
-**Adquisición:** Consultoría directa, alianzas con la red UPC y marketing enfocado en gestión de ingeniería.
+6. **Adquisición:** Marketing de contenidos especializado en gestión de proyectos y alianzas estratégicas con consultoras de procesos organizacionales.
 
-**Ingresos:** Suscripción B2B escalonada según el volumen de proyectos o número de usuarios.
+7. **Ingresos:** Suscripción B2B escalonada según el volumen de proyectos o número de usuarios.
 
-**Competencia principal:** Microsoft Project, Jira, Monday.com (pero con enfoque en la complejidad de PMOs tradicionales).
+8. **Competencia principal:** Microsoft Project, Jira, Monday.com (pero con enfoque en la complejidad de PMOs tradicionales).
 
-**Ventaja competitiva:** Estandarización de procesos bajo metodología PMO sin la fricción de herramientas genéricas.
+9. **Ventaja competitiva:** Estandarización de procesos bajo metodología PMO sin la fricción de herramientas genéricas.
 
-**Mayor riesgo de producto:** Resistencia al cambio por parte de equipos acostumbrados a Excel.
+10. **Mayor riesgo de producto:** Resistencia al cambio por parte de equipos acostumbrados a Excel.
 
-**Mitigación:** Onboarding simplificado, plantillas de proyectos precargadas y visualización inmediata de beneficios (Quick-wins).
+11. **Mitigación:** Onboarding simplificado, plantillas de proyectos precargadas y visualización inmediata de beneficios.
 
 ###### B. User Assumptions
-**¿Quién es el usuario?** Project Managers que ejecutan y Stakeholders que deciden.
+**- ¿Quién es el usuario?** Project Managers que ejecutan y Stakeholders que deciden.
 
-**¿Dónde encaja el producto?** En el seguimiento diario de hitos y en las reuniones semanales/mensuales de revisión de desempeño.
+**- ¿Dónde encaja el producto?** En el seguimiento diario de hitos y en las reuniones semanales/mensuales de revisión de desempeño.
 
-**Problema a resolver:** Dispersión de la información → falta de control y decisiones tardías.
+**- Problema a resolver:** Dispersión de la información → falta de control y decisiones tardías.
 
-**Uso típico:** Actualizar el progreso de tareas, revisar dashboards de salud del proyecto y exportar reportes ejecutivos.
+**- Uso típico:** Actualizar el progreso de tareas, revisar dashboards de salud del proyecto y exportar reportes ejecutivos.
 
-**Características importantes:** Dashboard en tiempo real, alertas de desviaciones (costo/tiempo), gestión de recursos y repositorio central de documentos.
+**- Características importantes:** Dashboard en tiempo real, alertas de desviaciones (costo/tiempo), gestión de recursos y repositorio central de documentos.
 
-**Look & feel:** Interfaz corporativa, limpia, con gráficos analíticos claros y navegación intuitiva por módulos.
+**- Look & feel:** Interfaz corporativa, limpia, con gráficos analíticos claros y navegación intuitiva por módulos.
 
 ##### C. User Outcome & Benefit Assumptions
-Visibilidad inmediata del estado de salud de todos los proyectos (Semáforos de estado).
+- Visibilidad inmediata del estado de salud de todos los proyectos (Semáforos de estado).
 
-Eliminación de la recopilación manual de datos para reportes mensuales.
+- Eliminación de la recopilación manual de datos para reportes mensuales.
 
-Reducción de la desalineación entre las áreas operativas y los objetivos de la empresa.
+- Reducción de la desalineación entre las áreas operativas y los objetivos de la empresa.
 
-Optimización en la asignación de recursos humanos y financieros.
+- Optimización en la asignación de recursos humanos y financieros.
 
 ##### D. Business Outcome Assumptions
-Reducción del 25% en el tiempo de entrega de reportes operativos en los primeros 3 meses.
+- Reducción del 25% en el tiempo de entrega de reportes operativos en los primeros 3 meses.
 
-Incremento del 20% en la productividad semanal de los Project Managers al automatizar tareas de control.
+- Incremento del 20% en la productividad semanal de los Project Managers al automatizar tareas de control.
 
-Lograr 50 proyectos activos gestionados en la plataforma durante el primer año (2026).
+- Lograr 50 proyectos activos gestionados en la plataforma durante el primer año (2026).
 
-Retención de clientes superior al 90% tras los primeros 6 meses de uso.
+- Retención de clientes superior al 90% tras los primeros 6 meses de uso.
 
 ##### E. Feature Assumptions
-**Dashboard Centralizado:** Creemos que una vista unificada reducirá la desinformación en las reuniones de seguimiento.
+1. **Dashboard Centralizado:** Creemos que una vista unificada reducirá la desinformación en las reuniones de seguimiento.
 
-**Generador de Reportes Automático:** Creemos que automatizar los KPIs mensuales eliminará el 30% de la carga administrativa.
+2. **Generador de Reportes Automático:** Creemos que automatizar los KPIs mensuales eliminará el 30% de la carga administrativa.
 
-**Sistema de Alertas Tempranas:** Creemos que notificar desviaciones en hitos evitará multas por incumplimiento de plazos.
+3. **Sistema de Alertas Tempranas:** Creemos que notificar desviaciones en hitos evitará multas por incumplimiento de plazos.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
@@ -142,7 +142,7 @@ Retención de clientes superior al 90% tras los primeros 6 meses de uso.
 
 | **Hypotheses** | **What’s the most important thing we need to learn first?** | **What’s the least amount of work we need to do to learn the next most important thing?** |
 | :------------- | :------------------------ | :----------------------- |
-| **- Creemos que** reduciremos el tiempo de reporteo en un 25% si los Project Managers utilizan el generador automático de reportes de Vantage PMO en lugar de consolidar datos manualmente en Excel. <br> **- Creemos que** disminuiremos los sobrecostos operativos en un 15% si los PMO Leads reciben alertas tempranas de desviaciones presupuestarias a través de nuestro sistema de monitoreo en tiempo real. <br> **- Creemos que** aumentaremos la satisfacción de los Stakeholders en un 40% si obtienen acceso directo a tableros de control ejecutivos que muestren el avance estratégico del portafolio. <br> **- Creemos que** aumentaremos la satisfacción de los Stakeholders en un 40% si obtienen acceso directo a tableros de control ejecutivos que muestren el avance estratégico del portafolio. <br> **- Creemos que** alcanzaremos una adopción de 50 proyectos activos en un año si ofrecemos una interfaz intuitiva con onboarding guiado que no requiera capacitación técnica externa. <br> - **Creemos que** mejoraremos la eficiencia del equipo en un 20% si los recursos se asignan de manera centralizada evitando la sobrecarga de trabajo y los cuellos de botella. | - ¿Es la recopilación manual de datos el problema más doloroso para los Project Managers, o existe otra fricción mayor en su día a día? <br> - ¿Están los ejecutivos dispuestos a basar sus decisiones financieras en un dashboard digital en lugar de esperar los reportes tradicionales firmados? <br> - ¿La estandarización de procesos es percibida como una ayuda o como una restricción burocrática por los equipos de ingeniería? <br> - ¿Es la integración con herramientas actuales (como Excel) una funcionalidad crítica para que acepten migrar a nuestra plataforma? <br> - ¿Cuál es el KPI específico que más valoran los Stakeholders para considerar que un proyecto está "bajo control"? | - Realizar entrevistas a profundidad con 5 líderes de PMO y Project Managers de la red UPC para validar sus "pain points" prioritarios. <br> - Crear un prototipo navegable de alta fidelidad (Figma) que simule el dashboard y el generador de reportes para realizar pruebas de concepto con usuarios reales. <br> - Crear un prototipo navegable de alta fidelidad (Figma) que simule el dashboard y el generador de reportes para realizar pruebas de concepto con usuarios reales. <br> - Realizar una prueba piloto con una oficina de proyectos pequeña (3-5 proyectos) cargando datos históricos para comparar la precisión de Vantage PMO vs su gestión manual previa. <br> - Encuesta a Stakeholders para priorizar los 3 KPIs más importantes que necesitan ver en un panel ejecutivo. |
+| **- Creemos que** reduciremos el tiempo de reporteo en un 25% si los Project Managers utilizan el generador automático de reportes de Vantage PMO en lugar de consolidar datos manualmente en Excel. <br> **- Creemos que** disminuiremos los sobrecostos operativos en un 15% si los PMO Leads reciben alertas tempranas de desviaciones presupuestarias a través de nuestro sistema de monitoreo en tiempo real. <br> **- Creemos que** aumentaremos la satisfacción de los Stakeholders en un 40% si obtienen acceso directo a tableros de control ejecutivos que muestren el avance estratégico del portafolio. <br> **- Creemos que** aumentaremos la satisfacción de los Stakeholders en un 40% si obtienen acceso directo a tableros de control ejecutivos que muestren el avance estratégico del portafolio. <br> **- Creemos que** alcanzaremos una adopción de 50 proyectos activos en un año si ofrecemos una interfaz intuitiva con onboarding guiado que no requiera capacitación técnica externa. <br> - **Creemos que** mejoraremos la eficiencia del equipo en un 20% si los recursos se asignan de manera centralizada evitando la sobrecarga de trabajo y los cuellos de botella. | - ¿Es la recopilación manual de datos el problema más doloroso para los Project Managers, o existe otra fricción mayor en su día a día? <br> - ¿Están los ejecutivos dispuestos a basar sus decisiones financieras en un dashboard digital en lugar de esperar los reportes tradicionales firmados? <br> - ¿La estandarización de procesos es percibida como una ayuda o como una restricción burocrática por los equipos de ingeniería? <br> - ¿Es la integración con herramientas actuales (como Excel) una funcionalidad crítica para que acepten migrar a nuestra plataforma? <br> - ¿Cuál es el KPI específico que más valoran los Stakeholders para considerar que un proyecto está "bajo control"? | - Realizar entrevistas a profundidad con 5 líderes de PMO y Project Managers para validar sus "pain points" prioritarios. <br> - Crear un prototipo navegable de alta fidelidad (Figma) que simule el dashboard y el generador de reportes para realizar pruebas de concepto con usuarios reales. <br> - Crear un prototipo navegable de alta fidelidad (Figma) que simule el dashboard y el generador de reportes para realizar pruebas de concepto con usuarios reales. <br> - Realizar una prueba piloto con una oficina de proyectos pequeña (3-5 proyectos) cargando datos históricos para comparar la precisión de Vantage PMO vs su gestión manual previa. <br> - Encuesta a Stakeholders para priorizar los 3 KPIs más importantes que necesitan ver en un panel ejecutivo. |
 
 ## 1.3 Segmentos Objetivos
 
