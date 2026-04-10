@@ -17,3 +17,33 @@ docs: update formatting and improve table structure in readme.
 ![cesar](assets/images/cap1/cesar.jpeg) | *César Agusto Quispe Llacsahuanga - U202417405* Soy estudiante de Ingeniería de Software, interesado en el desarrollo de soluciones tecnológicas y el aprendizaje continuo en herramientas de programación. Cuento con conocimientos en lógica de programación, bases de datos y desarrollo de aplicaciones, lo que me permite contribuir en la construcción de sistemas eficientes. Me caracterizo por ser responsable, proactivo y con buena disposición para el trabajo en equipo, adaptándome a nuevos retos y aportando en el cumplimiento de los objetivos del proyecto. 
 ![alvaro](assets/images/cap1/alvaro.png) | *Alvaro Rocha Cotrina - u202411243* Soy estudiante de Ingeniería de Software, con enfoque en el desarrollo backend, bases de datos y lógica de programación. Cuento con experiencia en la creación de aplicaciones y resolución de problemas mediante programación, especialmente en lenguajes como C++ y el diseño de sistemas estructurados. Me caracterizo por ser organizado, responsable y comprometido con el trabajo en equipo, aportando en la construcción de soluciones eficientes y en la correcta estructuración de la arquitectura del sistema. Además, tengo una gran capacidad de aprendizaje y adaptación a nuevas tecnologías, lo que me permite contribuir activamente en el desarrollo del proyecto.
 ![mauricio](assets/images/cap1/mauricio.jpeg) | *Mauricio Alejandro Teran Zavala - u202417423*  Estudiante de Ingeniería de Software con una sólida base en lógica de programación y desarrollo backend, especializado en Java, C++ y Python. Mi enfoque se centra en la creación de soluciones con impacto social mediante el diseño de APIs RESTful y una gestión eficiente de bases de datos. Más allá de lo técnico, aporto al equipo una disciplina y compromiso forjados en el deporte, lo que me permite trabajar bajo presión y adaptarme con proactividad a los desafíos del proyecto. Mi objetivo es garantizar un código limpio y funcional, fomentando una comunicación efectiva para asegurar que el equipo alcance sus metas con éxito
+
+## 1.2 Solution Profile
+### 1.2.1 Antecedentes y Problemática
+
+#### What / ¿QUÉ?
+Se presenta una fragmentación de la información y falta de visibilidad en la ejecución de proyectos, lo que impide un control centralizado y eficiente de los recursos organizacionales.
+
+#### When / ¿CUÁNDO?
+El problema se manifiesta críticamente durante las reuniones de seguimiento, en la entrega de reportes mensuales de desempeño y al momento de asignar recursos a nuevos hitos del proyecto.
+
+#### Where / ¿DÓNDE?
+Se observa principalmente en los departamentos de gestión de proyectos (PMO) y áreas operativas de empresas medianas y grandes que manejan múltiples portafolios de forma simultánea.
+
+#### Who / ¿QUIÉN?
+Afecta a los Project Managers y Stakeholders encargados de la toma de decisiones, cuya gestión se ve limitada por el uso de herramientas aisladas. Por ejemplo, hojas de cálculo o software no integrado, etc.
+
+#### Why / ¿POR QUÉ?
+Sucede debido a la ausencia de un estándar tecnológico que unifique los datos, lo que genera silos de información, procesos manuales propensos al error y falta de comunicación en tiempo real.
+
+#### How / ¿CÓMO?
+A diferencia del estado óptimo, donde la información fluye automáticamente, el problema se presenta como un patrón de retrasos constantes y desalineación entre los objetivos estratégicos y los resultados operativos.
+
+#### How Much / ¿CUÁNTO?
+Las organizaciones pierden entre un 20% y 30% de su productividad semanal en tareas de recopilación manual de datos, lo que se traduce en sobrecostos operativos y posibles multas por incumplimiento de plazos.
+
+### 1.2.2 Lean UX Process
+#### 1.2.2.1. Lean UX Problem Statements
+#### 1.2.2.2. Lean UX Assumptions
+#### 1.2.2.3. Lean UX Hypothesis Statements
+#### 1.2.2.4. Lean UX Canvas
