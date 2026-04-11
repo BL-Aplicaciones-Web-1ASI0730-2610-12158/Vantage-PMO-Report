@@ -88,3 +88,52 @@ Reducir la resistencia al cambio permitiendo la compatibilidad con herramientas 
 
     Táctica:
 Incorporar funciones de importación y exportación de datos (por ejemplo, desde Excel), facilitando la transición hacia la plataforma Vantage PMO.
+
+## 2.2 Entrevistas
+
+### 2.2.1 Diseño de Entrevistas
+
+Segmento 1: Líderes o jefes de gestión de proyectos
+
+Preguntas principales:
+
+1. ¿Cuál es su rol actual dentro de la organización? ¿Cuántos años de experiencia tiene en gestión de proyectos?
+2. ¿En qué tipo de empresa trabaja? ¿Cuántos proyectos suelen manejar simultáneamente?
+3. ¿Qué herramientas utiliza para gestionar proyectos? ¿Por qué eligió esas herramientas?
+4. ¿Cómo realiza el seguimiento del avance de los proyectos?
+5. ¿Qué información necesita para tomar decisiones?
+6. ¿Qué busca mejorar en la gestión de sus proyectos?
+7. ¿Qué dificultades enfrenta al gestionar múltiples proyectos?
+8. ¿Qué problemas ha tenido con las herramientas actuales?
+9. ¿Qué dispositivos utilizan para trabajar? ¿Trabajan más desde móvil o computadora?
+10. ¿Estarían dispuestos a usar una herramienta que centralice todo?
+
+Preguntas complementarias:
+
+11. ¿Con qué frecuencia revisa el estado de los proyectos?
+12. ¿Qué tan fácil es acceder a la información de sus proyectos?
+13. ¿Cómo impactan las herramientas que utiliza en su trabajo?
+
+Segmento 2: Empresas que trabajan con múltiples proyectos
+
+Preguntas principales:
+1. ¿A qué se dedica su empresa o equipo? ¿Cuántas personas conforman el equipo?
+2. ¿Cuántos proyectos manejan actualmente? 
+3. ¿Cómo organizan sus proyectos actualmente?
+4. ¿Qué herramientas utilizan para coordinar el trabajo?
+5. ¿Qué necesitan para trabajar de forma más organizada?
+6. ¿Qué objetivo buscan al gestionar varios proyectos?
+7. ¿Qué problemas enfrentan al manejar varios proyectos?
+8. ¿Han tenido retrasos o descoordinación? Si es así, ¿Qué los causó?
+9. ¿Qué dispositivos utilizan para trabajar? ¿Trabajan más desde móvil o computadora?
+10. ¿Estarían dispuestos a usar una herramienta que centralice todo?
+
+Preguntas complementarias:
+
+11. ¿Los proyectos que manejan son simultáneos o escalonados?
+12. ¿Qué herramienta usan con mayor frecuencia?
+13. ¿Cuál es el problema más frecuente al gestionar varios proyectos?
+
+### 2.2.2 Registro de Entrevistas
+
+### 2.2.3 Análisis de Entrevistas
