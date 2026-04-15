@@ -203,36 +203,37 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td>Renzo Ademir</td>
+    <td>Valentín</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>Araos Chea</td>
+    <td>De La Cruz</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td>46 años</td>
+    <td>20 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td>Chorrillos</td>
+    <td>Villa El Salvador</td>
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src= alt="Entrevista a Renzo Araos"></td>
+    <td><div align="center"><img src="resources/images/chapter-2/entrevistas/imagen-seg2.png" alt= "Entrevista Valentin"></td>
   </tr>
   <tr>
     <td>Link</td>
-    <td><p><a target="_blank"  href="" title="Title">Microsoft Stream</p></td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202417405_upc_edu_pe/IQA4MvNRorS4T7kQReCtfhc4AbfVhPZNhd_VPbsltzwfdI0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=MKJ1YU" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
     <td>Duracion<br></td>
-    <td>0:00 min - 18:45 min</td>
+    <td>0:00 min - 09:09 min</td>
   </tr>
   <tr>
     <td>Resumen</td>
     <td>
-		text.
+		Valentín De La Cruz tiene 20 años y vive en Villa El Salvador. En la entrevista explica que trabaja, por lo que su rutina combina con una formación académica con responsabilidades laborales dentro de un grupo enfocado en la creación de plataformas digitales. El trabajo se organiza mediante roles definidos dentro del equipo: cada integrante cumple una función específica, como desarrollo, diseño o áreas vinculadas a la venta, mientras que hay una figura que dirige o coordina para mantener el orden y coordinar lo que se debe hacer.
+Respecto a retrasos en la coordinación, menciona que no suele ser frecuente, aunque puede ocurrir por falta de organización o porque no se ponen de acuerdo. En el fondo, refuerza que el orden y la coordinación entre roles son claves para que el equipo avance sin perder claridad. Finalmente, cuando se trata de la posibilidad de usar una herramienta nueva, indica que sí están dispuestos a incorporarla si realmente vuelve el trabajo más eficiente: que permita ahorrar tiempo, reducir desgaste y facilitar la ejecución. Muestra interés por una herramienta con enfoque más relacionado con la parte backend, siempre manteniendo el objetivo general de mejorar el modo de trabajar y disminuir los inconvenientes durante el desarrollo de los proyectos.
 </td>
   </tr>
 </tbody>
