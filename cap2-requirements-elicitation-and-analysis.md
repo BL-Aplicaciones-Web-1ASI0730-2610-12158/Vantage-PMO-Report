@@ -135,5 +135,55 @@ Preguntas complementarias:
 13. ¿Cuál es el problema más frecuente al gestionar varios proyectos?
 
 ### 2.2.2 Registro de Entrevistas
+En esta sección presentamos los registros de las entrevistas que hicimos para cada segmento objetivo de nuestra aplicación.
+
+**Segmento 1:**
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #1<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Renzo Ademir</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Araos Chea</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>46 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Chorrillos</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="resources/images/chapter-2/entrevistas/Interview-of-Renzo-Araos.png" alt="Entrevista a Renzo Araos"></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202417423_upc_edu_pe/IQC0CoaEB3RPR4QqUmL_mRuyAcIi05ATDfOo2zplcVH0t0M?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=fDdmqC" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>0:00 min - 18:45 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>
+		Renzo es un líder en gestión de proyectos con experiencia desde 2017. Trabaja en empresas que ofrecen soporte y mantenimiento de software. Ha participado en tres proyectos simultáneos como desarrollador de software en países extranjeros, además de otros proyectos informáticos. Utiliza Microsoft Project para el control y seguimiento del ciclo de vida de los proyectos de su equipo. Para la toma de decisiones, evalúa cómo abordar los proyectos según las necesidades del cliente. Busca mejorar la calidad de las entregas, asegurando que su equipo complete las tareas en el menor tiempo posible. Sin embargo, enfrenta dificultades con la documentación de proyectos al unirse a nuevos equipos, lo que le obliga a dedicar mucho tiempo y trabajar horas extras. La documentación actual es poco clara, extensa y desorganizada, lo que provoca retrasos en las entregas. Renzo revisa diariamente el estado de sus proyectos, realiza un seguimiento constante y considera que las herramientas que utiliza a diario tienen un impacto positivo en el éxito de sus proyectos.
+</td>
+  </tr>
+</tbody>
+</table>
+
 
 ### 2.2.3 Análisis de Entrevistas
