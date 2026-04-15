@@ -92,10 +92,16 @@ Incorporar funciones de importación y exportación de datos (por ejemplo, desde
 ## 2.2 Entrevistas
 
 ### 2.2.1 Diseño de Entrevistas
+ #### Preguntas presentacion
 
-Segmento 1: Líderes o jefes de gestión de proyectos
+- ¿Cual es su nombre?
+- ¿Cuántos años tiene?
+- ¿Cuál es su distrito de residencia?
+- ¿En qué escuela trabaja?
 
-Preguntas principales:
+ ### Segmento 1: Líderes o jefes de gestión de proyectos
+
+#### Preguntas principales:
 
 1. ¿Cuál es su rol actual dentro de la organización? ¿Cuántos años de experiencia tiene en gestión de proyectos?
 2. ¿En qué tipo de empresa trabaja? ¿Cuántos proyectos suelen manejar simultáneamente?
@@ -185,5 +191,51 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
 </tbody>
 </table>
 
+**Segmento 2:**
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #2<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Renzo Ademir</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Araos Chea</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>46 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Chorrillos</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src= alt="Entrevista a Renzo Araos"></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>0:00 min - 18:45 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>
+		text.
+</td>
+  </tr>
+</tbody>
+</table>
 
 ### 2.2.3 Análisis de Entrevistas
