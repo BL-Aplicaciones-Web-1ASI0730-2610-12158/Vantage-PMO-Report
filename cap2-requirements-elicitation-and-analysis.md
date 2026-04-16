@@ -336,4 +336,51 @@ Respecto a retrasos en la coordinación, menciona que no suele ser frecuente, au
 </table>
 
 
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #3<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Magali</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Alcántara Morales</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>46 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Barranco</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="resources/images/chapter-2/entrevistas/interview-of-magali-alcantara.png" alt= "Entrevista Magali"></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202411799_upc_edu_pe/IQCIk-wYhvL9S64DdG8iNugCAVBpJYBf_3jKg4wXJaMOcis?e=Y6tVUA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>0:00 min - 12:30 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>
+		Magali Alcántara es una empresaria independiente que lidera un negocio con un equipo de cuatro personas y gestiona varios proyectos vinculados a eventos, cuya cantidad varía según la demanda semanal, atendiendo en promedio entre tres y seis pedidos. La organización del trabajo se basa en aceptar encargos con anticipación para planificar tareas, compras y entregas, utilizando principalmente el teléfono móvil y herramientas básicas como WhatsApp y, ocasionalmente, Excel. Su objetivo principal es hacer crecer el negocio y llegar a más clientes; sin embargo, enfrenta dificultades relacionadas con la coordinación de entregas, la dependencia de proveedores y la gestión del tiempo. Aunque ha mejorado su organización, considera que el uso de una herramienta centralizada le permitiría optimizar el control de pedidos, insumos y capacidad operativa, reduciendo errores y descoordinaciones en la gestión de múltiples proyectos.
+</td>
+  </tr>
+</tbody>
+</table>
+
 ### 2.2.3 Análisis de Entrevistas
