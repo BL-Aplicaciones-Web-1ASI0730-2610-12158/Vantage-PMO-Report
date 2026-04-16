@@ -452,7 +452,7 @@ El User Persona de Renzo Araos revela una contradicción crítica entre su capac
 
 **Segmento 2**
 
-![User-Persona-1](resources/images/chapter-2/Needfinding/Segment-2/User-Persona-Katherine-Herrera.png)
+![User-Persona-2](resources/images/chapter-2/Needfinding/Segment-2/User-Persona-Katherine-Herrera.png)
 
 Por otro lado, el User Persona Katherine Herrera encarna a la líder operativa en sectores de alta rotación, como el farmacéutico, que enfrenta la complejidad de supervisar múltiples iniciativas críticas simultáneamente. Con un equipo de 12 personas a su cargo, Katherine opera en un entorno de alta presión donde la falta de una herramienta estandarizada la obliga a depender de un ecosistema fragmentado entre Excel y WhatsApp. Valora profundamente la precisión y la visibilidad inmediata de los estados de avance para asegurar el cumplimiento de plazos y la optimización de recursos. Aunque domina las herramientas tradicionales, sufre la frustración de la "ceguera operativa" causada por la dispersión de datos. Su mayor necesidad es una solución centralizada que le brinde control total y alertas automáticas, permitiéndole migrar de una gestión reactiva a una supervisión estratégica y eficiente.
 
@@ -509,3 +509,5 @@ En esta sección se presentan los User Journey Maps en su estado actual (As-Is),
 **Segmento 1**
 
 **Segmento 2**
+
+![User-Journey-Map-2](resources/images/chapter-2/Needfinding/Segment-2/User-Journey-Map-of-Katherine-Herrera.png)
