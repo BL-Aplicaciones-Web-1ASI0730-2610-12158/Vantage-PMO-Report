@@ -384,3 +384,58 @@ Respecto a retrasos en la coordinación, menciona que no suele ser frecuente, au
 </table>
 
 ### 2.2.3 Análisis de Entrevistas
+
+ **Segmento 1**: Líderes o jefes de gestión de proyectos
+
+Se analizaron 3 entrevistas a líderes con experiencia en gestión de proyectos de software, tanto a nivel operativo como estratégico. La información recopilada permitió identificar características objetivas y subjetivas comunes que representan las necesidades, comportamientos y retos del segmento, las cuales sirven como base para la construcción de los arquetipos.
+
+| Característica | Mención | % | Evidencia |
+| :--- | :---: | :---: | :--- |
+| **Más de 5 años de experiencia en gestión de proyectos** | 3/3 | 100% | Todos los entrevistados mencionan su trayectoria, desde los 7 años hasta los 15 años. |
+| **Gestión simultánea de múltiples proyectos** | 3/3 | 100% | Recalcan participar desde 3 proyectos hasta 10 de estos de manera simultánea. |
+| **Uso de herramientas formales de gestión de proyectos** | 3/3 | 100% | Todos utilizan Microsoft Project; Víctor además emplea Jira. |
+| **Seguimiento constante del avance de proyectos** | 3/3 | 100% | Los entrevistados revisan diariamente el estado de sus proyectos. |
+| **Enfoque en la toma de decisiones basada en información** | 3/3 | 100% | Ellos evalúan las necesidades del cliente, además de analizar plazos, avances y causas de desviaciones. |
+| **Importancia de la comunicación dentro del equipo** | 2/3 | 66,6% | Destacan la comunicación transparente, otros dependen de la información |
+| **Dificultades asociadas a la gestión del equipo o información** | 3/3 | 100% | Problemas con la documentación desordenada. |
+| **Uso de metodologías ágiles o prácticas asociadas** | 1/3 | 33,3% | Solo Victor trabaja bajo enfoques ágiles con reuniones. |
+| **Trabajo en entornos tecnológicos complejos** | 3/3 | 33,3% | Ambos participan en proyectos de desarrollo de software. |
+| **Valoración positiva del impacto de las herramientas** | 3/3 | 100% | Recalcan que las herramientas dependen del éxito del proyecto. |
+
+
+**Insights Destacados**
+
+* **Alta dependencia de herramientas de gestión para el control de proyectos:**   El 100% de los entrevistados utiliza herramientas formales como Microsoft Project y Jira para planificar, controlar y dar seguimiento a los proyectos. Esto demuestra que los líderes de este segmento consideran indispensable el soporte tecnológico para manejar múltiples proyectos de manera eficiente.
+* **El seguimiento continuo es clave para el éxito del proyecto:**  Ambos líderes realizan revisiones diarias del estado de los proyectos, lo que evidencia que el monitoreo constante es una práctica esencial para detectar desviaciones a tiempo y asegurar el cumplimiento de plazos y objetivos.
+* **La calidad de la información impacta directamente en la toma de decisiones:**  Las entrevistas muestran que los problemas más frecuentes no siempre provienen de las herramientas, sino de la información incompleta, desordenada o mal comunicada (documentación deficiente o diferencias en el nivel del equipo), lo que afecta la eficiencia del liderazgo.
+* **La gestión del equipo es tan crítica como la gestión técnica**  El 100% de los entrevistados enfrenta retos relacionados con las personas: desde documentación poco clara hasta diferencias en experiencia técnica. Esto indica que los líderes no solo requieren herramientas técnicas, sino también soluciones que faciliten la comunicación, el orden y la alineación del equipo.
+* **Disposición a adoptar soluciones que mejoren productividad y control:**  Ambos líderes reconocen que las herramientas actuales tienen un impacto positivo en la productividad y están abiertos a soluciones más centralizadas e innovadoras, siempre que ayuden a mejorar el control, la calidad y la eficiencia del trabajo.
+
+---
+
+
+**Segmento 2**: Empresas o Emprendimientos Multitarea
+
+Se analizaron 3 entrevistas a personas que forman parte de empresas o emprendimientos que gestionan múltiples proyectos de manera simultánea, en contextos distintos (negocio independiente, empresa corporativa y equipo de desarrollo digital). La información recopilada permitió identificar características objetivas y subjetivas comunes que representan las necesidades, problemas y expectativas de este segmento, las cuales sirven como base para la construcción de los arquetipos.
+
+
+| Característica | Mención | % | Evidencia |
+| :--- | :---: | :---: | :--- |
+| **Gestión simultánea de múltiples proyectos** | 3/3 | 100% | Gestionan entre 3 y 8 pedidos y proyectos, trabajan en varios frentes de desarrollo. |
+| **Equipos de trabajo pequeños o medianos** | 3/3 | 100% | Depende del liderazgo y/o organización como el repartimiento de roles. |
+| **Uso de herramientas básicas y no centralizadas** | 3/3 | 100% | Uso de WhatsApp, Excel, Google Drive y herramientas informales. |
+| **Falta de estandarización en la gestión** | 3/3 | 100% | Información dispersa, anotaciones manuales y ausencia de procesos formales. |
+| **Dependencia alta de la comunicación informal** | 3/3 | 100% | Coordinación por llamadas, mensajes y acuerdos verbales. |
+| **Problemas de coordinación o control** | 2/3 | 66,6% | Magaly por tiempos y proveedores; Katherine por falta de control. |
+| **Retrasos por falta de organización o seguimiento** | 3/3 | 100% | Crecimiento del negocio, optimización de recursos y eficiencia del equipo. |
+| **Objetivo de crecimiento o mejora operativa** | 1/3 | 33,3% | Los tres expresan interés en adoptar una solución digital. |
+| **Disposición a usar una herramienta centralizada** | 3/3 | 100% | Los tres expresan interés en adoptar una solución digital. |
+| **Requisito de facilidad de uso** | 3/3 | 100% | Katherine y Valentín resaltan que no debe ser compleja ni demandar mucha capacitación. |
+
+**Insights Destacados**
+
+* **La gestión de múltiples proyectos se realiza de forma mayormente informal:**   El 100% de los entrevistados gestiona varios proyectos a la vez utilizando herramientas básicas y no integradas. Esto genera desorden, pérdida de información y dependencia excesiva de la memoria o comunicación verbal.
+* **La falta de centralización es la principal fuente de errores:**   Las entrevistas evidencian que los problemas más comunes (olvidos, retrasos, duplicidad de información) no se deben a la cantidad de proyectos, sino a la ausencia de una herramienta única que concentre pedidos, tareas, responsables y tiempos.
+* **La comunicación es clave, pero insuficiente sin soporte tecnológico:**  Aunque todos destacan la importancia de coordinarse bien, el uso exclusivo de WhatsApp o llamadas no garantiza control ni trazabilidad, especialmente cuando los proyectos aumentan o los equipos crecen.
+* **Existe alta disposición a digitalizar la gestión, con condiciones claras**  El 100% de los entrevistados está dispuesto a adoptar una herramienta centralizada, siempre que sea fácil de usar, ahorre tiempo, reduzca errores y no requiera procesos complejos de capacitación.
+---
