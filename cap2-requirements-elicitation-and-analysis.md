@@ -445,6 +445,9 @@ Se analizaron 3 entrevistas a personas que forman parte de empresas o emprendimi
 En esta sección describe dos User Personas que reflejan los principales segmentos a los que está dirigida mi solución los Líderes y Jefes de Gestión de Proyectos, así como las Empresas Medianas y Grandes que manejan múltiples portafolios. A través de estos perfiles busco entender mejor sus necesidades, motivaciones, frustraciones y comportamientos, con la finalidad de diseñar una plataforma que mejore la gestión de proyectos, incremente la visibilidad de la operación y facilite una toma de decisiones más estratégica y oportuna.
 
 **Segmento 1**
+![User-Persona-1](resources/images/chapter-2/Needfinding/Segment-1/User-Persona-Renzo-Araos.png)
+
+El User Persona de Renzo Araos revela una contradicción crítica entre su capacidad estratégica y las limitaciones operativas de su entorno. Aunque posee una sólida base técnica y experiencia internacional que le permiten liderar con una visión de eficiencia (buscando reducir el time-to-market), su productividad se ve severamente truncada por una "deuda documental" en los equipos a los que se integra. Para un perfil que valora tanto el control diario y la optimización mediante herramientas como Microsoft Project, la falta de estándares en la información no solo representa un retraso en las entregas, sino un riesgo para su bienestar profesional al obligarlo a compensar deficiencias organizacionales con horas extras. En última instancia, el éxito de Renzo depende de encontrar una solución que transforme la documentación de un obstáculo denso y desorganizado en un activo ágil que facilite la toma de decisiones.
 
 **Segmento 2**
 
@@ -459,6 +462,24 @@ En esta sección se desarrolla el User Task Matrix, en el cual identifica las pr
 Estas tareas corresponden a acciones habituales dentro de su dinámica laboral, necesarias para alcanzar sus objetivos, sin depender necesariamente de una solución digital. Este análisis nos permite comprender cómo trabajan actualmente, así como detectar ineficiencias y oportunidades donde la plataforma puede generar valor.
 
 **Segmento 1**
+|                                             Task   | Frequency | Importance |
+|-------------------------------------------------------------|----------|------------|
+| Seguimiento del estado de los proyectos                        | Daily       | Critical   |
+| Actualización de cronogramas en MS Project                     | Daily       | High       |
+| Evaluación de necesidades del cliente para toma de decisiones. | Weekly      | Critical   |
+| Revisión y análisis de documentación existente.                | Weekly      | Medium     |
+| Coordinación con el equipo de desarrollo para optimizar tiempos| Daily       | High       |
+| Gestión de soporte y mantenimiento de software                 | Constant    | Hight      |
+| Reporte de progreso y calidad de entregas                      | Weekly      | Medium     |
+| Redacción y organización de nueva documentación técnica        | Occasionally| Hight      |
+
+**Análisis**
+
+- Foco en el Control Riguroso: La alta frecuencia y criticidad del seguimiento diario y el uso de MS Project confirman que el éxito de Renzo depende de la visibilidad constante sobre el ciclo de vida del proyecto.
+
+- Conflicto de Eficiencia: Existe una contradicción entre su meta de "completar tareas en el menor tiempo" y la tarea de revisión de documentación; esta última, aunque es de importancia media/alta, actúa como un cuello de botella que consume recursos desproporcionados.
+
+- Prioridad Estratégica: La matriz revela que su valor principal no es solo técnico, sino la alineación continua con el cliente, asegurando que el esfuerzo del equipo de desarrollo se traduzca realmente en calidad y entregas oportunas.
 
 **Segmento 2**
 
