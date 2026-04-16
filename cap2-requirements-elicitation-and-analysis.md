@@ -439,3 +439,17 @@ Se analizaron 3 entrevistas a personas que forman parte de empresas o emprendimi
 * **La comunicación es clave, pero insuficiente sin soporte tecnológico:**  Aunque todos destacan la importancia de coordinarse bien, el uso exclusivo de WhatsApp o llamadas no garantiza control ni trazabilidad, especialmente cuando los proyectos aumentan o los equipos crecen.
 * **Existe alta disposición a digitalizar la gestión, con condiciones claras**  El 100% de los entrevistados está dispuesto a adoptar una herramienta centralizada, siempre que sea fácil de usar, ahorre tiempo, reduzca errores y no requiera procesos complejos de capacitación.
 ---
+## 2.3 Needfinding
+
+### 2.3.1. User Personas
+En esta sección describe dos User Personas que reflejan los principales segmentos a los que está dirigida mi solución los Líderes y Jefes de Gestión de Proyectos, así como las Empresas Medianas y Grandes que manejan múltiples portafolios. A través de estos perfiles busco entender mejor sus necesidades, motivaciones, frustraciones y comportamientos, con la finalidad de diseñar una plataforma que mejore la gestión de proyectos, incremente la visibilidad de la operación y facilite una toma de decisiones más estratégica y oportuna.
+
+**Segmento 1**
+
+**Segmento 2**
+
+Por otro lado, el User Persona Katherine Herrera encarna a la líder operativa en sectores de alta rotación, como el farmacéutico, que enfrenta la complejidad de supervisar múltiples iniciativas críticas simultáneamente. Con un equipo de 12 personas a su cargo, Katherine opera en un entorno de alta presión donde la falta de una herramienta estandarizada la obliga a depender de un ecosistema fragmentado entre Excel y WhatsApp. Valora profundamente la precisión y la visibilidad inmediata de los estados de avance para asegurar el cumplimiento de plazos y la optimización de recursos. Aunque domina las herramientas tradicionales, sufre la frustración de la "ceguera operativa" causada por la dispersión de datos. Su mayor necesidad es una solución centralizada que le brinde control total y alertas automáticas, permitiéndole migrar de una gestión reactiva a una supervisión estratégica y eficiente.
+
+![User-Persona-1](resources/images/chapter-2/Needfinding/Segment-2/User-Persona-Katherine-Herrera.png)
+
+
