@@ -448,8 +448,34 @@ En esta sección describe dos User Personas que reflejan los principales segment
 
 **Segmento 2**
 
-Por otro lado, el User Persona Katherine Herrera encarna a la líder operativa en sectores de alta rotación, como el farmacéutico, que enfrenta la complejidad de supervisar múltiples iniciativas críticas simultáneamente. Con un equipo de 12 personas a su cargo, Katherine opera en un entorno de alta presión donde la falta de una herramienta estandarizada la obliga a depender de un ecosistema fragmentado entre Excel y WhatsApp. Valora profundamente la precisión y la visibilidad inmediata de los estados de avance para asegurar el cumplimiento de plazos y la optimización de recursos. Aunque domina las herramientas tradicionales, sufre la frustración de la "ceguera operativa" causada por la dispersión de datos. Su mayor necesidad es una solución centralizada que le brinde control total y alertas automáticas, permitiéndole migrar de una gestión reactiva a una supervisión estratégica y eficiente.
-
 ![User-Persona-1](resources/images/chapter-2/Needfinding/Segment-2/User-Persona-Katherine-Herrera.png)
 
+Por otro lado, el User Persona Katherine Herrera encarna a la líder operativa en sectores de alta rotación, como el farmacéutico, que enfrenta la complejidad de supervisar múltiples iniciativas críticas simultáneamente. Con un equipo de 12 personas a su cargo, Katherine opera en un entorno de alta presión donde la falta de una herramienta estandarizada la obliga a depender de un ecosistema fragmentado entre Excel y WhatsApp. Valora profundamente la precisión y la visibilidad inmediata de los estados de avance para asegurar el cumplimiento de plazos y la optimización de recursos. Aunque domina las herramientas tradicionales, sufre la frustración de la "ceguera operativa" causada por la dispersión de datos. Su mayor necesidad es una solución centralizada que le brinde control total y alertas automáticas, permitiéndole migrar de una gestión reactiva a una supervisión estratégica y eficiente.
 
+### 2.3.2. User Task Matrix
+
+En esta sección se desarrolla el User Task Matrix, en el cual identifica las principales actividades que realizan los User Personas los Líderes y Jefes de Gestión de Proyectos y las Empresas Medianas y Grandes que gestionan múltiples portafolios.
+
+Estas tareas corresponden a acciones habituales dentro de su dinámica laboral, necesarias para alcanzar sus objetivos, sin depender necesariamente de una solución digital. Este análisis nos permite comprender cómo trabajan actualmente, así como detectar ineficiencias y oportunidades donde la plataforma puede generar valor.
+
+**Segmento 1**
+
+**Segmento 2**
+
+|                                             Task   | Frequency | Importance |
+|-------------------------------------------------------------|----------|------------|
+| Definir responsables y plazos de entrega                     | High     | Critical   |
+| Monitorear el avance de los 6-8 proyectos simultáneos        | Daily    | Critical   |
+| Coordinar con personal administrativo y de tienda            | Constant | High       |
+| Supervisar la implementación de campañas y nuevos servicios  | Weekly   | Medium     |
+| Consolidar información para toma de decisiones               | Biweekly | High       |
+| Recordar tareas próximas a vencer                            | Daily    | Critical   |
+
+**Análisis**
+
+
+- Las tareas con frecuencia Diaria/Constante e importancia Crítica (Seguimiento, Alertas y Comunicación) son las que mantienen a Katherine en un estado "reactivo". Automatizar este cuadrante permitirá que pase de ser una "incendiaria" (resolviendo urgencias) a una "estratega".
+
+- El hecho de que la tarea de Alertas sea "Crítica" pero su herramienta actual sea "Manual/Memoria" revela un vacío tecnológico peligroso. Esta es la funcionalidad "gancho" que asegura la retención del usuario en tu plataforma.
+
+- Existe una desconexión entre la importancia de la Comunicación (Constante) y el Reporteo. Al estar en canales distintos, el reporte nunca refleja las sutilezas o problemas discutidos en el chat diario.
