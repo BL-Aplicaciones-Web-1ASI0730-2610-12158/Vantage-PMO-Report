@@ -17,7 +17,7 @@
 
 ### Informe de Trabajo Final
 
-**Nombre del startup:** Launchpad-PE
+**Nombre del startup:** MDEPS
 
 **Nombre del producto:** Vantage PMO 
 
