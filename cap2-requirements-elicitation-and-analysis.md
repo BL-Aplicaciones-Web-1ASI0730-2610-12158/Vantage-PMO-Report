@@ -445,6 +445,7 @@ Se analizaron 3 entrevistas a personas que forman parte de empresas o emprendimi
 En esta sección describe dos User Personas que reflejan los principales segmentos a los que está dirigida mi solución los Líderes y Jefes de Gestión de Proyectos, así como las Empresas Medianas y Grandes que manejan múltiples portafolios. A través de estos perfiles busco entender mejor sus necesidades, motivaciones, frustraciones y comportamientos, con la finalidad de diseñar una plataforma que mejore la gestión de proyectos, incremente la visibilidad de la operación y facilite una toma de decisiones más estratégica y oportuna.
 
 **Segmento 1**
+
 ![User-Persona-1](resources/images/chapter-2/Needfinding/Segment-1/User-Persona-Renzo-Araos.png)
 
 El User Persona de Renzo Araos revela una contradicción crítica entre su capacidad estratégica y las limitaciones operativas de su entorno. Aunque posee una sólida base técnica y experiencia internacional que le permiten liderar con una visión de eficiencia (buscando reducir el time-to-market), su productividad se ve severamente truncada por una "deuda documental" en los equipos a los que se integra. Para un perfil que valora tanto el control diario y la optimización mediante herramientas como Microsoft Project, la falta de estándares en la información no solo representa un retraso en las entregas, sino un riesgo para su bienestar profesional al obligarlo a compensar deficiencias organizacionales con horas extras. En última instancia, el éxito de Renzo depende de encontrar una solución que transforme la documentación de un obstáculo denso y desorganizado en un activo ágil que facilite la toma de decisiones.
@@ -500,3 +501,11 @@ Estas tareas corresponden a acciones habituales dentro de su dinámica laboral, 
 - El hecho de que la tarea de Alertas sea "Crítica" pero su herramienta actual sea "Manual/Memoria" revela un vacío tecnológico peligroso. Esta es la funcionalidad "gancho" que asegura la retención del usuario en tu plataforma.
 
 - Existe una desconexión entre la importancia de la Comunicación (Constante) y el Reporteo. Al estar en canales distintos, el reporte nunca refleja las sutilezas o problemas discutidos en el chat diario.
+
+### 2.3.3. User Journey Mapping
+
+En esta sección se presentan los User Journey Maps en su estado actual (As-Is), los cuales muestran el flujo de trabajo de los usuarios sin el uso de Vantage PMO. Este análisis permite entender cómo se desarrollan sus procesos, desde la identificación de necesidades hasta la entrega de resultados. Además, se destacan las principales etapas, acciones y puntos de contacto, así como los problemas derivados del uso de herramientas no integradas. Esto evidencia altos niveles de frustración y permite identificar oportunidades clave de mejora que la solución busca resolver, especialmente en la visibilidad operativa y la reducción de la carga administrativa.
+
+**Segmento 1**
+
+**Segmento 2**
