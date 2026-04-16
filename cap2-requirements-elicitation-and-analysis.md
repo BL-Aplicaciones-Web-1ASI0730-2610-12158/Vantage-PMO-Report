@@ -508,6 +508,8 @@ En esta sección se presentan los User Journey Maps en su estado actual (As-Is),
 
 **Segmento 1**
 
+![User-Journey-Map-1](resources/images/chapter-2/Needfinding/Segment-1/User-Journey-Map-of-Renzo-Araos.png)
+
 **Segmento 2**
 
 ![User-Journey-Map-2](resources/images/chapter-2/Needfinding/Segment-2/User-Journey-Map-of-Katherine-Herrera.png)
