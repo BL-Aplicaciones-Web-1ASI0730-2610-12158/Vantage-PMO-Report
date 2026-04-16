@@ -41,6 +41,20 @@
 <div class="page"></div>
 
 ## Registro de Versiones del Informe
+  
+| Versión | Fecha | Autor | Descripción de modificación |
+| :--- | :--- | :--- | :--- |
+| **1.1** | 09/04/26 | [Alvaro Rocha] | [Se redactó la descripción de la startup profile y el perfil de los estudiantes.] |
+| **1.2** | 09/04/26 | [Mauricio Teran] | [Se realizó los antecedentes y problemática de nuestro proyecto.] |
+| **1.3** | 09/04/26 | [Dylan Guillen] | [Se realizó los puntos del lean UX process] |
+| **1.4** | 09/04/26 | [Diego Esquicha] | [Se realizó los segmentos objetivos de nuestro proyecto] |
+| **1.5** | 10/04/26 | [Alvaro Rocha] | [Se realizó el análisis competitivo y las estrategias frente a competidores] |
+| **2.1** | 10/04/26 | [Diego Esquicha] | [Se realizó el diseño de las entrevistas de cada segmento] |
+| **2.2** | 14/04/26 | [Mauricio Teran] | [Se registro la primera entrevista del segmento 1] |
+| **2.3** | 15/04/26 | [César Quispe] | [Se registro la primera entrevista del segmento 2] |
+| **2.4** | 15/04/26 | [Alvaro Rocha] | [Se registro otra entrevista del segmento 2] |
+
+
 
 # Project Report Collaboration Insights
 
