@@ -1,5 +1,5 @@
 # Requirements Elicitation & Analysis
-La recolección y análisis de requisitos es una etapa fundamental en el desarrollo de la plataforma Vantage PMO, ya que permite identificar y comprender las necesidades de los stakeholders involucrados en la gestión de proyectos. A través de técnicas como entrevistas, análisis de la competencia y evaluación de escenarios de uso, se busca obtener una visión clara de problemáticas como la falta de visibilidad, la fragmentación de la información y la ausencia de estandarización en los procesos. Este análisis permite definir los requerimientos clave del sistema, estableciendo una base sólida para el diseño y desarrollo de una solución que optimice la gestión de proyectos y mejore la toma de decisiones dentro de las organizaciones.
+La recolección y análisis de requisitos es una etapa fundamental en el desarrollo de la plataforma Vantage PMO, ya que permite identificar y comprender las necesidades de los stakeholders involucrados en la gestión de proyectos. A través de técnicas como entrevistas, análisis de la competencia y evaluación de escenarios de uso, se busca obtener una visión clara de problemáticas como la falta de visibilidad, la fragmentación de la información y la ausencia de estandarización en los procesos. Este análisis permite definir los requerimientos clave del sistema, estableciendo una base sólida para el diseño y desarrollo de una solución que optimice la gestión de proyectos y mejore la toma de decisiones dentro de las organizaciones. 
 
 ## 2.1 Competidores
 En la siguiente sección se presentarán los principales competidores de nuestra solución, así como un análisis general de sus características en comparación con el servicio propuesto.
@@ -191,13 +191,61 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
 </tbody>
 </table>
 
-**Segmento 2:**
+
 <table>
 <colgroup>
 </colgroup>
 <thead>
   <tr>
     <th colspan="2">Entrevista #2<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Victor</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Esquicha Paz</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>53 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Barranco</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="resources/images/chapter-2/entrevistas/interview-of-victor-esquicha.png" alt="Entrevista a Victor Esquicha"></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202417423_upc_edu_pe/IQC0CoaEB3RPR4QqUmL_mRuyAcIi05ATDfOo2zplcVH0t0M?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=fDdmqC" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>0:00 min - 16:30 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>
+		Víctor es un líder en gestión de proyectos con más de 15 años de experiencia y se desempeña como Technology Engineering Manager en Scotiabank, donde lidera un equipo de aproximadamente 15 personas y gestiona un portafolio de más de 10 proyectos simultáneos de desarrollo de software para la banca comercial. En su labor utiliza herramientas estandarizadas como Jira y Microsoft Project, trabajando bajo enfoques ágiles con seguimiento diario mediante reuniones daily para controlar el avance de tareas y subtareas. Para la toma de decisiones, considera fundamental que el equipo tenga claridad sobre las tareas, los plazos y el progreso, además de una comunicación transparente que permita corregir desviaciones y reconocer el buen desempeño. Uno de los principales desafíos que enfrenta es la diversidad en el nivel técnico de su equipo, lo que lo lleva a delegar liderazgos y capacitar a los miembros con menor experiencia. Trabaja bajo un esquema híbrido con estrictas políticas de seguridad y resalta que la adopción de herramientas centralizadas e innovaciones como soluciones basadas en inteligencia artificial ha mejorado la productividad, el control y la calidad en la gestión de proyectos.
+</td>
+  </tr>
+</tbody>
+</table>
+
+
+**Segmento 2:**
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #1<br></th>
   </tr>
 </thead>
 <tbody>
@@ -246,7 +294,7 @@ Respecto a retrasos en la coordinación, menciona que no suele ser frecuente, au
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #3<br></th>
+    <th colspan="2">Entrevista #2<br></th>
   </tr>
 </thead>
 <tbody>
