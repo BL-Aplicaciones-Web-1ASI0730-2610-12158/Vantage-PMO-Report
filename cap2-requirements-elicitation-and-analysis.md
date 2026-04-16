@@ -239,4 +239,53 @@ Respecto a retrasos en la coordinación, menciona que no suele ser frecuente, au
 </tbody>
 </table>
 
+
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #3<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Katherine</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Herrera Cotrina</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>37 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Ancón</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="resources/images/chapter-2/entrevistas/interview-of-Katherine-Herrera.png" alt= "Entrevista Katherine"></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202411243_upc_edu_pe/IQB_lulNW_ssRZywowm66wW8AdFrs7YfvAnksnLAIUnYOrA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=yWGYuJ" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>0:00 min - 04:45 min</td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>
+		Katherine Herrera es coordinadora de operaciones en una cadena de farmacias, donde supervisa campañas comerciales, implementación de servicios y mejoras operativas junto a un equipo de 12 personas. Actualmente gestiona entre 6 y 8 proyectos simultáneamente, lo que dificulta su control. Utiliza herramientas como Excel, Google Drive, WhatsApp y ocasionalmente Trello, pero sin una estandarización, lo que provoca información dispersa. Su objetivo es cumplir plazos, optimizar recursos y mejorar la toma de decisiones mediante mayor visibilidad. Sin embargo, enfrenta problemas como falta de control, comunicación deficiente, duplicidad de información y retrasos por ausencia de seguimiento claro. Considera que Excel no es suficiente y necesita una herramienta centralizada con alertas y recordatorios. Está dispuesta a adoptar una solución digital siempre que sea fácil de usar y no requiera mucha capacitación.
+</td>
+  </tr>
+</tbody>
+</table>
+
+
 ### 2.2.3 Análisis de Entrevistas
