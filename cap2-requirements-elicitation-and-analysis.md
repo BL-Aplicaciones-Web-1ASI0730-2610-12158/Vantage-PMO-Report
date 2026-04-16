@@ -517,4 +517,10 @@ En esta sección se presentan los User Journey Maps en su estado actual (As-Is),
 ### 2.3.4. Empathy Mapping
 Se ha elaborado el Empathy Map para cada uno de nuestros User Personas con el fin de profundizar en su realidad cotidiana, logrando así una comprensión genuina de sus necesidades. Este análisis nos permite conectar con sus motivaciones más profundas y visualizar los obstáculos que enfrentan, garantizando que las soluciones propuestas no solo sean técnicas, sino que respondan verdaderamente a sus frustraciones y metas personales.
 
+**Segmento 1**
+
 ![Empathy-Map-1](resources/images/chapter-2/Needfinding/Segment-1/Empathy-Map-of-Renzo-Araos.png)
+
+**Segmento 2**
+
+![Empathy-Map-2](resources/images/chapter-2/Needfinding/Segment-2/Empathy-Map-of-Katherine-Herrera.png)
