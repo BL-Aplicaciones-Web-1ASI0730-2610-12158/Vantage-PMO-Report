@@ -1,8 +1,6 @@
-# 3.2. User Stories
+# 3.1. User Stories
 
 En esta sección se veran las historias de usuario que ayudaran en el desarrollo de la plataforma Vantage, enfocadandonos en resolver la fragmentación de la información y mejorar el control estratégico.
-
-# 3.2. User Stories
 
 ## EP01: Gestión de Portafolio y Proyectos.
 
