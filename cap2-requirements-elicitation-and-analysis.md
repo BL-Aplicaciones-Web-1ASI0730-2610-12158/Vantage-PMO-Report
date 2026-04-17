@@ -524,3 +524,31 @@ Se ha elaborado el Empathy Map para cada uno de nuestros User Personas con el fi
 **Segmento 2**
 
 ![Empathy-Map-2](resources/images/chapter-2/Needfinding/Segment-2/Empathy-Map-of-Katherine-Herrera.png)
+
+
+## 2.4 Ubiquitous Language
+
+El "Ubiquitous Language" será una herramienta fundamental en el desarrollo del proyecto Vantage PMO, ya que permitirá establecer un lenguaje común entre todos los miembros del equipo y stakeholders. Esto facilitará la comunicación, evitando ambigüedades y asegurando una comprensión clara de los conceptos clave dentro del dominio de la gestión de proyectos.
+
+| Term                                | Definition                                                                                                                         |
+| ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| **Project**                         | A set of activities managed within the platform to achieve specific objectives, including tasks, resources, and progress tracking. |
+| **Portfolio**                       | A group of projects managed simultaneously within an organization, allowing centralized monitoring and control.                    |
+| **Project Manager**                 | The user responsible for managing projects, updating progress, and ensuring task completion.                                       |
+| **Stakeholder**                     | The user who reviews project progress and uses information to make strategic decisions.                                            |
+| **PMO (Project Management Office)** | The organizational structure responsible for overseeing multiple projects and ensuring standardized management.                    |
+| **Task**                            | A unit of work within a project that must be updated and monitored as part of project progress.                                    |
+| **Resource**                        | An element assigned to projects or tasks, such as team members involved in execution.                                              |
+| **Dashboard**                       | A centralized view that displays real-time information about project progress and status.                                          |
+| **Project Status**                  | The current state of a project based on its progress, typically used for monitoring and decision-making.                           |
+| **Alert**                           | A notification generated when there are deviations in project progress, such as delays or issues.                                  |
+| **Report**                          | A generated summary of project performance used for evaluation and decision-making.                                                |
+| **KPI (Key Performance Indicator)** | Metrics used within the platform to measure project performance and progress.                                                      |
+| **Resource Allocation**             | The assignment of resources to projects or tasks to ensure proper execution.                                                       |
+| **Project Health**                  | An overall evaluation of a project based on its progress and performance indicators.                                               |
+
+________________________________________
+Implementation example: <br>
+- When a **Project Manager** manages a **Project**, they update **Tasks** and assign **Resources** to track progress. <br>
+- When a **Stakeholder** reviews information, they use the **Dashboard** to analyze **Project Status**, KPIs, and Alerts. <br>
+- When the **PMO** oversees multiple projects, it organizes them into a **Portfolio** and monitors **Project Health** and **Resource Allocation.** <br>
