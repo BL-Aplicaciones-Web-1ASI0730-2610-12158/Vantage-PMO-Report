@@ -525,8 +525,13 @@ Se ha elaborado el Empathy Map para cada uno de nuestros User Personas con el fi
 
 ![Empathy-Map-2](resources/images/chapter-2/Needfinding/Segment-2/Empathy-Map-of-Katherine-Herrera.png)
 
+## 2.4 Big Picture EventStorming
 
-## 2.4 Ubiquitous Language
+![EventStorming](resources/images/chapter-2/EventStorming/big-picture-eventstorming.png)
+
+
+
+## 2.5 Ubiquitous Language
 
 El "Ubiquitous Language" será una herramienta fundamental en el desarrollo del proyecto Vantage PMO, ya que permitirá establecer un lenguaje común entre todos los miembros del equipo y stakeholders. Esto facilitará la comunicación, evitando ambigüedades y asegurando una comprensión clara de los conceptos clave dentro del dominio de la gestión de proyectos.
 
