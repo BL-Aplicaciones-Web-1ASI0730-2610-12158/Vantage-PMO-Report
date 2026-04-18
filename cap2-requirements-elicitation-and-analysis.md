@@ -527,8 +527,43 @@ Se ha elaborado el Empathy Map para cada uno de nuestros User Personas con el fi
 
 ## 2.4 Big Picture EventStorming
 
+En esta sección, el equipo de **MDEPS** presenta el resultado de la sesión colaborativa de Big Picture Event Storming, diseñada para explorar el "landscape" del negocio de gestión de proyectos. El objetivo fue identificar los Eventos de Dominio (hechos ocurridos representados en naranja) y los Actores (roles responsables en amarillo) que dan vida a la plataforma Vantage PMO.
+
 ![EventStorming](resources/images/chapter-2/EventStorming/big-picture-eventstorming.png)
 
+**Explicación de las Etapas del Event Storming:**
+
+
+**Etapa 1: Definición e Inicio del Proyecto** <br>
+Es el punto de entrada donde se rompe el "desorden informativo".
+
+- **Business need identified & Initial requirements collected:** El Customer y el Project Leader establecen el alcance. En esta etapa, Vantage PMO actúa como el receptáculo central para evitar que los requerimientos se pierdan en correos o WhatsApp.
+
+- **Project created:** El Administrator formaliza la entidad del proyecto, disparando la creación del dashboard unificado.
+
+**Etapa 2: Planificación y Establecimiento de Estándares** <br>
+Aquí el equipo enfoca sus esfuerzos en la "Estandarización de Procesos".
+
+- **Technical documentation received & Document quality standard validated:** Se asegura que el proyecto cumpla con los marcos de trabajo de la PMO.
+
+- **Schedule synchronized with MS Project:** Refleja la capacidad de integración de nuestra solución para centralizar cronogramas y eliminar la "ceguera operativa".
+
+**Etapa 3: Ejecución y Monitoreo en Tiempo Real** <br>
+Esta es la fase operativa donde Vantage PMO genera el mayor valor estratégico.
+
+- **Work team assigned:** El Project Leader gestiona los recursos humanos, una de las hipótesis clave de nuestra optimización.
+
+- **Software task started & Daily tracking registered:** Los Developers registran sus avances. Este evento es vital porque alimenta automáticamente el Dashboard en tiempo real, permitiendo que los Stakeholders tomen decisiones informadas sin esperar reportes manuales.
+
+**Etapa 4: Entrega, Validación y Valor de Negocio** <br> El cumplimiento de hitos y la satisfacción del cliente.
+
+- **Quality deliverable uploaded & Software deployed to production:** El Developer y el Customer cierran el ciclo de entrega. Aquí se valida nuestra hipótesis de reducir el tiempo de reporteo mensual, ya que el sistema ya cuenta con la data del avance diario.
+
+**Etapa 5: Continuidad y Cierre Administrativo** <br>Garantizar la rentabilidad y el aprendizaje organizacional.
+
+- **Maintenance ticket generated:** El Support Specialist gestiona el post-lanzamiento, asegurando una retención superior al 90%.
+
+- **Project closed with updated documentation:** El Project Leader finaliza el proceso, asegurando que toda la trazabilidad quede guardada en el repositorio central de documentos de la plataforma.
 
 
 ## 2.5 Ubiquitous Language
