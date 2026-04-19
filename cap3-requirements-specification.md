@@ -1,7 +1,7 @@
-### 3.1. User Stories
+## 3.1. User Stories
 En esta sección se verán las historias de usuario que ayudarán en el desarrollo de la plataforma Vantage, enfocándonos en resolver la fragmentación de la información y mejorar el control estratégico.
 
-## 1. Landing Page (Presentación y Conversión)
+### 1. Landing Page (Presentación y Conversión)
 | ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID)|
 | :--- | :--- | :--- | :--- | :--- |
 | **US20** | Autenticación (Acceso) | **Como** usuario, **quiero** iniciar sesión **para** acceder a mis proyectos de forma segura. | **Dado que** el usuario ingresa credenciales, **cuando** son válidas, **entonces** se redirige al dashboard principal. | **EP07: User** |
@@ -10,7 +10,7 @@ En esta sección se verán las historias de usuario que ayudarán en el desarrol
 
 ---
 
-## 2. Web Application (Frontend Interactivo)
+### 2. Web Application (Frontend Interactivo)
 | ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID)|
 | :--- | :--- | :--- | :--- | :--- |
 | **US56** | Formulario Web | **Como** usuario, **quiero** llenar campos validados **para** no enviar errores al servidor. | **Dado que** el campo es obligatorio, **cuando** se deja vacío, **entonces** el botón "Guardar" se deshabilita. | **EP01: Project** |
@@ -28,7 +28,7 @@ En esta sección se verán las historias de usuario que ayudarán en el desarrol
 
 ---
 
-## 3. RESTful API (Backend & Lógica de Negocio)
+### 3. RESTful API (Backend & Lógica de Negocio)
 | ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID)|
 | :--- | :--- | :--- | :--- | :--- |
 | **US41** | Auth JWT | **Como** Backend, **quiero** generar tokens JWT **para** asegurar todas las peticiones a la API. | **Dado que** el login es exitoso, **cuando** se genera la respuesta, **entonces** se incluye un Bearer token válido. | **EP16 / EP07** |
@@ -46,7 +46,7 @@ En esta sección se verán las historias de usuario que ayudarán en el desarrol
 
 ---
 
-## 4. Requerimientos de Negocio Compartidos (Fullstack)
+### 4. Requerimientos de Negocio Compartidos (Fullstack)
 | ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID)|
 | :--- | :--- | :--- | :--- | :--- |
 | **US14** | Asignación de Recursos | **Como** PMO, **quiero** vincular miembros a proyectos **para** gestionar la carga laboral. | **Dado que** el usuario elige un miembro, **cuando** guarda la asignación, **entonces** la API actualiza la tabla intermedia. | **EP05: Resource** |
