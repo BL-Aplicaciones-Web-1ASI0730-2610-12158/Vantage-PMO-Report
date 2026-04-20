@@ -48,3 +48,56 @@ El sistema de búsqueda está diseñado  para poder reducir el tiempo de localiz
     * **Estado Operativo:** (En curso, Detenido, Finalizado).
     * **Prioridad y Carga:** Según el impacto en el negocio.
 3.  **Búsqueda Documental:** Capacidad de búsqueda dentro del repositorio central de documentos para localizar actas, PDFs de reportes generados anteriormente y archivos de colaboración mediante palabras clave en el título y metadatos.
+
+## 4.2.5. Navigation Systems.
+
+La navegación se estructura para que el usuario nunca este a más de tres clics de la información que necesita:
+
+1.  **Navegación Global (Menú Lateral):** es el slidebar persistente con acceso directo a los pilares del sistema:
+    * **Dashboard:** Resumen ejecutivo y KPIs.
+    * **Proyectos:** Vista de portafolio y CRUD.
+    * **Reportes:** Módulo de generación de informes automáticos.
+    * **Riesgos:** Matriz de clasificación y alertas tempranas.
+
+2.  **Navegación de Contexto:** Sistema que facilitan en la orientación del usuario dentro de subsecciones (*Portafolio > Proyecto Logistica > Gestión de Riesgos*).
+
+3.  **Navegación Local:** Se utilizan pestañas para navegar entre el Tablero Kanban, los indicadores de salud, gestión de recursos y el repositorio de documentos.
+
+4.  **Acciones Rápidas:** Botones de acción flotante y accesos directos para la creación inmediata de proyectos o registro de riesgos, condicionados por los permisos del usuario.
+
+
+# 4.3. Landing Page UI Design.
+
+## 4.3.1. Landing Page Wireframe.
+
+## 4.3.2. Landing Page Mock-up.
+
+# 4.4. Web Applications UX/UI Design.
+
+## 4.4.1. Web Applications Wireframes.
+
+## 4.4.2. Web Applications Wireflow Diagrams.
+
+## 4.4.2. Web Applications Mock-ups.
+
+## 4.4.3. Web Applications User Flow Diagrams.
+
+# 4.5. Web Applications Prototyping.
+
+# 4.6. Domain-Driven Software Architecture.
+
+## 4.6.1. Design-Level EventStorming.
+
+## 4.6.2. Software Architecture Context Diagram.
+
+## 4.6.3. Software Architecture Container Diagrams.
+
+## 4.6.4. Software Architecture Components Diagrams.
+
+# 4.7. Software Object-Oriented Design.
+
+## 4.7.1. Class Diagrams.
+
+# 4.8. Database Design.
+
+## 4.8.1. Database Diagrams.
