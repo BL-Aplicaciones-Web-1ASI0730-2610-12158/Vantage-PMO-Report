@@ -96,5 +96,38 @@ En esta sección se verán las historias de usuario que ayudarán en el desarrol
 | **30** | **US09** | Alerta de Vencimiento Próximo | **Como** usuario, **quiero** notificaciones 24h antes del límite **para** organizar mis prioridades. | 3 |
 | **31** | **US63** | Icono de Notificaciones (UI) | **Como** usuario, **quiero** un indicador visual de alertas nuevas **para** no perder actualizaciones críticas. | 2 |
 | **32** | **US10** | Alerta de Inactividad (72h) | **Como** PMO Lead, **quiero** saber si un proyecto se ha estancado **para** intervenir oportunamente. | 5 |
+| **33** | **US53** | Job Programado de Inactividad | **Como** proceso de fondo, **quiero** escanear proyectos sin cambios **para** disparar alertas automáticas. | 3 |
+| **34** | **US19** | Notificación de Presupuesto | **Como** PMO, **quiero** alertas de sobrecosto **para** mantener la rentabilidad del proyecto. | 3 |
+| **35** | **US36** | Registro de Gastos Operativos | **Como** Emprendedor, **quiero** anotar egresos **para** comparar el gasto real vs el presupuesto. | 3 |
+| **36** | **US65** | Selector de Colores (Customización) | **Como** Emprendedor, **quiero** elegir mi paleta de marca **para** personalizar mi entorno de trabajo. | 5 |
+| **37** | **US20** | Inicio de Sesión (Login) | **Como** usuario, **quiero** autenticarme con mis credenciales **para** proteger mi información. | 3 |
+| **38** | **US41** | Generación de Tokens JWT | **Como** Backend, **quiero** emitir tokens de sesión **para** asegurar que cada petición sea autorizada. | 5 |
+| **39** | **US51** | Cifrado de Contraseñas | **Como** seguridad, **quiero** usar hashes (BCrypt) **para** evitar el almacenamiento de claves en texto plano. | 3 |
+| **40** | **US34** | Gestión de Roles (RBAC) | **Como** Emprendedor, **quiero** asignar permisos de Admin o Lector **para** controlar el acceso a datos sensibles. | 8 |
+| **41** | **US42** | Documentación Swagger | **Como** desarrollador frontend, **quiero** una interfaz de la API **para** realizar pruebas de integración de forma autónoma. | 2 |
+| **42** | **US44** | Paginación de Listados | **Como** frontend, **quiero** recibir datos por bloques **para** mejorar la velocidad de carga en portafolios grandes. | 3 |
+| **43** | **US50** | Rate Limiting | **Como** administrador, **quiero** limitar las peticiones por minuto **para** proteger la API de ataques de denegación de servicio. | 5 |
+| **44** | **US35** | Control de Versiones Documental | **Como** Líder, **quiero** mantener el histórico de archivos **para** recuperar versiones anteriores en caso de error. | 8 |
+| **45** | **US40** | Búsqueda Global de Archivos | **Como** usuario, **quiero** buscar por nombre en todos los proyectos **para** ahorrar tiempo localizando recursos. | 5 |
+| **46** | **US32** | Filtros Avanzados de Portafolio | **Como** Líder, **quiero** segmentar por cliente y prioridad **para** obtener vistas personalizadas del negocio. | 3 |
+| **47** | **US38** | Exportación a Excel | **Como** usuario, **quiero** descargar mis tareas en .xlsx **para** realizar análisis financieros externos. | 5 |
+| **48** | **US11** | Edición de Proyectos | **Como** PM, **quiero** modificar descripciones y fechas **para** corregir errores de registro. | 2 |
+| **49** | **US12** | Eliminación Lógica (Soft Delete) | **Como** PMO Lead, **quiero** desactivar proyectos **para** limpiar la vista sin perder la data histórica. | 3 |
+| **50** | **US37** | Notificaciones Push de Navegador | **Como** usuario, **quiero** alertas de escritorio **para** enterarme de cambios urgentes sin estar en la pestaña. | 5 |
+| **51** | **US13** | Seguimiento de Tareas Críticas | **Como** PM, **quiero** visualizar hitos en riesgo **para** priorizar el seguimiento diario. | 3 |
+| **52** | **US15** | Panel de Disponibilidad | **Como** PMO, **quiero** ver quién tiene menos carga de trabajo **para** equilibrar las asignaciones. | 5 |
+| **53** | **US16** | Visualización de KPIs de Desempeño | **Como** Stakeholder, **quiero** ver métricas de eficiencia **para** evaluar el éxito de los proyectos. | 5 |
+| **54** | **US17** | Sincronización en Tiempo Real | **Como** usuario, **quiero** ver cambios de otros miembros al instante **para** evitar duplicidad de esfuerzos. | 8 |
+| **55** | **US18** | Reportes de Rendimiento Individual | **Como** Líder, **quiero** ver el desempeño por recurso **para** dar feedback basado en datos. | 5 |
+| **56** | **US22** | Validación de Documentos en Cierre | **Como** PMO, **quiero** una lista de chequeo final **para** asegurar que no falte nada al terminar un proyecto. | 3 |
+| **57** | **US24** | Registro de Acuerdos Estratégicos | **Como** Líder, **quiero** resaltar decisiones clave en las actas **para** referencia futura. | 2 |
+| **58** | **US27** | Bitácora de Cambios de Estado | **Como** Stakeholder, **quiero** ver quién cambió la fase del proyecto **para** mantener la transparencia. | 3 |
+| **59** | **US29** | Evolución del Riesgo | **Como** PM, **quiero** actualizar la probabilidad de un riesgo **para** reflejar la mitigación actual. | 3 |
+| **60** | **US30** | Dashboard de Riesgos para Gerencia | **Como** Gerente, **quiero** ver el valor monetario en riesgo **para** entender el impacto financiero global. | 5 |
+| **61** | **US46** | Endpoint POST de Creación | **Como** backend, **quiero** recibir el JSON de proyecto **para** validarlo y guardarlo en la base de datos SQL. | 3 |
+| **62** | **US47** | Endpoint GET de Portafolio | **Como** backend, **quiero** una consulta optimizada **para** devolver la lista de proyectos activos con sus KPIs básicos. | 3 |
+| **63** | **US48** | Endpoint PATCH de Estado | **Como** backend, **quiero** un servicio que actualice campos parciales **para** no sobreescribir toda la entidad. | 2 |
+| **64** | **US60** | Interfaz de Inicio de Sesión Limpia | **Como** usuario, **quiero** un login minimalista con mensajes de error claros **para** acceder sin fricciones. | 2 |
+| **65** | **US50** | Configuración de Límites de API | **Como** admin, **quiero** ajustar los parámetros de seguridad **para** escalar el sistema según el tráfico. | 5 |
 
 ---
