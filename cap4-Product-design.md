@@ -35,3 +35,16 @@ Para asegurar que la plataforma *Vantage PMO* sea funcional por los motores de b
 * **Robots:** en html:
     `<meta name="robots" content="index, follow">`
 
+## 4.2.4. Searching Systems.
+
+El sistema de búsqueda está diseñado  para poder reducir el tiempo de localización de datos críticos:
+
+1.  **Barra de Búsqueda Global:** Implementada en la parte superior del Dashboard. Permite en la búsqueda rápida por:
+    * Nombre o código del proyecto.
+    * Nombre del responsable asignado.
+    * Etiquetas de tareas específicas.
+2.  **Filtro de Avances:** En los módulos de backlog y el portafolio, los usuarios pueden segmentar la información mediante:
+    * **Indicadores de Salud:** Filtrado por semáforos (Verde, Amarillo, Rojo).
+    * **Estado Operativo:** (En curso, Detenido, Finalizado).
+    * **Prioridad y Carga:** Según el impacto en el negocio.
+3.  **Búsqueda Documental:** Capacidad de búsqueda dentro del repositorio central de documentos para localizar actas, PDFs de reportes generados anteriormente y archivos de colaboración mediante palabras clave en el título y metadatos.
