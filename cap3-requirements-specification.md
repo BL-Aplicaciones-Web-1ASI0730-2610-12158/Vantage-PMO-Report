@@ -54,3 +54,47 @@ En esta sección se verán las historias de usuario que ayudarán en el desarrol
 | **US25** | Acuerdos a Tareas | **Como** PM, **quiero** transformar un acuerdo en tarea **para** asegurar que se ejecute. | **Dado que** existe un acuerdo, **cuando** se clickea "Convertir", **entonces** se crea una tarea vinculada automáticamente. | **EP06: Meeting** |
 | **US28** | Registro de Riesgos | **Como** PMO, **quiero** documentar riesgos potenciales **para** mitigarlos a tiempo. | **Dado que** se detecta una amenaza, **cuando** se registra impacto/probabilidad, **entonces** el sistema calcula la severidad. | **EP12: Risk** |
 | **US21** | Documentos Obligatorios | **Como** PMO, **quiero** marcar qué archivos son indispensables **para** estandarizar el proceso. | **Dado que** se define el proyecto, **cuando** se marca "Requerido", **entonces** el sistema bloquea hitos si el archivo falta. | **EP04: Document** |
+
+---
+
+### 3.2. Impact Mapping
+---
+
+### 3.3. Product Backlog
+
+| # Orden | User Story Id | Título | Descripción | Story Points (1/2/3/5/8) |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **US02** | Visualización de Portafolio (Landing) | **Como** visitante, **quiero** entender cómo se listan los proyectos **para** conocer la propuesta de valor. | 3 |
+| **2** | **US31** | Perfil de Empresa (Landing) | **Como** Emprendedor, **quiero** ver un preview de personalización de marca **para** decidir el uso de la plataforma. | 5 |
+| **3** | **US56** | Formulario de Nuevo Proyecto | **Como** usuario, **quiero** un formulario web con validaciones básicas **para** registrar mis proyectos iniciales. | 3 |
+| **4** | **US57** | Interfaz de Tarjetas (Cards) | **Como** usuario, **quiero** visualizar mis proyectos en tarjetas dinámicas **para** una navegación intuitiva. | 2 |
+| **5** | **US43** | Endpoint CRUD Proyectos | **Como** desarrollador, **quiero** una API para crear y listar proyectos **para** conectar el frontend con la base de datos. | 5 |
+| **6** | **US01** | Registro de Cliente y Fechas | **Como** PMO Lead, **quiero** asignar datos maestros a cada proyecto **para** mantener el orden administrativo. | 2 |
+| **7** | **US04** | Asignación de Responsables | **Como** Coordinadora, **quiero** asignar miembros a tareas **para** delegar responsabilidades. | 3 |
+| **8** | **US14** | Vinculación de Recursos | **Como** PMO, **quiero** gestionar la carga laboral de los miembros **para** optimizar el equipo. | 5 |
+| **9** | **US33** | Tablero Kanban Visual | **Como** usuario, **quiero** un tablero interactivo **para** gestionar el flujo de trabajo mediante drag-and-drop. | 8 |
+| **10** | **US58** | Checkbox de Tareas | **Como** usuario, **quiero** marcar tareas completadas con un clic **para** actualizar el progreso diario. | 1 |
+| **11** | **US26** | Actualización de Estado | **Como** usuario, **quiero** cambiar la fase del proyecto **para** reflejar el avance real ante los stakeholders. | 2 |
+| **12** | **US61** | Barra de Progreso Visual | **Como** Líder, **quiero** ver indicadores gráficos de avance **para** monitorear el rendimiento sin leer tablas. | 3 |
+| **13** | **US05** | Adjuntar Documentación | **Como** miembro, **quiero** subir archivos a mis tareas **para** centralizar las evidencias del proyecto. | 5 |
+| **14** | **US59** | Carga Drag & Drop | **Como** usuario, **quiero** arrastrar archivos a la interfaz **para** agilizar la subida de documentos. | 3 |
+| **15** | **US45** | API de Almacenamiento | **Como** desarrollador, **quiero** un servicio de subida de archivos binarios **para** persistirlos en la nube. | 5 |
+| **16** | **US21** | Definición de Obligatorios | **Como** PMO, **quiero** marcar documentos como requeridos **para** estandarizar los procesos de entrega. | 3 |
+| **17** | **US49** | Validación Logística de Hitos | **Como** motor de reglas, **quiero** bloquear el cierre de hitos si faltan documentos **para** asegurar la calidad. | 5 |
+| **18** | **US28** | Registro de Riesgos | **Como** PMO, **quiero** documentar amenazas potenciales **para** anticipar planes de mitigación. | 3 |
+| **19** | **US64** | Visualización de Riesgos Críticos | **Como** Gerente, **quiero** una tabla resaltada con riesgos de alto impacto **para** priorizar mi atención. | 2 |
+| **20** | **US55** | Ordenamiento de Riesgos | **Como** servicio, **quiero** clasificar los riesgos por severidad **para** facilitar el análisis de datos. | 3 |
+| **21** | **US23** | Registro de Actas de Reunión | **Como** PM, **quiero** guardar minutas de sesiones **para** mantener la trazabilidad de los acuerdos. | 3 |
+| **22** | **US25** | Conversión de Acuerdos a Tareas | **Como** PM, **quiero** crear tareas automáticamente desde actas **para** asegurar la ejecución de compromisos. | 5 |
+| **23** | **US39** | Calendario de Hitos | **Como** usuario, **quiero** una vista de calendario global **para** evitar cruces de fechas entre proyectos. | 8 |
+| **24** | **US06** | Comentarios en Tiempo Real | **Como** usuario, **quiero** dejar feedback en las tareas **para** mejorar la colaboración del equipo. | 5 |
+| **25** | **US62** | Interfaz de Historial de Chat | **Como** usuario, **quiero** ver burbujas de texto cronológicas **para** entender el contexto de una tarea. | 3 |
+| **26** | **US07** | Indicadores de Salud (Dashboard) | **Como** PMO Lead, **quiero** ver semáforos de salud del portafolio **para** identificar proyectos en crisis. | 5 |
+| **27** | **US52** | Cálculo Matemático de Salud | **Como** API, **quiero** procesar el % de tareas vencidas **para** determinar el color del indicador. | 3 |
+| **28** | **US08** | Generación de Reporte PDF | **Como** Gerente, **quiero** descargar un resumen ejecutivo en PDF **para** mis reuniones de directorio. | 8 |
+| **29** | **US54** | Estructuración de Datos para Reporte | **Como** API, **quiero** consolidar información en JSON **para** alimentar el motor de reportes. | 5 |
+| **30** | **US09** | Alerta de Vencimiento Próximo | **Como** usuario, **quiero** notificaciones 24h antes del límite **para** organizar mis prioridades. | 3 |
+| **31** | **US63** | Icono de Notificaciones (UI) | **Como** usuario, **quiero** un indicador visual de alertas nuevas **para** no perder actualizaciones críticas. | 2 |
+| **32** | **US10** | Alerta de Inactividad (72h) | **Como** PMO Lead, **quiero** saber si un proyecto se ha estancado **para** intervenir oportunamente. | 5 |
+
+---
