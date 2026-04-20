@@ -1,10 +1,14 @@
 # 4.1. Style Guidelines.
 
+El diseño se enfoca en una interfaz intuitiva que garantiza la seguridad y escalabilidad del sistema siendo capaz de manejar múltiples proyectos con alta disponibilidad y un control de acceso estrictamente definido por roles.
+
 ## 4.1.1. General Style Guidelines.
 
 ## 4.1.2. Web Style Guidelines.
 
 # 4.2. Information Architecture.
+
+Se enfoca en la forma crítica de salud de los proyectos (KPIs y semáforos) sea siempre el punto de partida de la navegación.
 
 ## 4.2.1. Organization Systems.
 
@@ -68,11 +72,15 @@ La navegación se estructura para que el usuario nunca este a más de tres clics
 
 # 4.3. Landing Page UI Design.
 
+Este capítulo se centra en las guías de estilo, la arquitectura de información, los prototipos de interfaz y la estructura de software.
+
 ## 4.3.1. Landing Page Wireframe.
 
 ## 4.3.2. Landing Page Mock-up.
 
 # 4.4. Web Applications UX/UI Design.
+
+Se enfoca en los dashboards, en  flujos para la generación de reportes. Se detalla el diseño de experiencia para asegurar que los Project Managers gestionen múltiples proyectos.
 
 ## 4.4.1. Web Applications Wireframes.
 
@@ -84,7 +92,11 @@ La navegación se estructura para que el usuario nunca este a más de tres clics
 
 # 4.5. Web Applications Prototyping.
 
+Este apartado detalla los diagramas de flujo, wireframes  y el prototipo interactivo final. Se valida la experiencia de gestión de portafolios, la generación automática de reportes y la visualización de KPIs en tiempo real.
+
+
 # 4.6. Domain-Driven Software Architecture.
+Se enfoca en la organización de la lógica del software, la delimitación de contextos y el uso de diagramas.
 
 ## 4.6.1. Design-Level EventStorming.
 
@@ -96,8 +108,12 @@ La navegación se estructura para que el usuario nunca este a más de tres clics
 
 # 4.7. Software Object-Oriented Design.
 
+Se centra en la definición de diagramas de clases, la interacción entre objetos y la aplicación de principios.
+
 ## 4.7.1. Class Diagrams.
 
 # 4.8. Database Design.
+
+Se centra en el diagrama entidad-relación, la normalización de las tablas y la arquitectura de persistencia.
 
 ## 4.8.1. Database Diagrams.
