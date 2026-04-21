@@ -2,7 +2,7 @@
 En esta sección se verán las historias de usuario que ayudarán en el desarrollo de la plataforma Vantage, enfocándonos en resolver la fragmentación de la información y mejorar el control estratégico.
 
 ## 1. Landing Page (Presentación y Conversión)
-| ID | Título | Descripción | Criterios de Aceptación (Gherkin) | Relacionado con |
+| ID | Título | Descripción | Criterios de Aceptación | Relacionado con |
 | :--- | :--- | :--- | :--- | :--- |
 | **US20** | Autenticación (Acceso) | **Como** usuario, **quiero** iniciar sesión **para** acceder a mis proyectos de forma segura. | **Dado que** el usuario ingresa credenciales, **cuando** son válidas, **entonces** se redirige al dashboard. | **EP07: User** |
 | **US31** | Perfil de Empresa (Demo) | **Como** Emprendedor, **quiero** ver cómo se vería mi marca **para** convencerme de usar la plataforma. | **Dado que** el usuario está en la Landing, **cuando** ve la sección de personalización, **entonces** se muestra un preview. | **EP13: Custom** |
@@ -12,7 +12,7 @@ En esta sección se verán las historias de usuario que ayudarán en el desarrol
 ---
 
 ## 2. Web Application (Frontend Interactivo)
-| ID | Título | Descripción | Criterios de Aceptación (Gherkin) | Relacionado con |
+| ID | Título | Descripción | Criterios de Aceptación | Relacionado con |
 | :--- | :--- | :--- | :--- | :--- |
 | **US56** | Formulario Web | **Como** usuario, **quiero** llenar campos validados **para** no enviar errores al servidor. | **Dado que** el campo es obligatorio, **cuando** se deja vacío, **entonces** el botón "Guardar" se deshabilita. | **EP01: Project** |
 | **US57** | UI Cards Proyectos | **Como** usuario, **quiero** ver tarjetas visuales **para** entender el portafolio de un vistazo. | **Dado que** se carga la página, **cuando** llegan los datos, **entonces** se renderizan componentes tipo Card. | **EP02: Portafolio** |
@@ -34,7 +34,7 @@ En esta sección se verán las historias de usuario que ayudarán en el desarrol
 ---
 
 ## 3. RESTful API (Backend & Lógica de Negocio)
-| ID | Título | Descripción | Criterios de Aceptación (Gherkin) | Relacionado con |
+| ID | Título | Descripción | Criterios de Aceptación| Relacionado con |
 | :--- | :--- | :--- | :--- | :--- |
 | **US41** | Auth JWT | **Como** Backend, **quiero** generar tokens JWT **para** asegurar todas las peticiones a la API. | **Dado que** el login es exitoso, **cuando** se responde, **entonces** se incluye un Bearer token válido. | **EP16: API** |
 | **US42** | Swagger/Docs | **Como** Frontend, **quiero** ver la documentación de la API **para** integrarme de forma autónoma. | **Dado que** el servidor corre, **cuando** se accede a /swagger, **entonces** se muestran los modelos. | **EP16: API** |
@@ -54,7 +54,7 @@ En esta sección se verán las historias de usuario que ayudarán en el desarrol
 ---
 
 ## 4. Requerimientos de Negocio Compartidos (Fullstack)
-| ID | Título | Descripción | Criterios de Aceptación (Gherkin) | Relacionado con |
+| ID | Título | Descripción | Criterios de Aceptación| Relacionado con |
 | :--- | :--- | :--- | :--- | :--- |
 | **US01** | Creación de Proyectos | **Como** PMO Lead, **quiero** crear proyectos asignando cliente y fechas **para** tener registro. | **Dado que** los datos son válidos, **cuando** se guarda, **entonces** aparece en el portafolio. | **EP01: Project** |
 | **US03** | Estandarización | **Como** Líder, **quiero** usar plantillas predefinidas **para** asegurar el estándar. | **Dado que** se inicia un proyecto, **cuando** se elige plantilla, **entonces** se precargan tareas. | **EP02: Portafolio** |
