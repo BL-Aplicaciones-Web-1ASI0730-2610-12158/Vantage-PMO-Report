@@ -4,6 +4,94 @@ El diseño se enfoca en una interfaz intuitiva que garantiza la seguridad y esca
 
 ## 4.1.1. General Style Guidelines.
 
+En este apartado se detallan las decisiones de estilo que definen la identidad visual de Vantage PMO, una plataforma web orientada a la gestión centralizada de proyectos (PMO).
+Las decisiones relacionadas con branding, tipografía, colores, espaciado y lenguaje buscan transmitir profesionalismo, claridad, control y confianza, elementos clave en entornos corporativos.
+
+**Colores**
+
+La paleta de colores de Vantage PMO fue seleccionada con un enfoque en la claridad visual, profesionalismo y jerarquía de información. Cada color cumple un rol específico dentro de la plataforma:
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/color-palette.png" 
+       alt="Paleta de Colores">
+</div>
+
+- **Azul primario – #1E40AF:**
+Este color representa confianza, control y tecnología. En Vantage PMO, se utiliza como el color principal en botones, barras de navegación y elementos clave del sistema. Su presencia dominante permite identificar rápidamente las acciones principales dentro de la plataforma.
+
+- **Gris azulado secundario – #475569:**
+Este color transmite estabilidad y estructura. Se emplea en textos secundarios, iconos y elementos de soporte. Ayuda a mantener un equilibrio visual sin restar protagonismo a las acciones principales.
+
+- **Marrón acento – #882D00:**
+Este color aporta contraste y énfasis. Se utiliza en acciones específicas o elementos que requieren atención especial dentro del sistema, como botones secundarios o indicadores relevantes. Su uso es moderado para no saturar la interfaz.
+
+- **Gris neutro – #64748B:**
+Este color simboliza neutralidad y equilibrio. Se utiliza en fondos, divisores y elementos menos relevantes, permitiendo que la interfaz mantenga orden y claridad.
+
+- **Escalas de color:**
+Cada uno de estos colores cuenta con variaciones de intensidad (claros y oscuros), lo que permite generar jerarquía visual, diferenciar estados y mejorar la organización de la información dentro de dashboards y módulos.
+
+**Tipografía**
+
+Se seleccionó la tipografía **“Inter”** como fuente principal para toda la plataforma debido a su diseño moderno, legible y altamente adaptable a entornos digitales.
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/inter-font.png" 
+       alt="Tipografía Font">
+</div>
+
+Esta tipografía garantiza una experiencia de lectura clara, especialmente en interfaces con alta densidad de información como dashboards y reportes.
+
+En cuanto al tamaño, se utiliza jerárquicamente para resaltar títulos, botones y texto de soporte. Los tamaños más grandes captan la atención en puntos clave como métricas o encabezados, mientras que los más pequeños se emplean para detalles secundarios, mejorando la comprensión y eficiencia en la interacción.
+
+**Branding**
+
+El branding de **Vantage PMO** está diseñado para reflejar control, claridad y profesionalismo dentro de la gestión de proyectos. El logo y los elementos visuales adoptan un enfoque minimalista, utilizando formas simples y una composición limpia que transmite orden y eficiencia.
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/vantage-pmo-branding.png " 
+       alt="Branding Vantage PMO">
+</div>
+
+**Espaciado**
+
+El diseño de **Vantage PMO** se centra en una estrategia que aprovecha de manera inteligente los espacios en blanco, tanto a gran escala como en los detalles de la interfaz, con el objetivo de brindar una experiencia de usuario clara y organizada. Estos espacios no solo cumplen una función estética, sino que también son fundamentales para mejorar la comprensión del contenido y resaltar elementos importantes como los botones de acción, dashboards y métricas clave del sistema. El contenido de cada sección se presenta en bloques o tarjetas con márgenes definidos, lo que permite mantener una estructura visual ordenada y equilibrada. Además, los márgenes que rodean estos elementos contribuyen a evitar la sobrecarga visual y facilitan la lectura de información compleja. Por su parte, los rellenos laterales se ajustan en función del tamaño del dispositivo, garantizando una distribución adecuada y una interfaz responsiva adaptable a distintos entornos.
+
+**Dimensiones para el tono de comunicación y lenguaje aplicado**
+
+En **Vantage PMO**, definimos cuidadosamente el tono de nuestra comunicación para alinearlo con la misión de la plataforma: optimizar la gestión de proyectos y facilitar la toma de decisiones estratégicas en organizaciones. Nuestro tono de voz busca transmitir claridad y confianza, combinando una comunicación profesional, directa y accesible, permitiendo que los usuarios comprendan rápidamente la información y actúen en base a ella.
+
+Optamos por un tono formal pero comprensible, que permita a los usuarios sentirse seguros al interactuar con funcionalidades clave como dashboards, reportes y control de proyectos. Buscamos que cada interacción refleje precisión y control, fomentando una gestión eficiente, pero también claridad, asegurando que los usuarios mantengan una visión completa de sus proyectos en todo momento. Este equilibrio nos permite impulsar la toma de decisiones informadas, al mismo tiempo que proyectamos confianza y solidez en entornos corporativos.
+
+Además, se han considerado los siguientes aspectos clave en el diseño de Vantage PMO:
+
+- **Consistencia:** La coherencia en el diseño es esencial para brindar una experiencia uniforme y eficiente. Todos los elementos visuales e interactivos de Vantage PMO mantienen una línea gráfica clara, lo que permite que los usuarios se familiaricen rápidamente con la plataforma y la utilicen de manera eficiente, especialmente en contextos donde se requiere analizar información constantemente.
+
+- **Navegación:** La estructura de navegación ha sido pensada para ser intuitiva y organizada. Los usuarios pueden acceder fácilmente a secciones como dashboards, gestión de proyectos, reportes y recursos, lo que permite ahorrar tiempo y facilita la toma de decisiones en entornos donde la información debe ser consultada de manera rápida y precisa.
+
+- **Accesibilidad:** La plataforma fue diseñada para adaptarse a distintos dispositivos y contextos de uso. Desde computadoras hasta otros entornos digitales, Vantage PMO ofrece una interfaz clara, elementos visibles y navegación simplificada, permitiendo a los usuarios interactuar con la plataforma de manera eficiente sin importar el entorno.
+
+**Elementos de Diseño**
+
+Además de los lineamientos definidos en cuanto a colores, tipografía y branding, en el diseño visual de **Vantage PMO** se han considerado diversos elementos fundamentales del diseño gráfico que contribuyen a mejorar la experiencia del usuario y a consolidar una identidad visual coherente dentro de la plataforma.
+
+Uno de los elementos más importantes es la **línea**, la cual se utiliza para organizar la interfaz mediante la separación de secciones, formularios y tarjetas de información dentro de los distintos módulos. Su aplicación permite estructurar el contenido de manera clara, facilitando la lectura y evitando la saturación visual. Por otro lado, el color no solo cumple una función estética, sino también comunicativa, ya que permite diferenciar estados, acciones y niveles de importancia dentro del sistema. La paleta utilizada, basada en tonos azules y grises con acentos estratégicos, refuerza la claridad y el enfoque profesional de la plataforma.
+
+En relación con el **tamaño**, este se aplica de manera jerárquica para destacar elementos clave como títulos, indicadores y botones de acción. Los componentes de mayor tamaño captan la atención del usuario en puntos críticos de la navegación, mientras que los elementos secundarios mantienen dimensiones más discretas para no interferir con la lectura principal. En cuanto a la textura, se opta por un enfoque sutil mediante el uso de fondos uniformes y superficies limpias, lo que aporta profundidad visual sin afectar la claridad de la información presentada.
+
+El **espacio** también juega un papel fundamental en el diseño de Vantage PMO. Se emplean márgenes adecuados y separaciones consistentes entre elementos, lo que permite una interfaz ordenada y fácil de recorrer, especialmente en contextos donde se maneja una gran cantidad de datos. Asimismo, el uso del contraste (valor o brillo) permite establecer jerarquías visuales claras, diferenciando de forma efectiva entre elementos interactivos, textos principales y fondos.
+
+Finalmente, en cuanto a las **formas**, se priorizan estructuras simples y modernas que favorecen la usabilidad. Los botones con bordes suavizados, las tarjetas organizadas y los íconos minimalistas contribuyen a una apariencia limpia y profesional. Estas decisiones refuerzan la percepción de una herramienta tecnológica eficiente, alineada con el objetivo de facilitar la gestión centralizada de proyectos.
+
+**Principios de Diseño**
+
+En cuanto a los principios de diseño, el **contraste** se utiliza para destacar elementos clave dentro de la plataforma, como **botones** de acción (CTA), alertas o estados críticos de los proyectos. Esto permite que la información importante sea fácilmente identificable, mejorando la accesibilidad visual y facilitando la toma de decisiones. Asimismo, la repetición de colores, formas e iconografía contribuye a generar consistencia en toda la interfaz, ayudando a que los usuarios reconozcan rápidamente los componentes y comprendan su funcionamiento sin necesidad de reaprendizaje constante.
+
+Por otro lado, la **alineación** cumple un rol fundamental en la organización del contenido, ya que todos los elementos, como dashboards, formularios y listas de proyectos, siguen una estructura ordenada y coherente. Esto facilita la navegación y mejora la experiencia del usuario al interactuar con la plataforma. De igual manera, el principio de proximidad permite agrupar de forma lógica los elementos relacionados, como métricas, tareas o recursos asociados a un proyecto, lo que favorece una mejor interpretación de la información y una interacción más eficiente.
+
+Estos principios no se aplican de manera aislada, sino que forman parte de un sistema de diseño integral que busca ser **funcional, claro y alineado** con los objetivos de Vantage PMO: optimizar la gestión de proyectos mediante una experiencia intuitiva, organizada y orientada a la toma de decisiones estratégicas.
+
+
 ## 4.1.2. Web Style Guidelines.
 
 # 4.2. Information Architecture.
