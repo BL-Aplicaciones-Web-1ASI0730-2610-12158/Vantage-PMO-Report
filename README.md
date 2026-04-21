@@ -52,6 +52,23 @@
 | **2.2** | 14/04/26 | Mauricio Teran | Se registró la primera entrevista del segmento 1 |
 | **2.3** | 15/04/26 | César Quispe | Se registró la primera entrevista del segmento 2 |
 | **2.4** | 15/04/26 | Alvaro Rocha | Se registró otra entrevista del segmento 2 |
+| **2.5** | 15/04/26 | César Quispe | Se registró otra entrevista del segmento 1 |
+| **3.1** | 15/04/26 | Alvaro Rocha| Se registró otra entrevista del segmento 2 |
+| **3.2** | 15/04/26 | Diego Esquicha| Se registró dos entrevistas de ambos segmentos |
+| **3.2** | 15/04/26 | Diego Esquicha| Se desarrolló el análisis de entrevistas ambos segmentos |
+| **3.3** | 16/04/26 | Dylan Guillen| Se elaboró el User Persona del segmento 2 |
+| **3.4** | 16/04/26 | Dylan Guillen| Se elaboró el User Task Matrix del segmento 2 |
+| **3.5** | 16/04/26 | Mauricio Teran| Se elaboró el User Persona del segmento 1 |
+| **3.6** | 16/04/26 | Mauricio Teran| Se elaboró el User Task Matrix del segmento 1 |
+| **3.7** | 16/04/26 | Dylan Guillen| Se elaboró el User Journey Mapping del segmento 2 |
+| **3.7** | 16/04/26 | Mauricio Teran| Se elaboró el User Journey Mapping del segmento 1 |
+| **3.7** | 16/04/26 | Mauricio Teran| Se elaboró el Empathy Mapping del segmento 1 |
+| **3.8** | 16/04/26 | Dylan Guillen| Se elaboró el Empathy Mapping del segmento 2 |
+| **3.9** | 17/04/26 | Alvaro Rocha | Se elaboró el Ubiquitous Language |
+| **4.0** | 18/04/26 | Alvaro Rocha | Se elaboró el Big Picture EventStorming |
+| **4.1** | 19/04/26 | Dylan Guillen | Se elaboró los User Stories|
+| **4.1** | 19/04/26 | Mauricio Teran| Se elaboró los User Stories|
+| **4.3** | 19/04/26 | César Quispe | Se elaboró el Impact Mapping de ambos segmentos|
 
 
 # Project Report Collaboration Insights
