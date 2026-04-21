@@ -12,7 +12,42 @@ Se enfoca en la forma crítica de salud de los proyectos (KPIs y semáforos) sea
 
 ## 4.2.1. Organization Systems.
 
+En la plataforma Vantage PMO, se emplea principalmente la organización jerárquica para resaltar la información crítica relacionada con la salud de los proyectos y portafolios. Elementos como KPIs clave, semáforos de estado, alertas de riesgo y desviaciones de cronograma o presupuesto se presentan con mayor jerarquía visual dentro de los dashboards. Esta priorización permite que los usuarios identifiquen de forma inmediata los proyectos que requieren atención o toma de decisiones.
+
+Asimismo, se aplica una organización secuencial en procesos que requieren una guía paso a paso, como la creación de proyectos, la configuración de portafolios, la asignación de responsables, o la generación de reportes ejecutivos. Estos flujos siguen una progresión lógica y controlada para reducir errores, estandarizar procesos y facilitar la experiencia de uso, especialmente para usuarios con distintos niveles de madurez en gestión de proyectos.
+
+En cuanto a los esquemas de categorización, Vantage PMO no utiliza una organización alfabética como criterio principal. En su lugar, se emplea una organización cronológica para el seguimiento de información histórica, como el avance del proyecto en el tiempo, hitos cumplidos, desviaciones acumuladas y evolución de indicadores.
+Adicionalmente, el contenido se clasifica según el rol del usuario, permitiendo que Project Managers, PMO Leads y Stakeholders accedan a vistas, niveles de detalle y funcionalidades adaptadas a sus responsabilidades y necesidades de información.
 ## 4.2.2. Labeling Systems.
+
+A continuación, se presenta el sistema de etiquetado (labeling system) diseñado para la plataforma Vantage PMO. Este sistema busca representar la información de forma clara y consistente, utilizando etiquetas cortas, precisas y alineadas al lenguaje de la gestión de proyectos, con el objetivo de minimizar la carga cognitiva, facilitar la navegación y mantener coherencia visual con la guía de diseño establecida.
+
+Se ha priorizado la claridad semántica, el uso de términos familiares para profesionales de proyectos y la coherencia con el tono de comunicación profesional y orientado a resultados de la plataforma.
+
+**Landing Page**
+
+* Inicio: Sección principal de presentación de Vantage PMO. Comunica la propuesta de valor y permite el acceso a la plataforma.
+* Características: Descripción de las funcionalidades clave del sistema, como gestión de proyectos, control de portafolios y automatización de reportes.
+* Beneficios: Explicación de los beneficios estratégicos para Project Managers, PMOs y Stakeholders.
+* Casos de Uso: Ejemplos de aplicación de Vantage PMO en empresas medianas y grandes.
+* Contacto: Canal para solicitudes de información, demostraciones o soporte comercial.
+
+**Aplicación Web - Project Managers y PMO Leads**
+
+* Dashboard: Vista general con indicadores clave del estado de proyectos y portafolios, semáforos, alertas y métricas críticas.
+* Proyectos: Listado y gestión de proyectos registrados. Incluye estado, responsables, cronograma y presupuesto.
+* Portafolios: Visualización y control agrupado de proyectos estratégicos.
+* KPIs: Seguimiento detallado de indicadores de desempeño relacionados a tiempo, costo, alcance y riesgos.
+* Riesgos: Registro y monitoreo de riesgos, con niveles de impacto y probabilidad.
+* Reportes: Generación y descarga de reportes ejecutivos y operativos.
+* Configuración: Gestión de parámetros del sistema, usuarios y roles.
+
+**Aplicación Web – Stakeholders**
+
+* Resumen Ejecutivo: Vista simplificada del estado general de los proyectos y portafolios.
+* Indicadores Clave: KPIs relevantes para la toma de decisiones estratégicas.
+* Alertas: Notificaciones sobre desviaciones críticas o riesgos relevantes.
+* Reportes Ejecutivos: Acceso a reportes consolidados para evaluación y seguimiento.
 
 ## 4.2.3. SEO Tags and Meta Tags.
 
