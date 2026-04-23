@@ -377,6 +377,8 @@ Wireframe - Executive Profile (Mobile)
 
 ## 4.3.2. Landing Page Mock-up.
 
+**Landing Page Mock-up para web** 
+
 Profile (Desktop)
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/Landing-Mock-up/Profile (Desktop)1.png"
@@ -450,15 +452,114 @@ Home - Leader Hub (Desktop) v2
   <img src="assets/images/chapter-4/Landing-Mock-up/Home - Leader Hub (Desktop) v2 14.png"
        alt="Home - Leader Hub V2">
 
+**Landing Page Mock-up Mobile Web** 
+
+Portfolio Master (Home)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mobile-mock-up/Portfolio Master (Home)1.png"
+       alt="Portfolio Master">
+
+Admin & Systems (Corporate)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mobile-mock-up/Admin & Systems (Corporate)2.png"
+       alt="Admin & Systems">
+
+Advanced Analytics (Corporate)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mobile-mock-up/Advanced Analytics (Corporate)3.png"
+       alt="Advanced Analytics">
+
+Resource Planning (Corporate)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mobile-mock-up/Resource Planning (Corporate)4.png"
+       alt="Resource Planning">
+
+Risk & Compliance (Corporate)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mobile-mock-up/Risk & Compliance (Corporate)5.png"
+       alt="Risk & Compliance">
+
+Admin & Systems Settings
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mobile-mock-up/Admin & Systems Settings6.png"
+       alt="Admin & Systems Settings">
+
+Profile (Mobile)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mobile-mock-up/Profile (Mobile)7.png"
+       alt="Profile">
+
+Settings (Mobile)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mobile-mock-up/Settings (Mobile)8.png"
+       alt="Settings">
+
+Team Chat Hub 
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mobile-mock-up/Team Chat Hub 9.png"
+       alt="Team Chat Hub">
+
+Quick Reports 
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mobile-mock-up/Quick Reports 10.png"
+       alt="Quick Reports ">
+
+Profile & Settings 
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mobile-mock-up/Profile & Settings 11.png"
+       alt="Profile & Settings ">
+
+My Projects (Control)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mobile-mock-up/My Projects (Control)12.png"
+       alt="My Projects">
+
+Home - Leader Hub 
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mobile-mock-up/Home - Leader Hub 13.png"
+       alt="Home - Leader Hub ">
+
+Team Board (Operativa)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mobile-mock-up/Team Board (Operativa) 14.png"
+       alt="Team Board ">
+
+Meetings & Agreements 
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mobile-mock-up/Meetings & Agreements 15.png"
+       alt="Meetings & Agreements">
+
 # 4.4. Web Applications UX/UI Design.
 
-Se enfoca en los dashboards, en  flujos para la generación de reportes. Se detalla el diseño de experiencia para asegurar que los Project Managers gestionen múltiples proyectos.
+Se enfoca en los dashboards(UX), en  flujos para la generación de reportes. Se detalla el diseño de experiencia para asegurar que los Project Managers gestionen múltiples proyectos.
 
 ## 4.4.1. Web Applications Wireframes.
+
+**Web applications wireframes lading page** 
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/web-aplications/Home • Desktop.png"
+       alt="Home desktop">
+
+**Web applications wirefreames mobil** 
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/web-aplications/Home • Mobile.png"
+       alt="Home mobile">
 
 ## 4.4.2. Web Applications Wireflow Diagrams.
 
 ## 4.4.2. Web Applications Mock-ups.
+
+**Web applications lading page** 
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/web-aplications/Home • Desktop (mok-ups).png"
+       alt="Home desktop">
+
+**Web applications mock-ups mobil** 
+       <div style="text-align:center;">
+  <img src="assets/images/chapter-4/web-aplications/Home • Mobile (mok-ups).png"
+       alt="Home mobile">
 
 ## 4.4.3. Web Applications User Flow Diagrams.
 
