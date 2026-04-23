@@ -553,13 +553,290 @@ Se enfoca en los dashboards(UX), en  flujos para la generación de reportes. Se 
 
 **Versión Desktop Mockups - Líderes y Jefes de Gestión de Proyectos** 
 
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-leader-web/login-desktop-leader-web.png"
+       alt="Login">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-leader-web/choose-path-desktop-leader-web.png"
+       alt="Elegir tipo de usuario">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-leader-web/forgot-password-desktop-leader-web.png"
+       alt="Olvidar Contraseña">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-leader-web/home-desktop-leader-web.png"
+       alt="Home">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-leader-web/optimization-desktop-leader-web.png"
+       alt="Optimización Satisfactoria">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-leader-web/profile-desktop-leader-web.png"
+       alt="Perfil">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-leader-web/team-board-desktop-leader-web.png"
+       alt="Team Board">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-leader-web/export-report-desktop-leader-web.png"
+       alt="Exportar Configuración del Reporte">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-leader-web/team-chat-hub-desktop-leader-web.png"
+       alt="Team Chat Hub">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-leader-web/my-proyects-desktop-leader-web.png"
+       alt="Mis Proyectos">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-leader-web/resource-manager-desktop-leader-web.png"
+       alt="Administrador de Recursos">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-leader-web/quick-reports-desktop-leader-web.png"
+       alt="Reportes Rapidos">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-leader-web/quick-reports-preview-desktop-leader-web.png"
+       alt="Visualización del Reporte Rápido">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-leader-web/meetings-and-agreements-desktop-leader-web.png"
+       alt="Reuniones y Acuerdos">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-leader-web/export-meeting-minutes-desktop-leader-web.png"
+       alt="Exportar minutos de Reuniones">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-leader-web/schedule-meeting-desktop-leader-web.png"
+       alt="Programar Reunión">
+
+**Versión Desktop Mockups - Empresas Medianas y Grandes con Múltiples Portafolios**
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-business-web/login-desktop-business-web.png"
+       alt="Login">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-business-web/choose-your-path-desktop-business-web.png"
+       alt="Elegir tipo de Usuario">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-business-web/forgot-password-business-web.png"
+       alt="Olvidé mi Contraseña">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-business-web/portfolio-master-business-web.png"
+       alt="Portafolio">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-business-web/resource-planning-business-web.png"
+       alt="Planificación de Recursos">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-business-web/team-optimization-business-web.png"
+       alt="Optimización del Equipo">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-business-web/home-business-web.png"
+       alt="Inicio">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-business-web/portfolio-business-web.png"
+       alt="Resumen del Análisis del Portafolio">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-business-web/risk-and-compliance-business-web.png"
+       alt="Riesgo y Cumplimiento">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-business-web/risk-mitigation-plan-business-web.png"
+       alt="Plan de Acción para la mitigación de riesgos">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-business-web/advanced-analytics-business-web.png"
+       alt="Análisis avanzado">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-business-web/share-profile-business-web.png"
+       alt="Compartir Perfil">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-business-web/profile-business-web.png"
+       alt="Perfil">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-business-web/settings-business-web.png"
+       alt="Ajustes">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-business-web/integrations-business-web.png"
+       alt="Configuración de Integraciones">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-business-web/team-members-business-web.png"
+       alt="Miembros del Equipo">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-business-web/notifications-settings-business-web.png"
+       alt="Configuración de Notificaciones">
+
+
+**Versión Mobile Mockups - Líderes y Jefes de Gestión de Proyectos** 
+
+ 
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-leader-mobile/login-leader-mobile.png"
+       alt="Login">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-leader-mobile/choose-path-leader-mobile.png"
+       alt="Elegir Tipo de Usuario">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-leader-mobile/forgot-password-leader-mobile.png"
+       alt="Olvidé mi Contraseña">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-leader-mobile/team-board-leader-mobile.png"
+       alt="Team Board">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-leader-mobile/new-task-form-leader-mobile.png"
+       alt="Formulario de Tareas">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-leader-mobile/meetings-and-agreements-leader-mobile.png"
+       alt="Reuniones y Acuerdos">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-leader-mobile/log-quick-note-leader-mobile.png"
+       alt="Nota rápida del registro">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-leader-mobile/team-schedule-leader-mobile.png"
+       alt="Calendario del equipo">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-leader-mobile/team-chat-hub-leader-mobile.png"
+       alt="Chat Hub">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-leader-mobile/attach-files-selection-leader-mobile.png"
+       alt="Archivos Adjunto">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-leader-mobile/quick-reports-selection-leader-mobile.png"
+       alt="Reportes Rapidos">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-leader-mobile/select-proyect-list-leader-mobile.png"
+       alt="Seleccionar un proyecto de la Lista">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-leader-mobile/pdf-report-leader-mobile.png"
+       alt="Reporte en PDF">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-leader-mobile/profile-leader-mobile.png"
+       alt="Perfil">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-leader-mobile/security-and-authentication-leader-mobile.png"
+       alt="Seguridad y Autenticación">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-leader-mobile/account-details-leader-mobile.png.png"
+       alt="Detalles de la Cuenta">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-leader-mobile/notification-preference-leader-mobile.png"
+       alt="Preferencia de Notificaciones">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-leader-mobile/my-proyects-leader-mobile.png"
+       alt="Mis Proyectos">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-leader-mobile/team-schedule-leader-mobile.png"
+       alt="Calendario del Equipo">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-leader-mobile/home-leader-mobile.png"
+       alt="Inicio">
+
+
 **Versión Mobile Mockups - Empresas Medianas y Grandes con Múltiples Portafolios** 
 
-**Versión Desktop Mockups - Líderes y Jefes de Gestión de Proyectos** 
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-business-mobile/login-business-mobile.png"
+       alt="Login">
 
-**Versión Desktoip Mockups - Empresas Medianas y Grandes con Múltiples Portafolios** 
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-business-mobile/choose-path-business-mobile.png"
+       alt="Elegir tipo de Usuario">
 
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-business-mobile/reset-password-business-mobile.png"
+       alt="Olvidé mi Contraseña">
 
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-business-mobile/portfolio-business-mobile.png"
+       alt="Portafolio">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-business-mobile/admin-and-systems-business-mobile.png"
+       alt="Administración y Sistemas">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-business-mobile/add-entity-business-mobile.png"
+       alt="Añadir Entidad">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-business-mobile/advanced-analitics-business-mobile.png"
+       alt="Análisis Avanzado">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-business-mobile/generate-forecast-business-mobile.png"
+       alt="Generar Pronóstico">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-business-mobile/resource-planning-business-mobile.png"
+       alt="Planificación de recursos">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-business-mobile/risk-and-compliance-business-mobile.png"
+       alt="Riesgo y Cumplimiento">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-business-mobile/initiate-audit-business-mobile.png"
+       alt="Iniciar auditoría">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-business-mobile/strategy-report-business-mobile.png"
+       alt="Informe de la estrategia de contratación">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-business-mobile/settings-business-mobile.png"
+       alt="Ajustes">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-business-mobile/profile-business-mobile.png"
+       alt="Perfil">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-business-mobile/team-members-business-mobile.png"
+       alt="Miembros del Equipo">
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mockups-business-mobile/integrations-business-mobile.png"
+       alt="Integraciones">
 
 
 ## 4.4.4. Web Applications User Flow Diagrams.
