@@ -203,7 +203,252 @@ Este capítulo se centra en las guías de estilo, la arquitectura de informació
 
 ## 4.3.1. Landing Page Wireframe.
 
+**Landing Page para Desktop Web** 
+
+ Wireframe - Team Chat Hub (Desktop) 
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/lading-desktop/Wireframe - Team Chat Hub (Desktop)1.png" 
+       alt="Team Chat Hub">
+</div>
+
+Wireframe - Quick Reports (Desktop)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/lading-desktop/Wireframe - Quick Reports (Desktop)2.png" 
+       alt="Quick Reports">
+</div>
+
+Wireframe - Profile & Settings (Desktop)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/lading-desktop/Wireframe - Profile & Settings (Desktop)3.png" 
+       alt="Profile & Settings">
+</div>
+
+Wireframe - My Projects (Desktop)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/lading-desktop/Wireframe - My Projects (Desktop)4.png" 
+       alt="My Projects">
+</div>
+
+Wireframe - Home Leader Hub (Desktop)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/lading-desktop/Wireframe - Home Leader Hub (Desktop)5.png" 
+       alt="Home Leader Hub">
+</div>
+
+Wireframe - Team Board (Desktop)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/lading-desktop/Wireframe - Team Board (Desktop)6.png" 
+       alt="Team Board">
+</div>
+
+Wireframe - Meetings & Agreements (Desktop)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/lading-desktop/Wireframe - Meetings & Agreements (Desktop)7.png" 
+       alt="Meetings & Agreements">
+</div>
+
+Wireframe - Profile (Desktop)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/lading-desktop/Wireframe - Profile (Desktop)8.png" 
+       alt="Profile">
+</div>
+
+Wireframe - Resource Planning (Desktop)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/lading-desktop/Wireframe - Resource Planning (Desktop)9.png" 
+       alt="Resource Planning">
+</div>
+
+Wireframe - Risk & Compliance (Desktop)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/lading-desktop/Wireframe - Risk & Compliance (Desktop)10.png" 
+       alt="Risk & Compliance">
+</div>
+
+Wireframe - Advanced Analytics (Desktop)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/lading-desktop/Wireframe - Advanced Analytics (Desktop)11.png" 
+       alt="Advanced Analytics">
+</div>
+
+Wireframe - Settings (Desktop)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/lading-desktop/Wireframe - Settings (Desktop)12.png" 
+       alt="Settings">
+</div>
+
+Wireframe - Portfolio Master (Desktop)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/lading-desktop/Wireframe - Portfolio Master (Desktop)13.png" 
+       alt="Portfolio Master">
+</div>
+
+Wireframe - Home Leader Hub (Desktop)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/lading-desktop/Wireframe - Home Leader Hub (Desktop)14.png" 
+       alt="Home Leader Hub">
+</div>
+
+**Landing Page para Mobile Web** 
+
+Wireframe - Team Chat Hub (Mobile)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mobile-wireframe/Wireframe - Team Chat Hub (Mobile)1.png"
+       alt="Team Chat Hub">
+</div>
+
+Wireframe - Quick Reports (Mobile)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mobile-wireframe/Wireframe - Quick Reports (Mobile)2.png"
+       alt="Quick Reports">
+</div>
+
+Wireframe - My Projects (Mobile)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mobile-wireframe/Wireframe - My Projects (Mobile)3.png"
+       alt="My Projects">
+</div>
+
+Wireframe - Profile & Settings (Mobile)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mobile-wireframe/Wireframe - Profile & Settings (Mobile)4.png"
+       alt="Profile & Settings">
+</div>
+
+Wireframe - Leader Hub Home (Mobile)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mobile-wireframe/Wireframe - Leader Hub Home (Mobile)5.png"
+       alt="Leader Hub Home">
+</div>
+
+Wireframe - Team Board (Mobile)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mobile-wireframe/Wireframe - Team Board (Mobile)6.png"
+       alt="Team Board">
+</div>
+
+Wireframe - Meetings & Agreements (Mobile)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mobile-wireframe/Wireframe - Meetings & Agreements (Mobile)7.png"
+       alt="Meetings & Agreements">
+</div>
+
+Wireframe - Admin & System (Mobile)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mobile-wireframe/Wireframe - Admin & System (Mobile)8.png"
+       alt="Admin & System">
+</div>
+
+Wireframe - Portfolio Master (Mobile)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mobile-wireframe/Wireframe - Portfolio Master (Mobile)9.png"
+       alt="Portfolio Master">
+</div>
+
+Wireframe - Resource Planning (Mobile)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mobile-wireframe/Wireframe - Resource Planning (Mobile)10.png"
+       alt="Resource Planning">
+</div>
+
+Wireframe - Risk & Compliance (Mobile)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mobile-wireframe/Wireframe - Risk & Compliance (Mobile)11.png"
+       alt="Risk & Compliance">
+</div>
+
+Wireframe - Advanced Analytics (Mobile)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mobile-wireframe/Wireframe - Advanced Analytics (Mobile)12.png"
+       alt="Advanced Analytics">
+</div>
+
+Wireframe - Admin Settings (Mobile)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mobile-wireframe/Wireframe - Admin Settings (Mobile)13.png"
+       alt="Admin Settings">
+</div>
+
+Wireframe - Executive Profile (Mobile)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/mobile-wireframe/Wireframe - Executive Profile (Mobile)14.png"
+       alt="Executive Profile">
+</div>
+
 ## 4.3.2. Landing Page Mock-up.
+
+Profile (Desktop)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/Landing-Mock-up/Profile (Desktop)1.png"
+       alt="Profile">
+</div>
+
+Portfolio Master (Desktop)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/Landing-Mock-up/Portfolio Master (Desktop)2.png"
+       alt="Portfolio Master">
+</div>
+
+Resource Planning (Desktop)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/Landing-Mock-up/Resource Planning (Desktop)3.png"
+       alt="Resource Planning">
+</div>
+
+Home - Leader Hub (Desktop)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/Landing-Mock-up/Home - Leader Hub (Desktop)4.png"
+       alt="Home - Leader Hub">
+
+Risk & Compliance (Desktop)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/Landing-Mock-up/Risk & Compliance (Desktop)5.png"
+       alt="Risk & Compliance">
+
+Advanced Analytics (Desktop)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/Landing-Mock-up/Advanced Analytics (Desktop)6.png"
+       alt="Advanced Analytics">
+
+Settings (Desktop)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/Landing-Mock-up/Settings (Desktop)7.png"
+       alt="Settings">
+
+Profile - Leader (Desktop)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/Landing-Mock-up/Profile - Leader (Desktop)8.png"
+       alt="Profile - Leader">
+
+Team Board (Desktop)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/Landing-Mock-up/Team Board (Desktop)9.png"
+       alt="Team Board">
+
+Team Chat Hub (Desktop)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/Landing-Mock-up/Team Chat Hub (Desktop)10.png"
+       alt="Team Chat Hub">
+
+My Projects (Desktop)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/Landing-Mock-up/My Projects (Desktop)11.png"
+       alt="My Projects">
+
+Quick Reports (Desktop)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/Landing-Mock-up/Quick Reports (Desktop)12.png"
+       alt="Quick Reports">
+
+Meetings & Agreements (Desktop)
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/Landing-Mock-up/Meetings & Agreements (Desktop)13.png"
+       alt="Meetings & Agreements">
+
+Home - Leader Hub (Desktop) v2 
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/Landing-Mock-up/Home - Leader Hub (Desktop) v2 14.png"
+       alt="Home - Leader Hub V2">
 
 # 4.4. Web Applications UX/UI Design.
 
