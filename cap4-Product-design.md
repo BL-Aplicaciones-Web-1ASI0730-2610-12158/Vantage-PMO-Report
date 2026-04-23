@@ -549,19 +549,20 @@ Se enfoca en los dashboards(UX), en  flujos para la generación de reportes. Se 
 
 ## 4.4.2. Web Applications Wireflow Diagrams.
 
-## 4.4.2. Web Applications Mock-ups.
+## 4.4.3. Web Applications Mock-ups.
 
-**Web applications lading page** 
-<div style="text-align:center;">
-  <img src="assets/images/chapter-4/web-aplications/Home • Desktop (mok-ups).png"
-       alt="Home desktop">
+**Versión Desktop Mockups - Líderes y Jefes de Gestión de Proyectos** 
 
-**Web applications mock-ups mobil** 
-       <div style="text-align:center;">
-  <img src="assets/images/chapter-4/web-aplications/Home • Mobile (mok-ups).png"
-       alt="Home mobile">
+**Versión Mobile Mockups - Empresas Medianas y Grandes con Múltiples Portafolios** 
 
-## 4.4.3. Web Applications User Flow Diagrams.
+**Versión Desktop Mockups - Líderes y Jefes de Gestión de Proyectos** 
+
+**Versión Desktoip Mockups - Empresas Medianas y Grandes con Múltiples Portafolios** 
+
+
+
+
+## 4.4.4. Web Applications User Flow Diagrams.
 
 # 4.5. Web Applications Prototyping.
 
