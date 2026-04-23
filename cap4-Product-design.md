@@ -94,6 +94,10 @@ Estos principios no se aplican de manera aislada, sino que forman parte de un si
 
 ## 4.1.2. Web Style Guidelines.
 
+Para Vantage PMO, estamos desarrollando una plataforma web orientada a la gestión centralizada de proyectos en empresas medianas y grandes. Por ello, implementaremos un diseño adaptable (Responsive Web Design), con el objetivo de garantizar una correcta visualización y funcionalidad en distintos dispositivos, como laptops, tablets y smartphones. Esto permitirá que los usuarios puedan acceder a la información en cualquier momento y lugar, mejorando la experiencia de uso y la toma de decisiones en tiempo real.
+
+Como equipo, hemos decidido incorporar el patrón de diseño, las vistas principales del sistema, especialmente en la landing page y dashboards iniciales. Esta técnica es altamente efectiva para dirigir la atención del usuario hacia los elementos más importantes, como indicadores de desempeño, estado de proyectos y acciones clave dentro de la plataforma.
+
 # 4.2. Information Architecture.
 
 Se enfoca en la forma crítica de salud de los proyectos (KPIs y semáforos) sea siempre el punto de partida de la navegación.
