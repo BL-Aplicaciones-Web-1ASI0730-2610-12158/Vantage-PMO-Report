@@ -840,7 +840,178 @@ Se enfoca en los dashboards(UX), en  flujos para la generación de reportes. Se 
 
 
 <div style="text-align: left; max-width: 900px; margin: 0 auto;">
-## 4.4.4. Web Applications User Flow Diagrams.
+
+# 4.4.4. Web Applications User Flow Diagrams.
+
+## Segmento 1: Líderes y Jefes de Gestión de Proyectos
+**User Flow Web**<br>
+
+**El usuario valida sus credenciales al ingresar a Vantage PMO**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-login-segment-1-web.png">
+
+**El usuario escoge su espacio de trabajo a su comodidad**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-workspace-segment-1-web.png">
+
+**El usuario puede ir a su perfil para gestionar alguna característica**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-profile-segment-1-web.png">
+
+**El usuario puede acceder a la sección del Team Board y sus funciones**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-export-report-segment-1-web.png">
+
+**El usuario accede tanto al Chat Hub de los proyectos y Team Headmap**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-chat-hub-segment-1-web.png">
+
+**El usuario puede ver sus proyectos activos y a detalle**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-projects-segment-1-web.png">
+
+**El usuario accede a las secciones tanto de Quick Reports y Budgets**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-quick-reports-segment-1-web.png">
+
+**El usuario puede acceder a la sección de Meetings & Agreements**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-meetings-segment-1-web.png">
+
+**También puede optar por presionar el botón Schedule Meeting**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-schedule-segment-1-web.png">
+
+**User Flow Mobile**<br>
+
+**El usuario valida sus credenciales al ingresar a Vantage PMO**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-login-segment-1-mobile.png">
+
+**El usuario escoge su espacio de trabajo a su comodidad**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-workspace-segment-1-mobile.png">
+
+**Este es el menú para el usuario donde aparecen múltiples opciones**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-home-segment-1-mobile.png">
+
+**Aquí el usuario accede a la sección Board la cual permite añadir tareas**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-board-segment-1-mobile.png">
+
+**El usuario puede acceder a la sección del chat y visita su perfil**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-chat-segment-1-mobile.png">
+
+**El usuario accede a algunas opciones del System Settings**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-system-segment-1-mobile.png">
+
+**El usuario presiona Notification Preferences, otra función de System Settings**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-system-second-segment-1-mobile.png">
+
+**El usuario puede acceder a la sección de Reports donde hay diversas funcionalidades**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-report-segment-1-mobile.png">
+
+**El usuario accede a la sección Projects donde se observa el Team Bandwidth**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-projects-segment-1-mobile.png">
+
+**El usuario puede acceder a la sección Meetings & Agreements**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-meetings-segment-1-mobile.png">
+
+**El usuario puede acceder a la sección Log Quick Note y Attach Files**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-quick-segment-1-mobile.png">
+
+**El usuario puede acceder a la sección Schedule New junto con la de Projects**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-schedule-segment-1-mobile.png">
+
+## Segmento 2: Empresas Medianas y Grandes con Múltiples Portafolios
+**User Flow Web**<br>
+
+**El usuario valida sus credenciales al ingresar a Vantage PMO**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-login-segment-2-web.png">
+
+**El usuario escoge su espacio de trabajo a su comodidad y aparece la pantalla principal**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-workspace-segment-2-web.png">
+
+**El usuario puede acceder a la sección de Resource Planning**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-resource-segment-2-web.png">
+
+**El usuario puede acceder a la sección Account y el usuario puede compartir su perfil**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-account-segment-2-web.png">
+
+**El usuario puede acceder a la sección de Settings**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-settings-segment-2-web.png">
+
+**El usuario puede acceder a más funciones de la sección Settings**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-team-segment-2-web.png">
+
+**El usuario puede acceder a la sección de Analysis y se dirige a su Portafolio**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-analysis-segment-2-web.png">
+
+**El usuario puede acceder a la sección Projects**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-projects-segment-2-web.png">
+
+**El usuario puede acceder a la sección Risk & Compliance, el usuario accede a más funciones**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-risk-segment-2-web.png">
+
+**User Flow Mobile**<br>
+
+**El usuario valida sus credenciales al ingresar a Vantage PMO**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-login-segment-2-mobile.png">
+
+**El usuario escoge su espacio de trabajo a su comodidad**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-workspace-segment-2-mobile.png">
+
+**El usuario se encuentra en la pantalla de inicio**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-home-segment-2-mobile.png">
+
+**El usuario puede acceder a la sección Healthy, también a otras funciones**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-healthy-segment-2-mobile.png">
+
+**El usuario al presionar Add Entity, continua con las Advanced Analytics**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-entity-segment-2-mobile.png">
+
+**El usuario puede seleccionar Generate Forecast**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-forecast-segment-2-mobile.png">
+
+**El usuario puede acceder a Capacity & Bandwidth Analysis**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-capacity-segment-2-mobile.png">
+
+**El usuario presiona Initiate Audit y se va a Hiring Strategy Report**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-audit-segment-2-mobile.png">
+
+**El usuario se dirige a la configuración de la cuenta, para seleccionar su información**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-configuration-segment-2-mobile.png">
+
+**El usuario puede ver a los Team Members, tambien el architect de si mismo**
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-team-members-segment-2-mobile.png">
 
 # 4.5. Web Applications Prototyping.
 
