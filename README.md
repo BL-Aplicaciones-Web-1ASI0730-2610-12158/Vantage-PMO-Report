@@ -9,15 +9,15 @@
 
 **Ciclo:** 2026-1
  
-1ASI0729 - Desarrollo de Aplicaciones Open Source 
+1ASI0730 - Aplicaciones Web
 
-**NRC:** 10177
+**NRC:** 12158
 
 **Profesor:** Villafuerte Bazan, Oscar Ivan 
 
 ### Informe de Trabajo Final
 
-**Nombre del startup:** Launchpad-PE
+**Nombre del startup:** MDEPS
 
 **Nombre del producto:** Vantage PMO 
 
