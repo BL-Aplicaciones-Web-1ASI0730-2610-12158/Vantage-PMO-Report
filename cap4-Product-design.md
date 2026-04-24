@@ -839,7 +839,6 @@ Se enfoca en los dashboards(UX), en  flujos para la generación de reportes. Se 
        alt="Integraciones">
 
 
-<div style="text-align: left; max-width: 900px; margin: 0 auto;">
 ## 4.4.4. Web Applications User Flow Diagrams.
 
 # 4.5. Web Applications Prototyping.
@@ -853,104 +852,10 @@ Se enfoca en la organización de la lógica del software, la delimitación de co
 ## 4.6.1. Design-Level EventStorming.
 
 ## 4.6.2. Software Architecture Context Diagram.
-El Diagrama de Contexto representa la vista de más alto nivel de **Vantage PMO**, detallando cómo el sistema interactúa con los usuarios y sistemas externos sin profundizar en detalles técnicos.
-
-### Sistema Central
-- **Vantage PMO**: Solución integral para la gestión de múltiples proyectos y gobernanza corporativa.
-
-### Usuarios
-
-#### Segmento A: Líderes y Jefes
-- Operan proyectos individuales.
-- Supervisan equipos de trabajo.
-- Realizan seguimiento de avances y tareas.
-
-#### Segmento B: Administradores PMO
-- Gestionan portafolios de proyectos.
-- Definen estándares organizacionales.
-- Supervisan el cumplimiento de metodologías.
-
-### Sistemas Externos
-- **Auth0 (Servicio de Identidad)**  
-  Encargado de la autenticación y gestión de seguridad de usuarios.
-- **AWS S3 (Servicio de Almacenamiento)**  
-  Responsable de la persistencia de archivos y documentos del sistema.
-- **SendGrid (Servicio de Notificaciones)**  
-  Maneja el envío automatizado de correos electrónicos y alertas.
-
-### Resumen de Interacción
-- Los usuarios (Segmento A y B) interactúan directamente con **Vantage PMO**.
-- **Vantage PMO** delega:
-  - Autenticación a Auth0.
-  - Almacenamiento a AWS S3.
-  - Notificaciones a SendGrid.
-
-![Context-Diagram](assets/images/chapter-4/Software-Arquitecture-Diagrams/Context-Diagram.jpeg)
 
 ## 4.6.3. Software Architecture Container Diagrams.
-Este nivel desglosa el sistema **Vantage PMO** en aplicaciones independientes, especificando las tecnologías de desarrollo empleadas.
-
-
-### Web Application
-Aplicación desarrollada con **Vue.js**, la cual ofrece una interfaz de usuario reactiva, dinámica y de alto rendimiento.  
-Se comunica con el backend mediante peticiones asíncronas sobre **HTTPS**, garantizando seguridad y eficiencia en la transferencia de datos.
-
-### API Application
-Construida en **C#** utilizando **ASP.NET Core**.  
-Este componente actúa como el núcleo del sistema, encargado de:
-- Procesar la lógica de negocio  
-- Gestionar las operaciones del sistema  
-- Exponer endpoints **RESTful** protegidos  
-
-### Database
-Motor de base de datos relacional basado en **MySQL**, responsable de la persistencia de datos.  
-Garantiza:
-- Integridad de la información de proyectos  
-- Consistencia de los datos  
-- Trazabilidad para auditorías  
-
-![Container-Diagram](assets/images/chapter-4/Software-Arquitecture-Diagrams/Container-Diagram.jpeg)
 
 ## 4.6.4. Software Architecture Components Diagrams.
-En este nivel se realiza un zoom detallado dentro del contenedor **API Application (C#)** para mostrar la organización interna del código y la distribución de responsabilidades.
-
-### REST Controllers
-Clases encargadas de:
-- Recibir las peticiones provenientes del frontend desarrollado en **Vue.js**  
-- Validar los modelos de entrada  
-- Mapear y retornar respuestas en formato **JSON**  
-
-### IAM Module (Security)
-Módulo responsable de la seguridad del sistema. Implementa:
-- Autenticación mediante **JWT (JSON Web Tokens)**  
-- Middleware de **.NET** para el control de acceso  
-- Autorización basada en roles para los diferentes segmentos de usuario  
-
-### Project & Task Services
-Componentes en **C#** que encapsulan la lógica de negocio del sistema:
-- Gestión de proyectos y tareas  
-- Cálculo de la salud del portafolio  
-- Implementación de la lógica del flujo **Kanban**  
-
-### Document Manager
-Encargado de la gestión de archivos del sistema:
-- Control y validación de documentos  
-- Verificación de cumplimiento en cada hito del proyecto  
-- Garantía de integridad documental  
-
-### Persistence Layer (EF Core)
-Capa de persistencia que utiliza **Entity Framework Core (EF Core)** como ORM:
-- Abstracción de consultas **SQL**  
-- Gestión de entidades y relaciones  
-- Comunicación eficiente con la base de datos  
-
-### Shared Module
-Módulo compartido que centraliza componentes reutilizables:
-- DTOs (**Data Transfer Objects**)  
-- Funciones utilitarias comunes  
-- Manejo global de excepciones
-
-![Components-Diagram](assets/images/chapter-4/Software-Arquitecture-Diagrams/Components-Diagram.jpeg)
 
 # 4.7. Software Object-Oriented Design.
 
@@ -963,5 +868,3 @@ Se centra en la definición de diagramas de clases, la interacción entre objeto
 Se centra en el diagrama entidad-relación, la normalización de las tablas y la arquitectura de persistencia.
 
 ## 4.8.1. Database Diagrams.
-
-</div>
