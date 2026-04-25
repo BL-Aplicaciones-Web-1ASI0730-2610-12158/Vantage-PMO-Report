@@ -1057,6 +1057,46 @@ Se enfoca en la organización de la lógica del software, la delimitación de co
 
 ## 4.6.1. Design-Level EventStorming.
 
+Se presenta a continuación el Event Storming correspondiente a Vantage PMO, donde se han identificado los principales eventos del dominio, así como los actores involucrados, acciones, decisiones, reglas de negocio y las interacciones entre los distintos componentes del sistema. Como resultado de este análisis, se definieron 9 bounded contexts:
+
+![Global-EventStorming](assets/images/chapter-4/EventStorming/global-EventStorming.jpg)
+
+**IAM(Identity and Access Management)**
+![IAM](assets/images/chapter-4/EventStorming/boundeds/iam.jpg)
+
+**Project Management**
+
+![Project-management](assets/images/chapter-4/EventStorming/boundeds/project-management.jpg)
+
+**Task & Collaboration**
+
+![Task-and-Collaboration](assets/images/chapter-4/EventStorming/boundeds/task-and-collaboration.jpg)
+
+**Governance & Risk**
+
+![Governance-and-Risk](assets/images/chapter-4/EventStorming/boundeds/governance-and-risk.jpg)
+
+**Resource & Capacity**
+
+![Resource-and-Capacity](assets/images/chapter-4/EventStorming/boundeds/resource-and-capacity.jpg)
+
+**Document Management**
+
+![Document-Management](assets/images/chapter-4/EventStorming/boundeds/document-management.jpg)
+
+**Profile Management**
+
+![Profile-Management](assets/images/chapter-4/EventStorming/boundeds/profile-management.jpg)
+
+**System Administration**
+
+![System-Administration](assets/images/chapter-4/EventStorming/boundeds/system-administration.jpg)
+
+**Analytics & Reporting**
+
+![Analytics-and-Reporting](assets/images/chapter-4/EventStorming/boundeds/analytics-and-reporting.jpg)
+
+
 ## 4.6.2. Software Architecture Context Diagram.
 El Diagrama de Contexto representa la vista de más alto nivel de **Vantage PMO**, detallando cómo el sistema interactúa con los usuarios y sistemas externos sin profundizar en detalles técnicos.
 
