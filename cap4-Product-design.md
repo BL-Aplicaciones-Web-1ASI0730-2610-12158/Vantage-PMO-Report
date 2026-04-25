@@ -553,136 +553,169 @@ Se enfoca en los dashboards(UX), en  flujos para la generación de reportes. Se 
 
 **Versión Desktop Mockups - Líderes y Jefes de Gestión de Proyectos** 
 
+**El usuario inicia con el Login correspondiente colocando sus datos**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-leader-web/login-desktop-leader-web.png"
        alt="Login">
 
+**El siguiente paso es escoger el workspace que se adapta mejor al usuario**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-leader-web/choose-path-desktop-leader-web.png"
        alt="Elegir tipo de usuario">
 
+**El usuario puede olvidar su contraseña y decide cambiar su contraseña**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-leader-web/forgot-password-desktop-leader-web.png"
        alt="Olvidar Contraseña">
 
+**El usuario entra y lo primero que se observa es el Home de la aplicación web**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-leader-web/home-desktop-leader-web.png"
        alt="Home">
 
+**Después de presionar Apply Optimization aparece el mensaje Optimization Applied Successfully**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-leader-web/optimization-desktop-leader-web.png"
        alt="Optimización Satisfactoria">
 
+**El usuario se dirige a la sección de su perfil donde puede ver sus datos**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-leader-web/profile-desktop-leader-web.png"
        alt="Perfil">
 
+**El usuario desplega la sección Team Board en la cual se observa la función Operativa**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-leader-web/team-board-desktop-leader-web.png"
        alt="Team Board">
 
+**El usuario despliega la sección Reports donde puede exportar diferentes proyectos**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-leader-web/export-report-desktop-leader-web.png"
        alt="Exportar Configuración del Reporte">
 
+**El usuario despliega la sección ChatHub donde puede ver los canales de sus compañeros**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-leader-web/team-chat-hub-desktop-leader-web.png"
        alt="Team Chat Hub">
 
+**El usuario despliega la sección My Projects donde puede contemplar sus diversos proyectos**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-leader-web/my-proyects-desktop-leader-web.png"
        alt="Mis Proyectos">
 
+**Aquí el usuario puede ir a Team Heatmap de un proyecto y ver el Resource Management**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-leader-web/resource-manager-desktop-leader-web.png"
        alt="Administrador de Recursos">
 
+**El usuario también puede ver los Quick Reports en la plataforma**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-leader-web/quick-reports-desktop-leader-web.png"
        alt="Reportes Rapidos">
 
+**El usuario despliega la sección Budgets y contempla la función Executive Health Summary**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-leader-web/quick-reports-preview-desktop-leader-web.png"
        alt="Visualización del Reporte Rápido">
 
+**El usuario despliega la sección Meetings y en ella puede ver los Meetings y Agreements**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-leader-web/meetings-and-agreements-desktop-leader-web.png"
        alt="Reuniones y Acuerdos">
 
+**El usuario puede exportar minutos de reuniones en los formatos visibles**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-leader-web/export-meeting-minutes-desktop-leader-web.png"
        alt="Exportar minutos de Reuniones">
 
+**El usuario se dirige a Schedule New Meeting para programar alguna reunión**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-leader-web/schedule-meeting-desktop-leader-web.png"
        alt="Programar Reunión">
 
 **Versión Desktop Mockups - Empresas Medianas y Grandes con Múltiples Portafolios**
 
+**El usuario inicia con el Login correspondiente colocando sus datos**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-business-web/login-desktop-business-web.png"
        alt="Login">
 
+**El siguiente paso es escoger el workspace que se adapta mejor al usuario**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-business-web/choose-your-path-desktop-business-web.png"
        alt="Elegir tipo de Usuario">
 
+**El usuario puede olvidar su contraseña y decide cambiar su contraseña**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-business-web/forgot-password-business-web.png"
        alt="Olvidé mi Contraseña">
 
+**El usuario decide ir a la sección de Projects y seleccionar su Portafolio**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-business-web/portfolio-master-business-web.png"
        alt="Portafolio">
 
+**El usuario se dirige a la seccipin de Resource Planning donde mira el Team Bandwidth Analysis**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-business-web/resource-planning-business-web.png"
        alt="Planificación de Recursos">
 
+**El usuario también se puede dirigir a la sección de Team Optimization para ver los resultados**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-business-web/team-optimization-business-web.png"
        alt="Optimización del Equipo">
 
+**El usuario entra y lo primero que se observa es el Home de la aplicación web**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-business-web/home-business-web.png"
        alt="Inicio">
 
+**El usuario se dirige a la sección de Portfolio Results y contempla su análisis**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-business-web/portfolio-business-web.png"
        alt="Resumen del Análisis del Portafolio">
 
+**El usuario se dirige a la sección de Risk & Compliance donde contempla el Heatmap**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-business-web/risk-and-compliance-business-web.png"
        alt="Riesgo y Cumplimiento">
 
+**El usuario se dirige a Action Plans para la mitigación de riesgos**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-business-web/risk-mitigation-plan-business-web.png"
        alt="Plan de Acción para la mitigación de riesgos">
 
+**El usuario se dirige a la sección de analytics donde aprecia el Advanced Analytics**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-business-web/advanced-analytics-business-web.png"
        alt="Análisis avanzado">
 
+**El usuario puede compartir su perfil a través de su configuración**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-business-web/share-profile-business-web.png"
        alt="Compartir Perfil">
 
+**El usuario se dirige a la sección de su Perfil y puede ver su información personal**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-business-web/profile-business-web.png"
        alt="Perfil">
 
+**El usuario se dirige a la herramienta de Settings**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-business-web/settings-business-web.png"
        alt="Ajustes">
 
+**Puede dirigirse a la configuración de integraciones**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-business-web/integrations-business-web.png"
        alt="Configuración de Integraciones">
 
+**Puede dirigirse a la configuración de los miembros del equipo**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-business-web/team-members-business-web.png"
        alt="Miembros del Equipo">
 
+**Puede dirigirse a la configuración de notificaciones**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-business-web/notifications-settings-business-web.png"
        alt="Configuración de Notificaciones">
@@ -690,83 +723,102 @@ Se enfoca en los dashboards(UX), en  flujos para la generación de reportes. Se 
 
 **Versión Mobile Mockups - Líderes y Jefes de Gestión de Proyectos** 
 
- 
+**El usuario inicia con el Login correspondiente colocando sus datos**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-leader-mobile/login-leader-mobile.png"
        alt="Login">
 
+**El siguiente paso es escoger el workspace que se adapta mejor al usuario**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-leader-mobile/choose-path-leader-mobile.png"
        alt="Elegir Tipo de Usuario">
 
+**El usuario puede olvidar su contraseña y decide cambiar su contraseña**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-leader-mobile/forgot-password-leader-mobile.png"
        alt="Olvidé mi Contraseña">
 
+**El usuario desplega la sección Board en la cual se observa la función Operativa**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-leader-mobile/team-board-leader-mobile.png"
        alt="Team Board">
 
+**El usuario puede añadir una nueva tarea si el lo desea**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-leader-mobile/new-task-form-leader-mobile.png"
        alt="Formulario de Tareas">
 
+**El usuario se dirige a la sección de Meetings y puede acceder a múltiples funcionalidades**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-leader-mobile/meetings-and-agreements-leader-mobile.png"
        alt="Reuniones y Acuerdos">
 
+**En la sección Log el usuario puede elaborar una nota rápida del registro para un proyecto**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-leader-mobile/log-quick-note-leader-mobile.png"
        alt="Nota rápida del registro">
 
+**El usuario puede acceder a Calendar donde se puede apreciar mejor el calendario del equipo**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-leader-mobile/team-schedule-leader-mobile.png"
        alt="Calendario del equipo">
 
+**El usuario se dirige a la sección de Chat donde puede acceder a la funcionalidad de Chat Hub**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-leader-mobile/team-chat-hub-leader-mobile.png"
        alt="Chat Hub">
 
+**El usuario al presionar Attach Files puede subir archivos de manera adjunta**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-leader-mobile/attach-files-selection-leader-mobile.png"
        alt="Archivos Adjunto">
 
+**El usuario al desplegar la sección Reports puede realizar un generador de reportes**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-leader-mobile/quick-reports-selection-leader-mobile.png"
        alt="Reportes Rapidos">
 
+**El usuario puede seleccionar un proyecto de la lista en donde puede seleccionar un proyecto de la lista**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-leader-mobile/select-proyect-list-leader-mobile.png"
        alt="Seleccionar un proyecto de la Lista">
 
+**El usuario puede descargar el reporte en formato PDF**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-leader-mobile/pdf-report-leader-mobile.png"
        alt="Reporte en PDF">
 
+**El usuario se dirige a la sección de su perfil y puede gestionar su información**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-leader-mobile/profile-leader-mobile.png"
        alt="Perfil">
 
+**El usuario puede dirigirse a la sección de Security y ver el tema de la autenticación**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-leader-mobile/security-and-authentication-leader-mobile.png"
        alt="Seguridad y Autenticación">
 
+**El usuario puede ver los detalles en su cuenta y a la vez puede gestionarlos**
 <div style="text-align:center;">
-  <img src="assets/images/chapter-4/mockups-leader-mobile/account-details-leader-mobile.png.png"
+  <img src="assets/images/chapter-4/mockups-leader-mobile/account-details-leader-mobile.png"
        alt="Detalles de la Cuenta">
 
+**El usuario se dirige a Notifications Preferences para ver si quiere o no recibir estas mismas**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-leader-mobile/notification-preference-leader-mobile.png"
        alt="Preferencia de Notificaciones">
 
+**El usuario despliega la opción de ver sus proyectos donde se aprecia mejor su organización**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-leader-mobile/my-proyects-leader-mobile.png"
        alt="Mis Proyectos">
 
+**El usuario al entrar en la sección Calendar puede ver el calendario del equipo**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-leader-mobile/team-schedule-leader-mobile.png"
        alt="Calendario del Equipo">
 
+**El usuario entra y lo primero que se observa es el Home de la aplicación mobile**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-leader-mobile/home-leader-mobile.png"
        alt="Inicio">
@@ -774,66 +826,82 @@ Se enfoca en los dashboards(UX), en  flujos para la generación de reportes. Se 
 
 **Versión Mobile Mockups - Empresas Medianas y Grandes con Múltiples Portafolios** 
 
+**El usuario inicia con el Login correspondiente colocando sus datos**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-business-mobile/login-business-mobile.png"
        alt="Login">
 
+**El siguiente paso es escoger el workspace que se adapta mejor al usuario**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-business-mobile/choose-path-business-mobile.png"
        alt="Elegir tipo de Usuario">
 
+**El usuario puede olvidar su contraseña y decide cambiar su contraseña**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-business-mobile/reset-password-business-mobile.png"
        alt="Olvidé mi Contraseña">
 
+**El usuario puede dirigirse a la sección del Portfolio Govemance**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-business-mobile/portfolio-business-mobile.png"
        alt="Portafolio">
 
+**El usuario se dirige a la sección de Admin & Systems Control**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-business-mobile/admin-and-systems-business-mobile.png"
        alt="Administración y Sistemas">
 
+**El usuario puede añadir una entidad para dicho portafolio que seleccione**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-business-mobile/add-entity-business-mobile.png"
        alt="Añadir Entidad">
 
+**El usuario se dirige a la función de Advanced Analytics**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-business-mobile/advanced-analitics-business-mobile.png"
        alt="Análisis Avanzado">
 
+**En base a lo que el usuario selecciono se genera un pronóstico**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-business-mobile/generate-forecast-business-mobile.png"
        alt="Generar Pronóstico">
 
+**El usuario se dirige a la sección de Resources y va a la planificación de recursos**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-business-mobile/resource-planning-business-mobile.png"
        alt="Planificación de recursos">
 
+**El usuario selecciona la sección de Risks y selecciona la función Risk & Compliance**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-business-mobile/risk-and-compliance-business-mobile.png"
        alt="Riesgo y Cumplimiento">
 
+**El usuario por otro lado puede iniciar una auditoría para los proyectos**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-business-mobile/initiate-audit-business-mobile.png"
        alt="Iniciar auditoría">
 
+**El usuario se dirige a la sección de Strategy y puede seleccionar la función del informe de la estrategia de contratación**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-business-mobile/strategy-report-business-mobile.png"
        alt="Informe de la estrategia de contratación">
 
+**El usuario visita su cuenta mobile y selecciona Account Settings**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-business-mobile/settings-business-mobile.png"
        alt="Ajustes">
 
+**El usuario puede apreciar mejor su perfil y gestionarlo**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-business-mobile/profile-business-mobile.png"
        alt="Perfil">
 
+**El usuario puede visualizar a los Team Members de cada proyecto**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-business-mobile/team-members-business-mobile.png"
        alt="Miembros del Equipo">
 
+**El usuario se dirige a la sección Integrations de los proyectos**
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/mockups-business-mobile/integrations-business-mobile.png"
        alt="Integraciones">
