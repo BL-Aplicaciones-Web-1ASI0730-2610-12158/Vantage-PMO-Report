@@ -1059,9 +1059,52 @@ Se enfoca en la organización de la lógica del software, la delimitación de co
 
 Se presenta a continuación el Event Storming correspondiente a Vantage PMO, donde se han identificado los principales eventos del dominio, así como los actores involucrados, acciones, decisiones, reglas de negocio y las interacciones entre los distintos componentes del sistema. Como resultado de este análisis, se definieron 9 bounded contexts:
 
+**Global**
+
 ![Global-EventStorming](assets/images/chapter-4/EventStorming/global-EventStorming.jpg)
 
+*Leyenda*
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="assets/images/chapter-4/EventStorming/actions/aggregate.jpg" alt="Aggregate" width="120"><br>
+      Aggregate
+    </td>
+    <td align="center">
+      <img src="assets/images/chapter-4/EventStorming/actions/command.jpg" alt="Command" width="120"><br>
+      Command
+    </td>
+    <td align="center">
+      <img src="assets/images/chapter-4/EventStorming/actions/domain-event.jpg" alt="Domain Event" width="120"><br>
+      Domain Event
+    </td>
+    <td align="center">
+      <img src="assets/images/chapter-4/EventStorming/actions/external-system.jpg" alt="External System" width="120"><br>
+      External System
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/images/chapter-4/EventStorming/actions/police.jpg" alt="Policy" width="120"><br>
+      Policy
+    </td>
+    <td align="center">
+      <img src="assets/images/chapter-4/EventStorming/actions/question-risk.jpg" alt="Question or Risk" width="120"><br>
+      Question / Risk
+    </td>
+    <td align="center">
+      <img src="assets/images/chapter-4/EventStorming/actions/user-actor.jpg" alt="User Actor" width="120"><br>
+      User Actor
+    </td>
+    <td align="center">
+      <img src="assets/images/chapter-4/EventStorming/actions/view-read-model.jpg" alt="View or Read Model" width="120"><br>
+      View / Read Model
+    </td>
+  </tr>
+</table>
+
 **IAM(Identity and Access Management)**
+
 ![IAM](assets/images/chapter-4/EventStorming/boundeds/iam.jpg)
 
 **Project Management**
