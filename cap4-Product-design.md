@@ -1242,6 +1242,28 @@ Se centra en la definición de diagramas de clases, la interacción entre objeto
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/ClassDiagram.png">
 
+|Entidad|Descripcion|
+|-------|-----------|
+|User|Representa a los usuarios del sistema que acceden a Vantage PMO, permitiendo autenticación, asignación de roles, gestión de proyectos y recepción de notificaciones.|
+|Role|Define los roles del sistema como ADMIN, PMO_LEAD, PROJECT_MANAGER y STAKEHOLDER, controlando los permisos y accesos.|
+|Portfolio|Agrupa varios proyectos bajo una misma cartera para facilitar la gestión estratégica y el seguimiento a nivel organizacional.|
+|Project|Representa un proyecto dentro del sistema, incluyendo nombre, descripción, fechas, presupuesto, estado y progreso.|
+|ProjectStatus|Enumera los estados posibles de un proyecto como INITIATED, IN_PROGRESS, COMPLETED y CANCELED.|
+|Task|Representa las tareas asociadas a un proyecto, con descripción, fecha límite y estado.|
+|TaskStatus|Define los estados de una tarea como PENDING, IN_PROGRESS y COMPLETED.|
+|Milestone|Representa hitos clave del proyecto que validan avances importantes en fechas específicas.|
+|Risk|Registra los riesgos identificados en un proyecto, considerando impacto, probabilidad y severidad.|
+|RiskSeverity|Enumera los niveles de severidad de los riesgos: LOW, MEDIUM, HIGH y CRITICAL.|
+|Resource|Representa los recursos asignados a los proyectos, como personas o activos, indicando su disponibilidad.|
+|Expense|Registra los gastos asociados a un proyecto para el control financiero y presupuestal.|
+|Report|Representa los reportes generados del proyecto, como informes de avance o desempeño, exportables en PDF.|
+|Dashboard|Centraliza los indicadores clave (KPIs) del proyecto y calcula su estado de salud general.|
+|MeetingMinutes|Almacena las actas de reuniones del proyecto, registrando fechas y acuerdos alcanzados.|
+|Agreement|Representa acuerdos generados a partir de reuniones o decisiones dentro del proyecto.|
+|Document|Almacena documentos asociados a proyectos o tareas, incluyendo versión y ubicación.|
+|Comment|Permite registrar comentarios en tareas o proyectos para facilitar la comunicación del equipo.|
+|Notification|Representa las notificaciones enviadas a los usuarios sobre eventos relevantes del sistema.|
+
 # 4.8. Database Design.
 
 Se centra en el diagrama entidad-relación, la normalización de las tablas y la arquitectura de persistencia.
@@ -1250,3 +1272,20 @@ Se centra en el diagrama entidad-relación, la normalización de las tablas y la
 
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/4.8 APP.png">
+
+|Tabla|Descripcion|
+|-----|-----------|
+|user|Almacena la información de los usuarios del sistema, incluyendo credenciales de acceso, datos personales y el rol asignado dentro de Vantage PMO.|
+|notification|Registra las notificaciones enviadas a los usuarios sobre eventos relevantes del sistema, indicando mensaje, fecha y estado de lectura.|
+|portfolio|Almacena las carteras de proyectos, permitiendo agrupar varios proyectos bajo una misma unidad de gestión estratégica.|
+|project|Contiene la información principal de cada proyecto, como nombre, descripción, estado, fechas, presupuesto y relaciones con portafolios y usuarios creadores.|
+|task|Registra las tareas asociadas a un proyecto, incluyendo descripción, estado, fecha límite y el usuario responsable de su ejecución.|
+|comment|Almacena los comentarios realizados sobre las tareas, permitiendo la comunicación y seguimiento entre los usuarios del proyecto.|
+|resource|Registra los recursos asignados a los proyectos, indicando su nombre, disponibilidad y relación con un proyecto específico.|
+|hito|Almacena los hitos del proyecto, representando eventos o entregables clave asociados a fechas importantes.|
+|risk|Registra los riesgos identificados en cada proyecto, considerando su descripción, probabilidad, impacto y nivel de severidad.|
+|spent|Registra los gastos realizados en un proyecto, permitiendo el control y seguimiento del presupuesto ejecutado.|
+|document|Almacena los documentos asociados a proyectos o tareas, incluyendo nombre, ruta de acceso y versión del archivo.|
+|meetingminutes|Registra las actas de reuniones de los proyectos, almacenando la fecha y su relación con el proyecto correspondiente.|
+|agreement|Almacena los acuerdos generados a partir de reuniones, vinculándolos a sus respectivas actas.|
+|report|Registra los reportes generados por proyecto, incluyendo tipo de reporte y fecha de generación.|
