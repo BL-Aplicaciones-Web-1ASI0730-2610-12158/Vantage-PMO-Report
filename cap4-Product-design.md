@@ -1105,37 +1105,55 @@ Se presenta a continuación el Event Storming correspondiente a Vantage PMO, don
 
 **IAM(Identity and Access Management)**
 
+Este bounded context agrupa las actividades relacionadas con la autenticación, autorización y control de acceso dentro de Vantage PMO. Aquí se gestionan procesos como el inicio de sesión, la validación de credenciales, la asignación de roles, la administración de permisos y la protección de recursos del sistema, asegurando que cada usuario acceda solo a la información y funcionalidades que le corresponden.
+
 ![IAM](assets/images/chapter-4/EventStorming/boundeds/iam.jpg)
 
 **Project Management**
+
+En este contexto se concentran las actividades centrales de gestión de proyectos, desde su creación y planificación hasta el seguimiento de su ejecución. Incluye acciones como definir objetivos, registrar cronogramas, controlar presupuestos, actualizar estados, gestionar hitos y supervisar el avance general de cada proyecto dentro del portafolio.
 
 ![Project-management](assets/images/chapter-4/EventStorming/boundeds/project-management.jpg)
 
 **Task & Collaboration**
 
+Este bounded context aborda las actividades vinculadas con la asignación de tareas y la colaboración entre miembros del equipo. Comprende la creación, priorización y seguimiento de tareas, así como la interacción entre usuarios mediante comentarios, actualizaciones, coordinación operativa y seguimiento del trabajo pendiente o completado.
+
 ![Task-and-Collaboration](assets/images/chapter-4/EventStorming/boundeds/task-and-collaboration.jpg)
 
 **Governance & Risk**
+
+Aquí se representan las actividades orientadas al control, cumplimiento y gestión de riesgos de los proyectos. Este contexto permite identificar riesgos, evaluar su impacto y probabilidad, registrar planes de mitigación, supervisar alertas y asegurar que los proyectos se mantengan alineados con las políticas, estándares y criterios de gobernanza establecidos por la organización.
 
 ![Governance-and-Risk](assets/images/chapter-4/EventStorming/boundeds/governance-and-risk.jpg)
 
 **Resource & Capacity**
 
+Este contexto cubre las actividades relacionadas con la asignación y control de recursos disponibles para los proyectos. Incluye la planificación de capacidad, la distribución de cargas de trabajo, la evaluación de disponibilidad del personal y el monitoreo del uso eficiente de recursos para evitar sobrecargas o déficits operativos.
+
 ![Resource-and-Capacity](assets/images/chapter-4/EventStorming/boundeds/resource-and-capacity.jpg)
 
 **Document Management**
+
+En este bounded context se gestionan las actividades de almacenamiento, organización y acceso a documentos del proyecto. Se incluyen procesos como la carga de archivos, clasificación de evidencias, consulta de documentos relevantes, control de versiones y disponibilidad de información necesaria para la trazabilidad y soporte de decisiones.
 
 ![Document-Management](assets/images/chapter-4/EventStorming/boundeds/document-management.jpg)
 
 **Profile Management**
 
+Este contexto reúne las actividades relacionadas con la administración del perfil de cada usuario dentro de la plataforma. Abarca la actualización de datos personales, configuración de preferencias, gestión de información profesional y mantenimiento de atributos que permiten personalizar la experiencia y facilitar la identificación de responsabilidades dentro del sistema.
+
 ![Profile-Management](assets/images/chapter-4/EventStorming/boundeds/profile-management.jpg)
 
 **System Administration**
 
+Aquí se concentran las actividades de administración general de la plataforma, necesarias para garantizar su operación estable y controlada. Incluye la configuración global del sistema, la gestión de usuarios organizacionales, definición de parámetros operativos, supervisión de catálogos y mantenimiento de reglas que soportan el funcionamiento transversal de Vantage PMO.
+
 ![System-Administration](assets/images/chapter-4/EventStorming/boundeds/system-administration.jpg)
 
 **Analytics & Reporting**
+
+Este bounded context engloba las actividades de análisis de datos y generación de reportes para la toma de decisiones. Permite consolidar información de proyectos y portafolios, calcular indicadores clave, visualizar tendencias, emitir reportes ejecutivos y ofrecer una visión resumida del desempeño organizacional en tiempo real.
 
 ![Analytics-and-Reporting](assets/images/chapter-4/EventStorming/boundeds/analytics-and-reporting.jpg)
 
