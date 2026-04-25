@@ -1239,9 +1239,14 @@ Se centra en la definición de diagramas de clases, la interacción entre objeto
 
 ## 4.7.1. Class Diagrams.
 
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/ClassDiagram.png">
+
 # 4.8. Database Design.
 
 Se centra en el diagrama entidad-relación, la normalización de las tablas y la arquitectura de persistencia.
 
 ## 4.8.1. Database Diagrams.
-</div>
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/4.8 APP.png">
