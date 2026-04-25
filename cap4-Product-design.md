@@ -199,11 +199,149 @@ La navegación se estructura para que el usuario nunca este a más de tres clics
 
 # 4.3. Landing Page UI Design.
 
-Este capítulo se centra en las guías de estilo, la arquitectura de información, los prototipos de interfaz y la estructura de software.
+Este apartado define la identidad visual y estética de la página de inicio. En esta sección se detallan los elementos gráficos —como la paleta de colores, la tipografía que transforman la estructura del wireframe en una interfaz funcional y atractiva, asegurando una experiencia de usuario coherente con la propuesta.
 
 ## 4.3.1. Landing Page Wireframe.
 
-**Landing Page para Desktop Web** 
+**LADING PAGE WEB**
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/web-aplications/Home • Desktop.png"
+       alt="Home desktop">
+
+**Barra de Navegación**: Ubicada en la parte superior, incluye el logotipo y enlaces de navegación, junto con botones de "Login" y "start".
+
+**Título Principal**:"Centralize your projects, control your future". Define el beneficio central de la plataforma.
+
+**Texto**: Un párrafo descriptivo que detalla cómo la herramienta ayuda a los equipos a gestionar proyectos complejos.
+
+**Llamados a la Acción**: Un botón primario para "Get started" y un enlace secundario para "See how it works".
+
+**Elemento Visual**: Un contenedor de imagen (placeholder) de gran formato a la derecha para mostrar la interfaz del software o un video explicativo.
+
+**Sección de Pilares de Gestión**: Bajo el título "Three pillars of management", se divide la pantalla en tres bloques informativos:
+- **Pilar 1**: Enfoque en la simplicidad y el orden.
+- **Pilar 2**: Control total sobre las tareas y cronogramas.
+- **Pilar 3**: Flexibilidad para adaptarse a diferentes flujos de trabajo.
+
+**Contenido**: A la izquierda, una imagen de la arquitectura del sistema; a la derecha, texto que refuerza la robustez técnica del producto y logotipos de certificaciones o tecnologías integradas.
+
+**Flujo de Onboarding**: Se detalla la facilidad de implementación bajo el título "Getting started takes minutes, not months":
+
+- 1: Conectar los proyectos existentes a la plataforma.
+- 2: Configurar el enfoque de proyectos.
+- 3: Generar insights y liderar mediante el uso de datos.
+
+**Logotipos**: Una franja horizontal con marcas de empresas que validan la plataforma.
+
+**Pie de Página**: Contiene el logotipo, descripción de la misión, redes sociales y columnas de enlaces rápidos (Product, Company, Resources, Legal).
+
+**LADING PAGE MOBILE**
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/web-aplications/Home • Mobile.png"
+       alt="Home mobile">
+
+**Cabecera y Navegación**: Se utiliza para ocultar los enlaces de navegación, manteniendo el logotipo a la izquierda para maximizar el espacio.
+
+**Headline**:centrado para impacto inmediato.El botón principal ocupa el ancho completo o se destaca visualmente, seguido por el enlace secundario.
+
+**Imagen de Soporte**: Un contenedor gris ubicado debajo del texto para mostrar el producto sin interrumpir la lectura inicial.
+
+1. **Pilares de Gestión**: Bajo el título "Three pillars of management", las tres tarjetas de beneficios se presentan. Cada una contiene su icono centrado, título y breve descripción para facilitar el escaneo visual.
+
+2. **Beneficios Enumerados**: Se mantienen los números de gran tamaño para guiar el recorrido del usuario. Cada punto (Control, Alineación, Comunicación y Datos) incluye su respectivo cuerpo de texto alineado a la izquierda.
+
+3. **Sección de Autoridad Técnica**: El bloque presenta el texto descriptivo primero, seguido de una cuadrícula de iconos de tecnologías y cerrando con una imagen representativa del sistema.
+
+**Flujo de Usuario y Conversión**: Desglosa el proceso en tres bloques verticales numerados, asegurando que el usuario comprenda el flujo de trabajo (Conectar, Monitorear, Liderar) con iconos claros para cada fase.
+
+**Testimonios**: Se muestra un solo testimonio a la vez o en formato carrusel, incluyendo la calificación de estrellas y la identidad del cliente.
+
+**Logos de Respaldo**: Los logotipos de empresas asociadas se reorganizan en una cuadrícula compacta de dos columnas para no extender demasiado el largo de la página.
+
+**Cierre**: Un banner final con el mensaje de invitación y el botón de acción principal.
+
+**Newsletter**: Un formulario de suscripción vertical con el campo de texto y el botón de registro apilados.Los enlaces de navegación (Product, Company, Resources) se presentan en listas verticales expandibles o fijas.Finaliza con iconos de redes sociales y los términos legales en la base de la pantalla.
+
+## 4.3.2. Landing Page Mock-up.
+
+**LADING PAGE MOCK-UP WEB**
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/web-aplications/Home • Desktop (mok-ups).png"
+       alt="Home desktop">
+
+**Barra de Navegación**: Ubicada en la parte superior, incluye el logotipo de la marca a la izquierda y enlaces de navegación (Product, Pricing, Blog, Resources) a la derecha, junto con botones de "Login" y "Start".
+
+**Título Principal**: Con el texto "Centralize your projects, control your future.". Define el beneficio central de la plataforma.
+
+**Cuerpo de Texto**: Un párrafo descriptivo que detalla cómo la herramienta ayuda a los equipos a gestionar proyectos complejos de manera eficiente.
+
+**Llamados a la Acción**: Dos botones claros: uno primario destacado en azul con el texto "Try for free" y uno secundario tipo enlace con el texto "See how".
+
+**Elemento Visual Principal**: A la derecha, una fotografía de estudio.
+
+**Sección de Pilares de Gestión**: Bajo el título centrado, se divide la pantalla en tres bloques informativos que detallan las funcionalidades principales. A diferencia del wireframe, cada bloque cuenta con una fotografía real en lugar de un marcador de posición:
+- Pilar 1: "Manage and control.." Se ilustra con una fotografía en primer plano.El texto se centra en la simplicidad y el orden.
+- Pilar 2: "Centralize communication.." Se ilustra con una foto de estilo de vida de una persona. El texto se  centraliza en las comunicaciones.
+- Pilar 3: "Maximize efficiency.." Se ilustra con unas manos sosteniendo una taza de café y escribiendo en un bloc de notas. El texto se centra en maximizar la eficiencia y reducir el riesgo.
+
+**Sección de Transformación y Beneficios**: Sección que utiliza una numeración secuencial del 01 al 04 para guiar al usuario a través de los beneficios clave:
+- **01. Control:** Qué cambia al tomar el control de la información de los proyectos.
+- **02. Alineación:** Finalización de proyectos a tiempo y equipos sincronizados.
+- **03. Comunicación:** Flujos de trabajo que realmente funcionan y conectividad efectiva.
+- **04. Datos:** Toma de decisiones basada en hechos reales, no en intuiciones.
+
+**Testimonios**: Espacio dedicado a "Real voices" que muestra una reseña de usuario con una calificación de 5 estrellas, la cita de texto del testimonio, y la identificación del cliente.
+
+**Logotipos**: Una franja horizontal con logotipos de empresas reconocidas (como "Spotify", "Netflix") que validan la fiabilidad de la plataforma.
+
+**Final**: Un banner final simplificado a la izquierda con el título "Ready to lead better projects?" y el botón de acción principal.
+
+**Newsletter**: Sección de captura de correos con el título "Stay ahead of what's next".
+
+**Pie de Página**: Contiene el logotipo, descripción de la misión, redes sociales y columnas de enlaces rápidos (Product, Company, Resources, Legal).
+
+**LADING PAGE MOCK-UP MOBILE**
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-4/web-aplications/Home • Mobile (mok-ups).png"
+       alt="Home mobile">
+
+**Header y Navegación**: El logotipo de la marca se ubica a la izquierda. Se utiliza un menú para ocultar los enlaces de navegación, maximizando el espacio en la pantalla pequeña.
+
+**Título (H1)**: "Centralize your projects, control your future.", centrado y en negrita.
+**Texto**: El párrafo descriptivo se presenta centrado bajo el título.
+
+**Opciones**: Los botones se presentan en columna: un botón primario destacado en azul ("Try for free") arriba, y el enlace secundario ("See how") abajo.
+
+**Elemento Visual**: Una fotografía ubicada debajo de los botones de acción para una composición compacta.
+
+**Cuerpo de Contenidos**: Todos los bloques de contenido se reorganizan:
+1. **Pilares de Gestión**: Bajo el título centrado, las tres tarjetas de beneficios se presentan de forma apilada. Cada una incluye su fotografía real de alta fidelidad centrada, seguida del título y la descripción.
+2. **Beneficios Enumerados (01-04)**: Se mantienen los números secuenciales (del 01 al 04) de gran tamaño como guías visuales alineados a la izquierda. Cada punto presenta su título y texto descriptivo idéntico al wireframe.
+3. **Autoridad y Respaldo**:Presenta primero el texto descriptivo, seguido de una cuadrícula compacta de logotipos de certificaciones o tecnologías integradas.
+
+**Onboarding en Pasos**: Cada bloque incluye un icono claro (conexión, engranaje, gráfico), el título del paso y la descripción.
+
+**Testimonios**: Se muestra una reseña con calificación de 5 estrellas, la cita de texto del testimonio, el nombre y cargo del usuario. Se presenta en un formato de carrusel donde solo una reseña es visible a la vez.
+
+**Logos de Respaldo**: Los logotipos de empresas asociadas ("Spotify", "Netflix") se reorganizan en una cuadrícula compacta de dos columnas para optimizar el largo de la página.
+
+**Cierre**: Un banner final con el título centrado "Ready to lead better projects?" y el botón de acción principal arriba de la fotografía.
+
+**Newsletter**: Una sección vertical de suscripción con el título "Stay ahead of what's next", el campo de entrada de correo electrónico y el botón de registro apilados uno sobre el otro.
+
+**Footer Organizado**: Los enlaces de navegación (Product, Company, Resources) se presentan en listas verticales fijas o expandibles. Finaliza con iconos de redes sociales y los términos legales en la base de la pantalla, en una composición compacta.
+
+# 4.4. Web Applications UX/UI Design.
+
+Se enfoca en los dashboards(UX), en  flujos para la generación de reportes. Se detalla el diseño de experiencia para asegurar que los Project Managers gestionen múltiples proyectos.
+
+## 4.4.1. Web Applications Wireframes.
+
+**Web applications** 
 
  Wireframe - Team Chat Hub (Desktop) 
 <div style="text-align:center;">
@@ -289,7 +427,7 @@ Wireframe - Home Leader Hub (Desktop)
        alt="Home Leader Hub">
 </div>
 
-**Landing Page para Mobile Web** 
+**Web applications mobil** 
 
 Wireframe - Team Chat Hub (Mobile)
 <div style="text-align:center;">
@@ -374,178 +512,6 @@ Wireframe - Executive Profile (Mobile)
   <img src="assets/images/chapter-4/mobile-wireframe/Wireframe - Executive Profile (Mobile)14.png"
        alt="Executive Profile">
 </div>
-
-## 4.3.2. Landing Page Mock-up.
-
-**Landing Page Mock-up para web** 
-
-Profile (Desktop)
-<div style="text-align:center;">
-  <img src="assets/images/chapter-4/Landing-Mock-up/Profile (Desktop)1.png"
-       alt="Profile">
-</div>
-
-Portfolio Master (Desktop)
-<div style="text-align:center;">
-  <img src="assets/images/chapter-4/Landing-Mock-up/Portfolio Master (Desktop)2.png"
-       alt="Portfolio Master">
-</div>
-
-Resource Planning (Desktop)
-<div style="text-align:center;">
-  <img src="assets/images/chapter-4/Landing-Mock-up/Resource Planning (Desktop)3.png"
-       alt="Resource Planning">
-</div>
-
-Home - Leader Hub (Desktop)
-<div style="text-align:center;">
-  <img src="assets/images/chapter-4/Landing-Mock-up/Home - Leader Hub (Desktop)4.png"
-       alt="Home - Leader Hub">
-
-Risk & Compliance (Desktop)
-<div style="text-align:center;">
-  <img src="assets/images/chapter-4/Landing-Mock-up/Risk & Compliance (Desktop)5.png"
-       alt="Risk & Compliance">
-
-Advanced Analytics (Desktop)
-<div style="text-align:center;">
-  <img src="assets/images/chapter-4/Landing-Mock-up/Advanced Analytics (Desktop)6.png"
-       alt="Advanced Analytics">
-
-Settings (Desktop)
-<div style="text-align:center;">
-  <img src="assets/images/chapter-4/Landing-Mock-up/Settings (Desktop)7.png"
-       alt="Settings">
-
-Profile - Leader (Desktop)
-<div style="text-align:center;">
-  <img src="assets/images/chapter-4/Landing-Mock-up/Profile - Leader (Desktop)8.png"
-       alt="Profile - Leader">
-
-Team Board (Desktop)
-<div style="text-align:center;">
-  <img src="assets/images/chapter-4/Landing-Mock-up/Team Board (Desktop)9.png"
-       alt="Team Board">
-
-Team Chat Hub (Desktop)
-<div style="text-align:center;">
-  <img src="assets/images/chapter-4/Landing-Mock-up/Team Chat Hub (Desktop)10.png"
-       alt="Team Chat Hub">
-
-My Projects (Desktop)
-<div style="text-align:center;">
-  <img src="assets/images/chapter-4/Landing-Mock-up/My Projects (Desktop)11.png"
-       alt="My Projects">
-
-Quick Reports (Desktop)
-<div style="text-align:center;">
-  <img src="assets/images/chapter-4/Landing-Mock-up/Quick Reports (Desktop)12.png"
-       alt="Quick Reports">
-
-Meetings & Agreements (Desktop)
-<div style="text-align:center;">
-  <img src="assets/images/chapter-4/Landing-Mock-up/Meetings & Agreements (Desktop)13.png"
-       alt="Meetings & Agreements">
-
-Home - Leader Hub (Desktop) v2 
-<div style="text-align:center;">
-  <img src="assets/images/chapter-4/Landing-Mock-up/Home - Leader Hub (Desktop) v2 14.png"
-       alt="Home - Leader Hub V2">
-
-**Landing Page Mock-up Mobile Web** 
-
-Portfolio Master (Home)
-<div style="text-align:center;">
-  <img src="assets/images/chapter-4/mobile-mock-up/Portfolio Master (Home)1.png"
-       alt="Portfolio Master">
-
-Admin & Systems (Corporate)
-<div style="text-align:center;">
-  <img src="assets/images/chapter-4/mobile-mock-up/Admin & Systems (Corporate)2.png"
-       alt="Admin & Systems">
-
-Advanced Analytics (Corporate)
-<div style="text-align:center;">
-  <img src="assets/images/chapter-4/mobile-mock-up/Advanced Analytics (Corporate)3.png"
-       alt="Advanced Analytics">
-
-Resource Planning (Corporate)
-<div style="text-align:center;">
-  <img src="assets/images/chapter-4/mobile-mock-up/Resource Planning (Corporate)4.png"
-       alt="Resource Planning">
-
-Risk & Compliance (Corporate)
-<div style="text-align:center;">
-  <img src="assets/images/chapter-4/mobile-mock-up/Risk & Compliance (Corporate)5.png"
-       alt="Risk & Compliance">
-
-Admin & Systems Settings
-<div style="text-align:center;">
-  <img src="assets/images/chapter-4/mobile-mock-up/Admin & Systems Settings6.png"
-       alt="Admin & Systems Settings">
-
-Profile (Mobile)
-<div style="text-align:center;">
-  <img src="assets/images/chapter-4/mobile-mock-up/Profile (Mobile)7.png"
-       alt="Profile">
-
-Settings (Mobile)
-<div style="text-align:center;">
-  <img src="assets/images/chapter-4/mobile-mock-up/Settings (Mobile)8.png"
-       alt="Settings">
-
-Team Chat Hub 
-<div style="text-align:center;">
-  <img src="assets/images/chapter-4/mobile-mock-up/Team Chat Hub 9.png"
-       alt="Team Chat Hub">
-
-Quick Reports 
-<div style="text-align:center;">
-  <img src="assets/images/chapter-4/mobile-mock-up/Quick Reports 10.png"
-       alt="Quick Reports ">
-
-Profile & Settings 
-<div style="text-align:center;">
-  <img src="assets/images/chapter-4/mobile-mock-up/Profile & Settings 11.png"
-       alt="Profile & Settings ">
-
-My Projects (Control)
-<div style="text-align:center;">
-  <img src="assets/images/chapter-4/mobile-mock-up/My Projects (Control)12.png"
-       alt="My Projects">
-
-Home - Leader Hub 
-<div style="text-align:center;">
-  <img src="assets/images/chapter-4/mobile-mock-up/Home - Leader Hub 13.png"
-       alt="Home - Leader Hub ">
-
-Team Board (Operativa)
-<div style="text-align:center;">
-  <img src="assets/images/chapter-4/mobile-mock-up/Team Board (Operativa) 14.png"
-       alt="Team Board ">
-
-Meetings & Agreements 
-<div style="text-align:center;">
-  <img src="assets/images/chapter-4/mobile-mock-up/Meetings & Agreements 15.png"
-       alt="Meetings & Agreements">
-
-# 4.4. Web Applications UX/UI Design.
-
-Se enfoca en los dashboards(UX), en  flujos para la generación de reportes. Se detalla el diseño de experiencia para asegurar que los Project Managers gestionen múltiples proyectos.
-
-## 4.4.1. Web Applications Wireframes.
-
-**Web applications wireframes lading page** 
-
-<div style="text-align:center;">
-  <img src="assets/images/chapter-4/web-aplications/Home • Desktop.png"
-       alt="Home desktop">
-
-**Web applications wirefreames mobil** 
-
-<div style="text-align:center;">
-  <img src="assets/images/chapter-4/web-aplications/Home • Mobile.png"
-       alt="Home mobile">
 
 ## 4.4.2. Web Applications Wireflow Diagrams.
 
