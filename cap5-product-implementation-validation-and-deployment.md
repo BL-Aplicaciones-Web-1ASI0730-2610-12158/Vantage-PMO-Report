@@ -226,6 +226,55 @@ El objetivo principal de este sprint consiste en establecer el núcleo funcional
 </table>
 
 ##### 5.2.1.4. Development Evidence for Sprint Review
+
+En esta sección se presentan los avances obtenidos durante la fase de implementación, considerando los productos definidos dentro del alcance del Sprint. En este caso, se analizará específicamente el Sprint Backlog 01, el cual está enfocado exclusivamente en el desarrollo de la Landing Page.
+
+Se describen las funcionalidades implementadas y el progreso alcanzado en relación con los requerimientos establecidos para este sprint. Asimismo, se incluye una tabla que detalla la información correspondiente a los repositorios utilizados, donde se evidencian los commits realizados como parte del desarrollo, permitiendo así un seguimiento claro de los cambios y aportes efectuados durante el proceso.
+
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Commit Message Body</th>
+    <th>Commited on (Date)</th>
+  </tr>
+
+  <tr>
+    <td>FulLHous/Vantage-PMO-Business-Web-Page</td>
+    <td>develop</td>
+    <td>24a5c23</td>
+    <td>feat: add products and ai sections with carousel.</td>
+    <td>Permite visualizar el producto mediante un carrusel interactivo, al igual que la informacion de la ia.</td>
+    <td>22/04/2026</td>
+  </tr>
+  <tr>
+    <td>FulLHous/Vantage-PMO-Business-Web-Page</td>
+    <td>develop</td>
+    <td>fba762b</td>
+    <td>feat: add client side i18n module (en/es)</td>
+    <td>Permite incorporar un modulo de internacionalizacion del lado del cliente para alternar el contenido de la landing page entre espanol e ingles.</td>
+    <td>21/04/2026</td>
+  </tr>
+  <tr>
+    <td>FulLHous/Vantage-PMO-Business-Web-Page</td>
+    <td>develop</td>
+    <td>eb71d2f9f</td>
+    <td>feat: add main and nav javascript modules.</td>
+    <td>Permite modularizar la logica principal y la navegacion del sitio para mejorar la interaccion del usuario y la organizacion del codigo.</td>
+    <td>21/04/2026</td>
+  </tr>
+  <tr>
+    <td>mau-tz/Vantage-PMO-Business-Web-Page</td>
+    <td>develop</td>
+    <td>fbd6077</td>
+    <td>feat: update team roles and spanish heading</td>
+    <td>Permite actualizar los roles del equipo y corregir el encabezado en español para mantener la consistencia del contenido mostrado en la landing page.</td>
+    <td>25/04/2026</td>
+  </tr>
+</table>
+
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
