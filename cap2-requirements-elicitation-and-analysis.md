@@ -172,7 +172,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="resources/images/chapter-2/entrevistas/Interview-of-Renzo-Araos.png" alt="Entrevista a Renzo Araos"></td>
+    <td><div align="center"><img src="assets/images/chapter-2/entrevistas/Interview-of-Renzo-Araos.png" alt="Entrevista a Renzo Araos"></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -219,7 +219,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="resources/images/chapter-2/entrevistas/interview-of-victor-esquicha.png" alt="Entrevista a Victor Esquicha"></td>
+    <td><div align="center"><img src="assets/images/chapter-2/entrevistas/interview-of-victor-esquicha.png" alt="Entrevista a Victor Esquicha"></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -267,7 +267,7 @@ En esta sección presentamos los registros de las entrevistas que hicimos para c
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="resources/images/chapter-2/entrevistas/imagen-seg2.png" alt= "Entrevista Valentin"></td>
+    <td><div align="center"><img src="assets/images/chapter-2/entrevistas/imagen-seg2.png" alt= "Entrevista Valentin"></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -316,7 +316,7 @@ Respecto a retrasos en la coordinación, menciona que no suele ser frecuente, au
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="resources/images/chapter-2/entrevistas/interview-of-Katherine-Herrera.png" alt= "Entrevista Katherine"></td>
+    <td><div align="center"><img src="assets/images/chapter-2/entrevistas/interview-of-Katherine-Herrera.png" alt= "Entrevista Katherine"></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -364,7 +364,7 @@ Respecto a retrasos en la coordinación, menciona que no suele ser frecuente, au
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="resources/images/chapter-2/entrevistas/interview-of-magali-alcantara.png" alt= "Entrevista Magali"></td>
+    <td><div align="center"><img src="assets/images/chapter-2/entrevistas/interview-of-magali-alcantara.png" alt= "Entrevista Magali"></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -444,13 +444,13 @@ En esta sección describe dos User Personas que reflejan los principales segment
 
 **Segmento 1**
 
-![User-Persona-1](resources/images/chapter-2/Needfinding/Segment-1/User-Persona-Renzo-Araos.png)
+![User-Persona-1](assets/images/chapter-2/Needfinding/Segment-1/User-Persona-Renzo-Araos.png)
 
 El User Persona de Renzo Araos revela una contradicción crítica entre su capacidad estratégica y las limitaciones operativas de su entorno. Aunque posee una sólida base técnica y experiencia internacional que le permiten liderar con una visión de eficiencia (buscando reducir el time-to-market), su productividad se ve severamente truncada por una "deuda documental" en los equipos a los que se integra. Para un perfil que valora tanto el control diario y la optimización mediante herramientas como Microsoft Project, la falta de estándares en la información no solo representa un retraso en las entregas, sino un riesgo para su bienestar profesional al obligarlo a compensar deficiencias organizacionales con horas extras. En última instancia, el éxito de Renzo depende de encontrar una solución que transforme la documentación de un obstáculo denso y desorganizado en un activo ágil que facilite la toma de decisiones.
 
 **Segmento 2**
 
-![User-Persona-2](resources/images/chapter-2/Needfinding/Segment-2/User-Persona-Katherine-Herrera.png)
+![User-Persona-2](assets/images/chapter-2/Needfinding/Segment-2/User-Persona-Katherine-Herrera.png)
 
 Por otro lado, el User Persona Katherine Herrera encarna a la líder operativa en sectores de alta rotación, como el farmacéutico, que enfrenta la complejidad de supervisar múltiples iniciativas críticas simultáneamente. Con un equipo de 12 personas a su cargo, Katherine opera en un entorno de alta presión donde la falta de una herramienta estandarizada la obliga a depender de un ecosistema fragmentado entre Excel y WhatsApp. Valora profundamente la precisión y la visibilidad inmediata de los estados de avance para asegurar el cumplimiento de plazos y la optimización de recursos. Aunque domina las herramientas tradicionales, sufre la frustración de la "ceguera operativa" causada por la dispersión de datos. Su mayor necesidad es una solución centralizada que le brinde control total y alertas automáticas, permitiéndole migrar de una gestión reactiva a una supervisión estratégica y eficiente.
 
@@ -506,22 +506,22 @@ En esta sección se presentan los User Journey Maps en su estado actual (As-Is),
 
 **Segmento 1**
 
-![User-Journey-Map-1](resources/images/chapter-2/Needfinding/Segment-1/User-Journey-Map-of-Renzo-Araos.png)
+![User-Journey-Map-1](assets/images/chapter-2/Needfinding/Segment-1/User-Journey-Map-of-Renzo-Araos.png)
 
 **Segmento 2**
 
-![User-Journey-Map-2](resources/images/chapter-2/Needfinding/Segment-2/User-Journey-Map-of-Katherine-Herrera.png)
+![User-Journey-Map-2](assets/images/chapter-2/Needfinding/Segment-2/User-Journey-Map-of-Katherine-Herrera.png)
 
 ### 2.3.4. Empathy Mapping
 Se ha elaborado el Empathy Map para cada uno de nuestros User Personas con el fin de profundizar en su realidad cotidiana, logrando así una comprensión genuina de sus necesidades. Este análisis nos permite conectar con sus motivaciones más profundas y visualizar los obstáculos que enfrentan, garantizando que las soluciones propuestas no solo sean técnicas, sino que respondan verdaderamente a sus frustraciones y metas personales.
 
 **Segmento 1**
 
-![Empathy-Map-1](resources/images/chapter-2/Needfinding/Segment-1/Empathy-Map-of-Renzo-Araos.png)
+![Empathy-Map-1](assets/images/chapter-2/Needfinding/Segment-1/Empathy-Map-of-Renzo-Araos.png)
 
 **Segmento 2**
 
-![Empathy-Map-2](resources/images/chapter-2/Needfinding/Segment-2/Empathy-Map-of-Katherine-Herrera.png)
+![Empathy-Map-2](assets/images/chapter-2/Needfinding/Segment-2/Empathy-Map-of-Katherine-Herrera.png)
 
 ## 2.4. Big Picture EventStorming
 
