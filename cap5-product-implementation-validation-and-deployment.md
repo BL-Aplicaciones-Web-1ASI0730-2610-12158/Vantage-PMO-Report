@@ -535,4 +535,23 @@ La finalización de este Sprint es el resultado de un esfuerzo coordinado para t
 
 Como evidencia del dinamismo y la colaboración técnica, se adjuntan los indicadores de actividad (commits, merges y contribuciones) extraídos de GitHub:
 
-*[Insertar captura de pantalla de Insights de GitHub aquí]*
+### Analíticos de GitHub — Report
+
+![Gráfica de contribuciones — Landing Page](assets/images/chapter-5/Team-Colaboration/Contributors.jpeg)
+
+#### Analíticos de GitHub — Landing Page
+ 
+<p align="center">
+  <img src="assets/images/chapter-5/Team-Colaboration/Committers.jpeg" alt="Top Committers — Sprint 1" width="600"/>
+</p>
+Se evidencia la participación plena de los cinco integrantes en el desarrollo de la Landing Page. La distribución de las contribuciones técnicas valida una colaboración equitativa y constante por parte de todo el equipo durante el ciclo de trabajo inicial.
+
+| Integrante | Usuario GitHub | Commits |
+|---|---|---|
+| Bautista Rivera, Jose Diego | `mau-tz` | 25 |
+| Guillen Giraldo, Mike Dylan| `FulLHous` | 22 |
+| Quispe Llacsahuanga, César Agusto | `user20-bit` | 12 |
+| Esquicha Alcántara, Diego Alonso | `DiegoEsquich` | 10 |
+| Rocha Cotrina, Alvaro | `alvarorc24` | 16 |
+
+Se evidencia la colaboración constante y la sinergia grupal mediante la trazabilidad de los aportes individuales. Cada integrante sumó valor en áreas críticas del desarrollo, garantizando no solo el avance técnico del sistema, sino también el cumplimiento de los acuerdos establecidos durante la planificación del ciclo de trabajo.
