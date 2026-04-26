@@ -1,6 +1,49 @@
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
 ### 5.1.2. Source Code Management
+
+Para la gestión del código del proyecto, el equipo adoptó una estrategia simplificada en lugar de implementar completamente el modelo Git Flow. Se trabajó principalmente sobre una rama principal (main), la cual contiene la versión estable y actual del sistema en desarrollo. 
+
+Adicionalmente, se crearon algunas ramas específicas organizadas por capítulos del proyecto. Estas ramas permitieron desarrollar avances de manera más ordenada antes de integrarlos a la rama principal, sin llegar a una estructura compleja de múltiples ramas por funcionalidades o versiones. 
+
+Todas las funcionalidades y mejoras fueron finalmente integradas en la rama main, asegurando que esta siempre represente el estado más actualizado del proyecto. Este enfoque, aunque más sencillo que Git Flow, resultó adecuado para el alcance del trabajo, ya que facilitó el control del progreso sin generar una sobrecarga en la gestión de ramas.
+
+ Por otro lado, se utilizó GitHub como repositorio central del proyecto, aprovechando también herramientas como GitHub Pages para la visualización del Landing Page. Esto permitió desplegar rápidamente los avances en formato web y contar con una versión accesible del sistema de manera ágil y eficiente.
+
+---
+
+**Landing Page — GitHub Pages**
+
+Enlace de despliegue: 
+
+![Landing Page desplegada en GitHub Pages]()
+
+**Landing Page — Repositorio GitHub**
+
+Enlace del repositorio: https://github.com/BL-Aplicaciones-Web-1ASI0730-2610-12158/Vantage-PMO-Business-Web-Page
+
+![Repositorio GitHub — Landing Page](assets/images/chapter-5/landing-page/landing-page-repository.png)
+
+### Versionado Semántico
+
+Se aplicará el esquema de **Semantic Versioning 2.0.0**, con el siguiente formato:
+
+- **MAJOR**: Incompatibilidades en la API.
+- **MINOR**: Nuevas funcionalidades sin romper compatibilidad.
+- **PATCH**: Correcciones de errores menores y ajustes sin afectar funcionalidades.
+
+_Ejemplo de versión:_ `v1.3.4`
+
+### Convenciones de Commits
+
+Se adoptará el estándar de **Conventional Commits** para la redacción de los mensajes de commit, lo cual permitirá estructurar mejor los cambios realizados. Este enfoque facilita la automatización de procesos como la integración continua y la generación de historiales de cambios (changelogs).
+
+**Ejemplos:**
+
+- `feat: add project creation form`
+- `fix: resolve error in task assignment module`
+- `docs: update user stories and diagrams`
+- `chore: update dependencies`
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
 ## 5.2. Landing Page, Services & Applications Implementation.
