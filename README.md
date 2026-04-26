@@ -32,7 +32,7 @@
 | Teran Zavala, Mauricio Alejandro     | U202417423 |
 
 
-**Mes y Año**: Marzo 2026
+**Mes y Año**: Abril 2026
 
 ---
 
@@ -41,34 +41,9 @@
 <div class="page"></div>
 
 ## Registro de Versiones del Informe
-| Versión | Fecha | Autor | Descripción de modificación |
+| Versión | Fecha | Autores | Descripción |
 | :--- | :--- | :--- | :--- |
-| **1.1** | 09/04/26 | Alvaro Rocha | Se redactó la descripción de la startup profile y el perfil de los estudiantes. |
-| **1.2** | 09/04/26 | Mauricio Teran | Se realizó los antecedentes y problemática de nuestro proyecto. |
-| **1.3** | 09/04/26 | Dylan Guillen | Se realizó los puntos del lean UX process |
-| **1.4** | 09/04/26 | Diego Esquicha | Se realizó los segmentos objetivos de nuestro proyecto |
-| **1.5** | 10/04/26 | Alvaro Rocha | Se realizó el análisis competitivo y las estrategias frente a competidores |
-| **2.1** | 10/04/26 | Diego Esquicha | Se realizó el diseño de las entrevistas de cada segmento |
-| **2.2** | 14/04/26 | Mauricio Teran | Se registró la primera entrevista del segmento 1 |
-| **2.3** | 15/04/26 | César Quispe | Se registró la primera entrevista del segmento 2 |
-| **2.4** | 15/04/26 | Alvaro Rocha | Se registró otra entrevista del segmento 2 |
-| **2.5** | 15/04/26 | César Quispe | Se registró otra entrevista del segmento 1 |
-| **3.1** | 15/04/26 | Alvaro Rocha| Se registró otra entrevista del segmento 2 |
-| **3.2** | 15/04/26 | Diego Esquicha| Se registró dos entrevistas de ambos segmentos |
-| **3.2** | 15/04/26 | Diego Esquicha| Se desarrolló el análisis de entrevistas ambos segmentos |
-| **3.3** | 16/04/26 | Dylan Guillen| Se elaboró el User Persona del segmento 2 |
-| **3.4** | 16/04/26 | Dylan Guillen| Se elaboró el User Task Matrix del segmento 2 |
-| **3.5** | 16/04/26 | Mauricio Teran| Se elaboró el User Persona del segmento 1 |
-| **3.6** | 16/04/26 | Mauricio Teran| Se elaboró el User Task Matrix del segmento 1 |
-| **3.7** | 16/04/26 | Dylan Guillen| Se elaboró el User Journey Mapping del segmento 2 |
-| **3.7** | 16/04/26 | Mauricio Teran| Se elaboró el User Journey Mapping del segmento 1 |
-| **3.7** | 16/04/26 | Mauricio Teran| Se elaboró el Empathy Mapping del segmento 1 |
-| **3.8** | 16/04/26 | Dylan Guillen| Se elaboró el Empathy Mapping del segmento 2 |
-| **3.9** | 17/04/26 | Alvaro Rocha | Se elaboró el Ubiquitous Language |
-| **4.0** | 18/04/26 | Alvaro Rocha | Se elaboró el Big Picture EventStorming |
-| **4.1** | 19/04/26 | Dylan Guillen | Se elaboró los User Stories|
-| **4.1** | 19/04/26 | Mauricio Teran| Se elaboró los User Stories|
-| **4.3** | 19/04/26 | César Quispe | Se elaboró el Impact Mapping de ambos segmentos|
+| **AV1** | 25/04/2026 | Rocha, Alvaro<br>Esquicha, Diego<br>Guillen, Dylan<br>Quispe, César<br>Teran Zavala, Mauricio Alejandro | Para la entrega AV1 se consolidó la estructura del informe técnico, incluyendo carátula, registro de versiones, tabla de contenidos y la definición de Student Outcomes.<br><br>**Capítulo I — Introducción:** Se redactó el Startup Profile y el Solution Profile (Vantage PMO), detallando la propuesta de valor para la gestión de portafolios y gobernanza corporativa enfocada en los segmentos de líderes de proyectos y administradores PMO.<br><br>**Capítulo II — Requirements Elicitation & Analysis:** Se realizó el análisis de competidores y el registro de entrevistas a profundidad. Se desarrolló el Needfinding (User Personas, Task Matrix, Journey Mapping), así como el Big Picture EventStorming para identificar los eventos clave del dominio y el Ubiquitous Language basado en los Bounded Contexts definidos.<br><br>**Capítulo III — Requirements Specification:** Se elaboró el Product Backlog priorizando las User Stories críticas. Se aplicó la metodología de Impact Mapping para alinear las funcionalidades con los objetivos estratégicos del negocio.<br><br>**Capítulo IV — Product Design:** Se completaron las Style Guidelines y la Arquitectura de Información. Se desarrolló la Software Architecture bajo el Modelo C4 (Contexto, Contenedores y Componentes), especificando el uso de C# (.NET) para el backend y Vue.js/Vite para el frontend, además del diseño lógico y físico de la base de datos.<br><br>**Capítulo V — Product Implementation:** Se documentó la gestión de configuración de software y la evidencia del Sprint 1. Se incluyó el Sprint Planning, Sprint Backlog (enfocado en US20, US31, US02 y US37), documentación de servicios y evidencias de despliegue inicial.<br><br>Finalmente, se incluyeron las conclusiones preliminares del equipo, la bibliografía técnica y los anexos correspondientes. |
 
 
 # Project Report Collaboration Insights
