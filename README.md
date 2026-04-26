@@ -1,4 +1,4 @@
-<div align="center">
+<div aligne="center">
 <img src="assets/images/UPC_logo_transparente.png" alt="Logo-UPC" width="150">
   
 ## Universidad Peruana de Ciencias Aplicadas
@@ -9,9 +9,9 @@
 
 **Ciclo:** 2026-1
  
-1ASI0729 - Desarrollo de Aplicaciones Open Source 
+1ASI0730 - Aplicaciones Web
 
-**NRC:** 10177
+**NRC:** 12158
 
 **Profesor:** Villafuerte Bazan, Oscar Ivan 
 
@@ -27,12 +27,12 @@
 | ------------------------------------ | ---------- |
 | Rocha Cotrina, Alvaro                | U202411243 |
 | Esquicha Alcántara, Diego Alonso     | U202411799 |
-| Quispe llacsahuanga, César Agusto    | U202417405 |
+| Quispe Llacsahuanga, César Agusto    | U202417405 |
 | Guillen Giraldo, Mike Dylan          | U202211881 |
 | Teran Zavala, Mauricio Alejandro     | U202417423 |
 
 
-**Mes y Año**: Marzo 2026
+**Mes y Año**:  2026
 
 ---
 
@@ -41,6 +41,10 @@
 <div class="page"></div>
 
 ## Registro de Versiones del Informe
+| Versión | Fecha | Autores | Descripción de modificación |
+| :--- | :--- | :--- | :--- |
+| **AV1** | 25/04/2026 | Rocha, Alvaro<br>Esquicha, Diego<br>Guillen, Dylan<br>Quispe, César<br>Teran Zavala, Mauricio Alejandro | Para la entrega AV1 se consolidó la estructura del informe técnico, incluyendo carátula, registro de versiones, tabla de contenidos y la definición de Student Outcomes.<br><br>**Capítulo I — Introducción:** Se redactó el Startup Profile y el Solution Profile (Vantage PMO), detallando la propuesta de valor para la gestión de portafolios y gobernanza corporativa enfocada en los segmentos de líderes de proyectos y administradores PMO.<br><br>**Capítulo II — Requirements Elicitation & Analysis:** Se realizó el análisis de competidores y el registro de entrevistas a profundidad. Se desarrolló el Needfinding (User Personas, Task Matrix, Journey Mapping), así como el Big Picture EventStorming para identificar los eventos clave del dominio y el Ubiquitous Language basado en los Bounded Contexts definidos.<br><br>**Capítulo III — Requirements Specification:** Se elaboró el Product Backlog priorizando las User Stories críticas. Se aplicó la metodología de Impact Mapping para alinear las funcionalidades con los objetivos estratégicos del negocio.<br><br>**Capítulo IV — Product Design:** Se completaron las Style Guidelines y la Arquitectura de Información. Se desarrolló la Software Architecture bajo el Modelo C4 (Contexto, Contenedores y Componentes), especificando el uso de C# (.NET) para el backend y Vue.js/Vite para el frontend, además del diseño lógico y físico de la base de datos.<br><br>**Capítulo V — Product Implementation:** Se documentó la gestión de configuración de software y la evidencia del Sprint 1. Se incluyó el Sprint Planning, Sprint Backlog (enfocado en US20, US31, US02 y US37), documentación de servicios y evidencias de despliegue inicial.<br><br>Finalmente, se incluyeron las conclusiones preliminares del equipo, la bibliografía técnica y los anexos correspondientes. |
+
 
 # Project Report Collaboration Insights
 
@@ -138,39 +142,6 @@
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5218-team-collaboration-insights-during-sprint)
-  - [5.2.2. Sprint 2](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#522-sprint-2)
-    - [5.2.2.1. Sprint Planning 2](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5221-sprint-planning-2)
-    - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
-    - [5.2.2.3. Sprint Backlog 2](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5223-sprint-backlog-2)
-    - [5.2.2.4. Development Evidence for Sprint Review](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5224-development-evidence-for-sprint-review)
-    - [5.2.2.5. Execution Evidence for Sprint Review](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5225-execution-evidence-for-sprint-review)
-    - [5.2.2.6. Services Documentation Evidence for Sprint Review](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5226-services-documentation-evidence-for-sprint-review)
-    - [5.2.2.7. Software Deployment Evidence for Sprint Review](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5227-software-deployment-evidence-for-sprint-review)
-    - [5.2.2.8. Team Collaboration Insights during Sprint](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5228-team-collaboration-insights-during-sprint)
-  - [5.2.3. Sprint 3](#523-sprint-3)
-    - [5.2.3.1. Sprint Planning 3](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5231-sprint-planning-3)
-    - [5.2.3.2. Aspect Leaders and Collaborators](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5232-aspect-leaders-and-collaborators)
-    - [5.2.3.3. Sprint Backlog 3](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5233-sprint-backlog-3)
-    - [5.2.3.4. Development Evidence for Sprint Review](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5234-development-evidence-for-sprint-review)
-    - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
-    - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
-    - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
-    - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
-  - [5.2.4. Sprint 4](#524-sprint-4)
-    - [5.2.4.1. Sprint Planning 4](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5241-sprint-planning-4)
-    - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
-    - [5.2.4.3. Sprint Backlog 4](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5243-sprint-backlog-4)
-    - [5.2.4.4. Development Evidence for Sprint Review](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5244-development-evidence-for-sprint-review)
-    - [5.2.4.5. Execution Evidence for Sprint Review](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5245-execution-evidence-for-sprint-review)
-    - [5.2.4.6. Services Documentation Evidence for Sprint Review](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5246-services-documentation-evidence-for-sprint-review)
-    - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
-    - [5.2.4.8. Team Collaboration Insights during Sprint](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#5248-team-collaboration-insights-during-sprint)
-- [5.3. Validation Interviews](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#53-validation-interviews)
-  - [5.3.1. Diseño de entrevistas](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#531-diseño-de-entrevistas)
-  - [5.3.2. Registro de entrevistas](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#532-registro-de-entrevistas)
-  - [5.3.3. Evaluaciones según heurísticas](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#533-evaluaciones-según-heurísticas)
-- [5.4. Video About-the-Product](05-Chapter-5-Product-Implementation%2C-Validation-%26-Deployment.md#54-video-about-the-product)
-
 ---
 
 ## [Conclusiones](Bibliografia.md#bibliografia)
@@ -186,6 +157,16 @@
 
 ## [Anexos](Anexos.md#anexos)
 
-# Student Outcome
+# ABET – EAC - Student Outcome 5
+
+**Criterio:** *La capacidad de funcionar efectivamente en un
+equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de
+colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.*
+
+En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
 
 
+| Criterio específico | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| :---- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta.** | **Rocha Cotrina, Alvaro** <br />TB1: Elaboración de User Stories y Epics, Web Applications Mock-ups, General y Web Style Guidelines, Desktop Mockups, Organization Systems, Labeling Systems, Navigation Systems, Searching Systems, Ubiquitous Language, Software Configuration Management y Registro de Entrevistas. <br /><br />**Esquicha Alcántara, Diego Alonso**<br /> TB1: Registro de Entrevistas, User Stories, Class and Database Diagrams Information, Web Application User Flow Diagram, configuración del entorno de desarrollo, Source Code Style Guide & Conventions y elaboración del PPT grupal. <br /><br />**Quispe Llacsahuanga, César Augusto**<br /> TB1: Class Diagram, Database Diagrams, Web Applications Wireframes, Style Guidelines, User Stories, Lean UX, Web Applications Mock-ups, Organization Systems, SEO Tags and Meta Tags, Navigation Systems, Landing Page Mock-up y Registro de Entrevistas.<br /> <br />**Guillen Giraldo, Mike Dylan**<br /> TB1: Lean UX Process, Segmentos objetivo, Needfinding, User Personas, User Task Matrix, User Journey Mapping, User Stories, Product Backlog, Navigation Systems, Landing Page UI Design, Wireframes, Mock-ups, EventStorming, Sprint Backlog y evidencias de Sprint Review. <br /> <br />**Teran Zavala, Mauricio Alejandro**<br /> TB1: Antecedentes y problemática, Registro de Entrevistas, User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping, User Stories, Product Backlog, UX/UI Design, diagramas de arquitectura de software, Sprint Planning y Student Outcome.| **TB1:** El desarrollo del proyecto permitió demostrar la capacidad de trabajar de manera coordinada dentro del equipo, ejerciendo un liderazgo compartido basado en la colaboración, la comunicación efectiva y la toma de decisiones conjunta. Cada integrante asumió responsabilidades específicas, aportando desde su rol al direccionamiento del trabajo, lo que facilitó la organización de actividades, la resolución de problemas y el cumplimiento de los objetivos establecidos de forma colectiva. <br /><br />|
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.** | **Rocha Cotrina, Alvaro** <br />TB1: Coordinó la definición de estándares de diseño y lineamientos visuales, promoviendo acuerdos comunes para asegurar coherencia entre los entregables del equipo. <br /><br />**Esquicha Alcántara, Diego Alonso**<br /> TB1: Organizó y documentó los flujos de usuario y diagramas técnicos, asegurando que la información estuviera disponible y clara para todos los integrantes del equipo. <br /><br />**Quispe Llacsahuanga, César Augusto**<br /> TB1: Planificó y desarrolló diagramas estructurales y wireframes, alineando los aspectos técnicos y visuales con los objetivos definidos por el equipo.<br /> <br />**Guillen Giraldo, Mike Dylan**<br /> TB1: Lideró el proceso de investigación de usuarios y definición de segmentos objetivo, estableciendo metas claras para el diseño centrado en el usuario. <br /> <br />**Teran Zavala, Mauricio Alejandro**<br /> TB1: Estructuró el análisis del problema y los artefactos de UX, asegurando la alineación entre necesidades del usuario y objetivos del proyecto.  | **TB1:** El desarrollo del proyecto permitió evidenciar la capacidad del equipo para trabajar de manera colaborativa e inclusiva, estableciendo metas claras desde las etapas iniciales y planificando las tareas de forma organizada y coordinada. A lo largo del trabajo, los integrantes participaron activamente en la definición de responsabilidades, la toma de decisiones y el seguimiento de avances, fomentando un ambiente de respeto, comunicación constante y apoyo mutuo. Esta dinámica permitió integrar diferentes perspectivas técnicas y funcionales, optimizar el uso del tiempo y cumplir de manera efectiva con los objetivos académicos y del proyecto, demostrando un desempeño alineado con los principios del trabajo en equipo establecidos por el Student Outcome. <br /><br />              |
