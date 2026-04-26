@@ -412,8 +412,6 @@ Se analizaron 3 entrevistas a líderes con experiencia en gestión de proyectos 
 * **Disposición a adoptar soluciones que mejoren productividad y control:**  Ambos líderes reconocen que las herramientas actuales tienen un impacto positivo en la productividad y están abiertos a soluciones más centralizadas e innovadoras, siempre que ayuden a mejorar el control, la calidad y la eficiencia del trabajo.
 
 ---
-
-
 **Segmento 2**: Empresas o Emprendimientos Multitarea
 
 Se analizaron 3 entrevistas a personas que forman parte de empresas o emprendimientos que gestionan múltiples proyectos de manera simultánea, en contextos distintos (negocio independiente, empresa corporativa y equipo de desarrollo digital). La información recopilada permitió identificar características objetivas y subjetivas comunes que representan las necesidades, problemas y expectativas de este segmento, las cuales sirven como base para la construcción de los arquetipos.
@@ -439,3 +437,65 @@ Se analizaron 3 entrevistas a personas que forman parte de empresas o emprendimi
 * **La comunicación es clave, pero insuficiente sin soporte tecnológico:**  Aunque todos destacan la importancia de coordinarse bien, el uso exclusivo de WhatsApp o llamadas no garantiza control ni trazabilidad, especialmente cuando los proyectos aumentan o los equipos crecen.
 * **Existe alta disposición a digitalizar la gestión, con condiciones claras**  El 100% de los entrevistados está dispuesto a adoptar una herramienta centralizada, siempre que sea fácil de usar, ahorre tiempo, reduzca errores y no requiera procesos complejos de capacitación.
 ---
+## 2.3 Needfinding
+
+### 2.3.1. User Personas
+En esta sección describe dos User Personas que reflejan los principales segmentos a los que está dirigida mi solución los Líderes y Jefes de Gestión de Proyectos, así como las Empresas Medianas y Grandes que manejan múltiples portafolios. A través de estos perfiles busco entender mejor sus necesidades, motivaciones, frustraciones y comportamientos, con la finalidad de diseñar una plataforma que mejore la gestión de proyectos, incremente la visibilidad de la operación y facilite una toma de decisiones más estratégica y oportuna.
+
+**Segmento 1**
+
+![User-Persona-1](resources/images/chapter-2/Needfinding/Segment-1/User-Persona-Renzo-Araos.png)
+
+El User Persona de Renzo Araos revela una contradicción crítica entre su capacidad estratégica y las limitaciones operativas de su entorno. Aunque posee una sólida base técnica y experiencia internacional que le permiten liderar con una visión de eficiencia (buscando reducir el time-to-market), su productividad se ve severamente truncada por una "deuda documental" en los equipos a los que se integra. Para un perfil que valora tanto el control diario y la optimización mediante herramientas como Microsoft Project, la falta de estándares en la información no solo representa un retraso en las entregas, sino un riesgo para su bienestar profesional al obligarlo a compensar deficiencias organizacionales con horas extras. En última instancia, el éxito de Renzo depende de encontrar una solución que transforme la documentación de un obstáculo denso y desorganizado en un activo ágil que facilite la toma de decisiones.
+
+**Segmento 2**
+
+![User-Persona-2](resources/images/chapter-2/Needfinding/Segment-2/User-Persona-Katherine-Herrera.png)
+
+Por otro lado, el User Persona Katherine Herrera encarna a la líder operativa en sectores de alta rotación, como el farmacéutico, que enfrenta la complejidad de supervisar múltiples iniciativas críticas simultáneamente. Con un equipo de 12 personas a su cargo, Katherine opera en un entorno de alta presión donde la falta de una herramienta estandarizada la obliga a depender de un ecosistema fragmentado entre Excel y WhatsApp. Valora profundamente la precisión y la visibilidad inmediata de los estados de avance para asegurar el cumplimiento de plazos y la optimización de recursos. Aunque domina las herramientas tradicionales, sufre la frustración de la "ceguera operativa" causada por la dispersión de datos. Su mayor necesidad es una solución centralizada que le brinde control total y alertas automáticas, permitiéndole migrar de una gestión reactiva a una supervisión estratégica y eficiente.
+
+### 2.3.2. User Task Matrix
+
+En esta sección se desarrolla el User Task Matrix, en el cual identifica las principales actividades que realizan los User Personas los Líderes y Jefes de Gestión de Proyectos y las Empresas Medianas y Grandes que gestionan múltiples portafolios.
+
+Estas tareas corresponden a acciones habituales dentro de su dinámica laboral, necesarias para alcanzar sus objetivos, sin depender necesariamente de una solución digital. Este análisis nos permite comprender cómo trabajan actualmente, así como detectar ineficiencias y oportunidades donde la plataforma puede generar valor.
+
+**Segmento 1**
+|                                             Task   | Frequency | Importance |
+|-------------------------------------------------------------|----------|------------|
+| Seguimiento del estado de los proyectos                        | Daily       | Critical   |
+| Actualización de cronogramas en MS Project                     | Daily       | High       |
+| Evaluación de necesidades del cliente para toma de decisiones. | Weekly      | Critical   |
+| Revisión y análisis de documentación existente.                | Weekly      | Medium     |
+| Coordinación con el equipo de desarrollo para optimizar tiempos| Daily       | High       |
+| Gestión de soporte y mantenimiento de software                 | Constant    | Hight      |
+| Reporte de progreso y calidad de entregas                      | Weekly      | Medium     |
+| Redacción y organización de nueva documentación técnica        | Occasionally| Hight      |
+
+**Análisis**
+
+- Foco en el Control Riguroso: La alta frecuencia y criticidad del seguimiento diario y el uso de MS Project confirman que el éxito de Renzo depende de la visibilidad constante sobre el ciclo de vida del proyecto.
+
+- Conflicto de Eficiencia: Existe una contradicción entre su meta de "completar tareas en el menor tiempo" y la tarea de revisión de documentación; esta última, aunque es de importancia media/alta, actúa como un cuello de botella que consume recursos desproporcionados.
+
+- Prioridad Estratégica: La matriz revela que su valor principal no es solo técnico, sino la alineación continua con el cliente, asegurando que el esfuerzo del equipo de desarrollo se traduzca realmente en calidad y entregas oportunas.
+
+**Segmento 2**
+
+|                                             Task   | Frequency | Importance |
+|-------------------------------------------------------------|----------|------------|
+| Definir responsables y plazos de entrega                     | High     | Critical   |
+| Monitorear el avance de los 6-8 proyectos simultáneos        | Daily    | Critical   |
+| Coordinar con personal administrativo y de tienda            | Constant | High       |
+| Supervisar la implementación de campañas y nuevos servicios  | Weekly   | Medium     |
+| Consolidar información para toma de decisiones               | Biweekly | High       |
+| Recordar tareas próximas a vencer                            | Daily    | Critical   |
+
+**Análisis**
+
+
+- Las tareas con frecuencia Diaria/Constante e importancia Crítica (Seguimiento, Alertas y Comunicación) son las que mantienen a Katherine en un estado "reactivo". Automatizar este cuadrante permitirá que pase de ser una "incendiaria" (resolviendo urgencias) a una "estratega".
+
+- El hecho de que la tarea de Alertas sea "Crítica" pero su herramienta actual sea "Manual/Memoria" revela un vacío tecnológico peligroso. Esta es la funcionalidad "gancho" que asegura la retención del usuario en tu plataforma.
+
+- Existe una desconexión entre la importancia de la Comunicación (Constante) y el Reporteo. Al estar en canales distintos, el reporte nunca refleja las sutilezas o problemas discutidos en el chat diario.
