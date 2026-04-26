@@ -42,7 +42,7 @@ El objetivo principal de este sprint consiste en establecer el núcleo funcional
 
 **Screenshot del Board**
 
-![Sprint-Backlog-01](assets/images/chapter-5/sprint-backlog-01/sprint-backlog-01.PNG)
+![Sprint-Backlog-01](assets/images/chapter-5/sprint-backlog/sprint-backlog-01.PNG)
 
 *Trello:* https://trello.com/b/9yf99IHI/vantage-pmo-sprint-backlog
 
@@ -276,6 +276,27 @@ Se describen las funcionalidades implementadas y el progreso alcanzado en relaci
 </table>
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
+
+Durante el presente Sprint, se ha logrado la transición de una interfaz estática a un ecosistema interactivo y funcional, cumpliendo con el objetivo de establecer el núcleo de acceso y la propuesta de valor visual de Vantage PMO. Los hitos alcanzados se centran en la implementación de un sistema de seguridad robusto, la personalización dinámica de la identidad de marca y la optimización de la experiencia de usuario a través de múltiples dispositivos y lenguajes.
+
+**Resumen de Logros:**
+
+- Seguridad y Acceso: Se ha desplegado un módulo de autenticación completo que integra proveedores de identidad modernos, garantizando un flujo de inicio de sesión seguro, validado y alineado con normativas legales de privacidad.
+
+- Interactividad y Demostración: Se implementó un motor de previsualización en tiempo real que permite a los potenciales clientes interactuar con la plataforma, personalizando elementos de branding y visualizando la capacidad del dashboard de portafolio sin fricciones técnicas.
+
+- Accesibilidad y Alcance Global: Gracias a la implementación de internacionalización (i18n) y un diseño estrictamente responsivo, la plataforma es ahora capaz de ofrecer una navegación coherente y profesional tanto en entornos de escritorio como en dispositivos móviles, eliminando barreras de idioma y formato.
+
+- Comunicación Persistente: Se estableció la infraestructura de notificaciones push, permitiendo una conexión directa con el usuario y mejorando los índices de retención mediante alertas del sistema optimizadas.
+
+A continuación, se presentan las evidencias gráficas de las vistas implementadas y el recurso audiovisual que detalla el flujo de navegación alcanzado:
+
+Video de Demostración y Navegación: *[Insertar Enlace al Video Aquí]*
+
+Screenshots de la Implementación:
+
+![Execution Evidence](assets/images/chapter-5/execution-evidence/evidence.jpg)
+
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
