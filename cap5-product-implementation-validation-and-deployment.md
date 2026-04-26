@@ -507,15 +507,9 @@ En este sprint no se desarrollaron endpoints REST tradicionales; sin embargo, se
 
 En este Sprint se ejecutaron las tareas necesarias para publicar la Landing Page, haciendo uso de GitHub Pages como servicio de alojamiento web. A continuación, se presentan las actividades desarrolladas durante este proceso:
 
-*paso 01*
+![deployment — Landing Page](assets/images/chapter-5/deployment-landing-page/deploy1.png)
 
-*paso 02*
-
-*paso 03*
-
-*paso 04*
-
-*paso 05*
+![deployment — Landing Page](assets/images/chapter-5/deployment-landing-page/deploy2.png)
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
