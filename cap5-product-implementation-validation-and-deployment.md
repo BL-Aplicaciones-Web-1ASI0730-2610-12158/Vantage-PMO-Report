@@ -326,4 +326,18 @@ En este sprint no se desarrollaron endpoints REST tradicionales; sin embargo, se
 </table>
 
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+En este Sprint se ejecutaron las tareas necesarias para publicar la Landing Page, haciendo uso de GitHub Pages como servicio de alojamiento web. A continuación, se presentan las actividades desarrolladas durante este proceso:
+
+*paso 01*
+
+*paso 02*
+
+*paso 03*
+
+*paso 04*
+
+*paso 05*
+
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
+
