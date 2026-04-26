@@ -298,5 +298,32 @@ Screenshots de la Implementación:
 ![Execution Evidence](assets/images/chapter-5/execution-evidence/evidence.jpg)
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Durante este sprint se llevó a cabo el desarrollo y la implementación completa del Landing Page del sistema, el cual representa el primer punto de contacto para los usuarios y funciona como acceso inicial a la plataforma.
+
+En este sprint no se desarrollaron endpoints REST tradicionales; sin embargo, se incluye la documentación correspondiente a la URL donde se encuentra desplegado el recurso, junto con evidencias del despliegue, la interacción del usuario y los commits asociados al proceso de desarrollo.
+
+**Descripción del logro:**
+
+- Desarrollo e implementación del Landing Page estático.
+- Despliegue del Landing Page en un entorno accesible.
+
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr>
+    <th>Recurso</th>
+    <th>Acción implementada</th>
+    <th>HTTP</th>
+    <th>URL / Endpoint</th>
+    <th>Link de repositorio</th>
+  </tr>
+  <tr>
+    <td>Landig Page</td>
+    <td>Vista inicial</td>
+    <td>GET</td>
+    <td>Poner el enlance del deploy de la pagina</td>
+    <td>https://github.com/BL-Aplicaciones-Web-1ASI0730-2610-12158/Vantage-PMO-Business-Web-Page</td>
+  </tr>
+</table>
+
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
