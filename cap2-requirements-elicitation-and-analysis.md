@@ -499,3 +499,26 @@ Estas tareas corresponden a acciones habituales dentro de su dinámica laboral, 
 - El hecho de que la tarea de Alertas sea "Crítica" pero su herramienta actual sea "Manual/Memoria" revela un vacío tecnológico peligroso. Esta es la funcionalidad "gancho" que asegura la retención del usuario en tu plataforma.
 
 - Existe una desconexión entre la importancia de la Comunicación (Constante) y el Reporteo. Al estar en canales distintos, el reporte nunca refleja las sutilezas o problemas discutidos en el chat diario.
+
+### 2.3.3. User Journey Mapping
+
+En esta sección se presentan los User Journey Maps en su estado actual (As-Is), los cuales muestran el flujo de trabajo de los usuarios sin el uso de Vantage PMO. Este análisis permite entender cómo se desarrollan sus procesos, desde la identificación de necesidades hasta la entrega de resultados. Además, se destacan las principales etapas, acciones y puntos de contacto, así como los problemas derivados del uso de herramientas no integradas. Esto evidencia altos niveles de frustración y permite identificar oportunidades clave de mejora que la solución busca resolver, especialmente en la visibilidad operativa y la reducción de la carga administrativa.
+
+**Segmento 1**
+
+![User-Journey-Map-1](resources/images/chapter-2/Needfinding/Segment-1/User-Journey-Map-of-Renzo-Araos.png)
+
+**Segmento 2**
+
+![User-Journey-Map-2](resources/images/chapter-2/Needfinding/Segment-2/User-Journey-Map-of-Katherine-Herrera.png)
+
+### 2.3.4. Empathy Mapping
+Se ha elaborado el Empathy Map para cada uno de nuestros User Personas con el fin de profundizar en su realidad cotidiana, logrando así una comprensión genuina de sus necesidades. Este análisis nos permite conectar con sus motivaciones más profundas y visualizar los obstáculos que enfrentan, garantizando que las soluciones propuestas no solo sean técnicas, sino que respondan verdaderamente a sus frustraciones y metas personales.
+
+**Segmento 1**
+
+![Empathy-Map-1](resources/images/chapter-2/Needfinding/Segment-1/Empathy-Map-of-Renzo-Araos.png)
+
+**Segmento 2**
+
+![Empathy-Map-2](resources/images/chapter-2/Needfinding/Segment-2/Empathy-Map-of-Katherine-Herrera.png)
