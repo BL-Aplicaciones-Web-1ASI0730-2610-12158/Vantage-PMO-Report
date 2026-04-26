@@ -438,6 +438,14 @@ Se describen las funcionalidades implementadas y el progreso alcanzado en relaci
   <tr>
     <td>mau-tz/Vantage-PMO-Business-Web-Page</td>
     <td>develop</td>
+    <td>104b71f</td>
+    <td>feat: add team section with assets, i18n & styles</td>
+    <td>Permite agregar la section del equipo(team) con estilos y se le adiciona esa section a la internalización en español e ingles.</td>
+    <td>25/04/2026</td>
+  </tr>
+  <tr>
+    <td>mau-tz/Vantage-PMO-Business-Web-Page</td>
+    <td>develop</td>
     <td>fbd6077</td>
     <td>feat: update team roles and spanish heading</td>
     <td>Permite actualizar los roles del equipo y corregir el encabezado en español para mantener la consistencia del contenido mostrado en la landing page.</td>
