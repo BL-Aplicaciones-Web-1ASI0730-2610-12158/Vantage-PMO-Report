@@ -498,7 +498,7 @@ En este sprint no se desarrollaron endpoints REST tradicionales; sin embargo, se
     <td>Landig Page</td>
     <td>Vista inicial</td>
     <td>GET</td>
-    <td>Poner el enlance del deploy de la pagina</td>
+    <td>https://bl-aplicaciones-web-1asi0730-2610-12158.github.io/Vantage-PMO-Business-Web-Page/</td>
     <td>https://github.com/BL-Aplicaciones-Web-1ASI0730-2610-12158/Vantage-PMO-Business-Web-Page</td>
   </tr>
 </table>
