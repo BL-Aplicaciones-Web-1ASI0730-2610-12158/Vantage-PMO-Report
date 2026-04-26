@@ -62,7 +62,117 @@ Se adoptará el estándar de **Conventional Commits** para la redacción de los 
 - `docs: update user stories and diagrams`
 - `chore: update dependencies`
 ### 5.1.3. Source Code Style Guide & Conventions
+
+El código desarrollado por los miembros del equipo esté completamente redactado en inglés.
+
+## **HTML**
+
+**Use Lowercase Element Names**: Se recomienda utilizar minúsculas para todos los elementos HTML.
+
+    <section class="hero">
+      <h1>Centralize your projects</h1>
+    </section>
+
+**Close All HTML Elements**: Todos los elementos deben cerrarse correctamente para evitar errores de renderizado.
+
+ < p >Centralize your projects, control your future.</ p >
+
+< a href="#Contact">Solicitar demo</a >
+
+**Use Lowercase Attribute Names**: Los atributos deben escribirse en minúsculas.
+
+< input type="email" placeholder="tu@correo.com" id="fe" />
+
+**Use Semantic HTML Elements**: Se deben utilizar etiquetas semánticas para mejorar la estructura y accesibilidad.
+
+< nav>...</ nav>
+< section id="funciones">...</ section>
+< footer>...</ footer>
+
+**Use Descriptive IDs and Classes**: Los nombres deben ser claros y representar su función.
+
+< section id="contact">
+  < div class="contact-form">
+
+## **CSS**
+
+**Use Kebab-Case for Class Names**: Las clases deben escribirse en minúsculas separadas por guiones.
+
+.contact-form {
+  display: flex;
+}
+
+
+**Use CSS Variables for Colors**: Se deben definir colores reutilizables en :root.
+
+:root {
+  --blue: #1E40AF;
+  --navy: #0F172A;
+}
+
+**Group Styles by Sections**: El código CSS debe organizarse por secciones del sitio.
+
+/* NAV */
+nav { ... }
+
+/* HERO */
+.hero { ... }
+
+/* FOOTER */
+footer { ... }
+
+
+**Use Consistent Spacing**: Se debe mantener consistencia en márgenes, padding y alineación.
+
+.section {
+  padding: 6rem 2rem;
+}
+
+**Responsive Design with Media Queries**: Se deben usar breakpoints para adaptar la interfaz.
+
+@media (max-width: 600px) {
+  .hero {
+    padding: 4rem 1rem;
+  }
+}
+
+
+## **JavaScript**
+
+**Use CamelCase for Variables and Functions**: Las variables y funciones deben usar camelCase.
+
+function sendForm() {
+  const userName = document.getElementById('fn').value;
+}
+
+**Keep Functions Simple and Clear**: Las funciones deben ser cortas y fáciles de entender.
+
+if (!n || !e) {
+  alert('Por favor completa tu nombre y correo.');
+  return;
+}
+
+
+**Use Meaningful Variable Names**: Los nombres deben representar su propósito.
+
+const navLinks = document.getElementById('navLinks');
+const hamburger = document.getElementById('hamburger');
+
+**Avoid Inline JavaScript**: Se recomienda mantener la lógica separada del HTML.
+
+< button onclick="sendForm()">Enviar</ button>
+
 ### 5.1.4. Software Deployment Configuration
+
+Para la Landing Page desarrollada en HTML, CSS y JavaScript, la configuración del despliegue en GitHub Pages se define de la siguiente manera:
+
+Repositorio de Código Fuente
+
+Se debe crear un repositorio en GitHub y subir todos los archivos del proyecto (HTML, CSS, JS). Es obligatorio que el archivo index.html esté ubicado en la raíz del repositorio para poder realizar el despliegue correctamente.
+
+![Github Repository](assets/images/chapter-5/landing-page/landing-page-repository.png)
+
+
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
 ##### 5.2.1.1. Sprint Planning 1
