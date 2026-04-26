@@ -522,3 +522,52 @@ Se ha elaborado el Empathy Map para cada uno de nuestros User Personas con el fi
 **Segmento 2**
 
 ![Empathy-Map-2](resources/images/chapter-2/Needfinding/Segment-2/Empathy-Map-of-Katherine-Herrera.png)
+
+## 2.4. Big Picture EventStorming
+
+Nos permite capturar el flujo de negocio identificando los eventos de dominio clave que ocurren para resolver  la información y centralizar el control operativo.
+
+*Eventos de Dominio:*
+
+* *Project Registered:* Se crea un nuevo proyecto en el sistema eliminando el uso de hojas de cálculo aisladas.
+
+* *Resources Allocated:* Se asignan recursos organizacionados a un proyecto de forma centralizada.
+
+* *Milestone Defined:* Se establecen los hitos críticos para el seguimiento del desempeño.
+
+* *Silo Identified:* El sistema detecta información desvinculada y solicita su integración.
+
+* *Real-time Data Updated:* La información se actualiza automáticamente para todos los interesados.
+
+* *Bottleneck Detected:* Se identifica un retraso crítico en la asignación de recursos o cumplimiento de plazos.
+
+* *Performance Report Generated:* Se consolida el reporte mensual de desempeño de forma automática.
+
+* *Strategic Decision Made:* Los Stakeholders toman acciones basadas en lo visible en tiempo real del Dashboard.
+
+
+## 2.5. Ubiquitous Language
+
+El "Ubiquitous Language" es la herramienta esencial en nuestro trabajo, nos permitirá establecer un lenguaje común y compartido entre todos los miembros del equipo, nos ayuda en la comunicación y comprensión de los conceptos clave en nuestro proyecto.
+
+* *Vantage PMO:* The web platform designed for the management, monitoring, and control of multiple projects within the organization.
+
+* *PMO (Project Management Office):* The department or area responsible for personalizing processes and ensuring alignment between strategic objectives and operational results.
+
+* *Project Manager:* The professional responsible for leading project execution, managing resources, and ensuring the fulfillment of milestones within the platform.
+
+* *Stakeholder:* A person or entity interested in the project's results (managers, clients, executives) who requires real-time visibility for decision-making.
+
+* *Portfolio:* The collection of projects and programs grouped together to facilitate effective management and avoid information fragmentation.
+
+* *Milestone (Hito):* A significant reference point in the schedule that marks the delivery of a result or the end of a "critical" phase.
+
+* *Information Silo (Silo de Información):* Data or processes that are isolated from the rest of the organization, causing a lack of visibility and manual processes prone to errors.
+
+* *Performance Report:* A document that summarizes the performance, resource usage, and health status of a project.
+
+*Implementation example:*
+
+When a *Project Manager* registers a new *Project* within the *Vantage PMO* platform, they eliminate an *Information Silo* by centralizing data.
+##
+When the system detects that a *Milestone* is at risk, it notifies the *PMO* and *Stakeholders* through the dashboard, ensuring that the terminology used within the software aligns with the ubiquitous language established.
