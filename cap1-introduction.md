@@ -1,6 +1,8 @@
 # Introduccion 
 ## 1.1 Startup Profile
+<a id="1-1-startup-profile"></a>
 ### 1.1.1 Descripción de la Startup
+<a id="1-1-1-descripcion-de-la-startup"></a>
 Somos una startup peruana denominada **MDEPS** (Managements Development Engineering Project Systems), creada por estudiantes de la carrera de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas (UPC), que tiene como objetivo principal optimizar la gestión de proyectos dentro de las organizaciones mediante el uso de tecnología.
 
 Nuestra misión es lograr que ninguna empresa gestione sus proyectos sin un control centralizado, estandarizado y basado en información confiable, reduciendo así problemas como retrasos, falta de visibilidad, mala comunicación y toma de decisiones ineficientes.
@@ -8,6 +10,7 @@ Nuestra misión es lograr que ninguna empresa gestione sus proyectos sin un cont
 Para cumplir con este propósito, hemos desarrollado el proyecto **Vantage PMO** (Project Management Office), una plataforma web que permite a las organizaciones gestionar, monitorear y controlar todos sus proyectos de manera centralizada, brindando visibilidad en tiempo real, estandarización de procesos y herramientas inteligentes para la toma de decisiones.
 
 ### 1.1.2. Perfiles de los Miembros del Equipo
+<a id="1-1-2-perfiles-de-los-miembros-del-equipo"></a>
 
 docs: update formatting and improve table structure in readme.
 | Foto | Apellido y Nombre | 
@@ -19,7 +22,9 @@ docs: update formatting and improve table structure in readme.
 ![mauricio](assets/images/chapter-1/mauricio.jpeg) | *Mauricio Alejandro Teran Zavala - u202417423*  Estudiante de Ingeniería de Software con una sólida base en lógica de programación y desarrollo backend, especializado en Java, C++ y Python. Mi enfoque se centra en la creación de soluciones con impacto social mediante el diseño de APIs RESTful y una gestión eficiente de bases de datos. Más allá de lo técnico, aporto al equipo una disciplina y compromiso forjados en el deporte, lo que me permite trabajar bajo presión y adaptarme con proactividad a los desafíos del proyecto. Mi objetivo es garantizar un código limpio y funcional, fomentando una comunicación efectiva para asegurar que el equipo alcance sus metas con éxito
 
 ## 1.2 Solution Profile
+<a id="1-2-solution-profile"></a>
 ### 1.2.1 Antecedentes y Problemática
+<a id="1-2-1-antecedentes-y-problematica"></a>
 
 #### What / ¿QUÉ?
 Se presenta una fragmentación de la información y falta de visibilidad en la ejecución de proyectos, lo que impide un control centralizado y eficiente de los recursos organizacionales.
@@ -43,7 +48,9 @@ A diferencia del estado óptimo, donde la información fluye automáticamente, e
 Las organizaciones pierden entre un 20% y 30% de su productividad semanal en tareas de recopilación manual de datos, lo que se traduce en sobrecostos operativos y posibles multas por incumplimiento de plazos.
 
 ### 1.2.2 Lean UX Process
+<a id="1-2-2-lean-ux-process"></a>
 #### 1.2.2.1. Lean UX Problem Statements
+<a id="1-2-2-1-lean-ux-problem-statements"></a>
 
 El estado actual de la gestión de proyectos en organizaciones medianas y grandes ha dependido principalmente de procesos manuales y herramientas fragmentadas como hojas de cálculo, correos electrónicos y software no integrado. Estos métodos generan silos de información, falta de visibilidad en tiempo real y una pérdida de productividad de hasta el 30% debido a la recopilación manual de datos.
 
@@ -54,6 +61,7 @@ Vantage PMO abordará esta brecha mediante una plataforma web que digitaliza el 
 Nuestro enfoque inicial estará dirigido a Project Managers, PMO Leads y Stakeholders en empresas que manejan múltiples portafolios. Sabremos que hemos tenido éxito cuando veamos una reducción en los sobrecostos operativos, una mejora en el cumplimiento de los hitos y una adopción recurrente de la plataforma para la toma de decisiones estratégicas.
 
 #### 1.2.2.2. Lean UX Assumptions
+<a id="1-2-2-2-lean-ux-assumptions"></a>
 
 ##### A. Business Assumptions
 1. **Creemos que nuestros clientes necesitan:** Centralizar la visibilidad de sus proyectos y estandarizar la toma de decisiones basada en datos reales.
@@ -117,6 +125,7 @@ Nuestro enfoque inicial estará dirigido a Project Managers, PMO Leads y Stakeho
 3. **Sistema de Alertas Tempranas:** Creemos que notificar desviaciones en hitos evitará multas por incumplimiento de plazos.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
+<a id="1-2-2-3-lean-ux-hypothesis-statements"></a>
 
 ##### Visualización y Control Centralizado
 **Creemos que** al ofrecer un Dashboard en tiempo real con métricas unificadas, reduciremos los retrasos en la toma de decisiones estratégicas en un 20%. **Sabremos que estamos bien cuando veamos los siguientes comentarios del mercado:** "Ahora puedo ver el estado de todos mis proyectos en una sola pantalla" y/o los logs de la plataforma muestren que los Stakeholders consultan los dashboards diariamente antes de sus reuniones.
@@ -131,6 +140,7 @@ Nuestro enfoque inicial estará dirigido a Project Managers, PMO Leads y Stakeho
 **Creemos que** centralizar la asignación de recursos y seguimiento de hitos disminuirá los sobrecostos operativos por mala planificación. **Sabremos que estamos bien cuando veamos los siguientes comentarios del mercado:** "Tenemos menos cuellos de botella por falta de personal" y/o los indicadores financieros de los clientes muestren una mejora en el margen operativo de sus proyectos.
 
 #### 1.2.2.4. Lean UX Canvas
+<a id="1-2-2-4-lean-ux-canvas"></a>
 
 | **Business Problem** | **Solutions** | **Business Outcomes** |
 | :------------------- | :------------ | :------------------- |
@@ -145,6 +155,7 @@ Nuestro enfoque inicial estará dirigido a Project Managers, PMO Leads y Stakeho
 | **- Creemos que** reduciremos el tiempo de reporteo en un 25% si los Project Managers utilizan el generador automático de reportes de Vantage PMO en lugar de consolidar datos manualmente en Excel. <br> **- Creemos que** disminuiremos los sobrecostos operativos en un 15% si los PMO Leads reciben alertas tempranas de desviaciones presupuestarias a través de nuestro sistema de monitoreo en tiempo real. <br> **- Creemos que** aumentaremos la satisfacción de los Stakeholders en un 40% si obtienen acceso directo a tableros de control ejecutivos que muestren el avance estratégico del portafolio. <br> **- Creemos que** aumentaremos la satisfacción de los Stakeholders en un 40% si obtienen acceso directo a tableros de control ejecutivos que muestren el avance estratégico del portafolio. <br> **- Creemos que** alcanzaremos una adopción de 50 proyectos activos en un año si ofrecemos una interfaz intuitiva con onboarding guiado que no requiera capacitación técnica externa. <br> - **Creemos que** mejoraremos la eficiencia del equipo en un 20% si los recursos se asignan de manera centralizada evitando la sobrecarga de trabajo y los cuellos de botella. | - ¿Es la recopilación manual de datos el problema más doloroso para los Project Managers, o existe otra fricción mayor en su día a día? <br> - ¿Están los ejecutivos dispuestos a basar sus decisiones financieras en un dashboard digital en lugar de esperar los reportes tradicionales firmados? <br> - ¿La estandarización de procesos es percibida como una ayuda o como una restricción burocrática por los equipos de ingeniería? <br> - ¿Es la integración con herramientas actuales (como Excel) una funcionalidad crítica para que acepten migrar a nuestra plataforma? <br> - ¿Cuál es el KPI específico que más valoran los Stakeholders para considerar que un proyecto está "bajo control"? | - Realizar entrevistas a profundidad con 5 líderes de PMO y Project Managers para validar sus "pain points" prioritarios. <br> - Crear un prototipo navegable de alta fidelidad (Figma) que simule el dashboard y el generador de reportes para realizar pruebas de concepto con usuarios reales. <br> - Crear un prototipo navegable de alta fidelidad (Figma) que simule el dashboard y el generador de reportes para realizar pruebas de concepto con usuarios reales. <br> - Realizar una prueba piloto con una oficina de proyectos pequeña (3-5 proyectos) cargando datos históricos para comparar la precisión de Vantage PMO vs su gestión manual previa. <br> - Encuesta a Stakeholders para priorizar los 3 KPIs más importantes que necesitan ver en un panel ejecutivo. |
 
 ## 1.3 Segmentos Objetivos
+<a id="1-3-segmentos-objetivos"></a>
 
 ### Segmento 1: Líderes y Jefes de Gestión de Proyectos
 

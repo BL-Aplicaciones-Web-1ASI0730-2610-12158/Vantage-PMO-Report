@@ -1,7 +1,10 @@
+<div style="text-align: left; max-width: 900px; margin: 0 auto;">
 
 # Anexos
+<a id="anexos"></a>
 
 ### Anexo A: Prototipos y Diseño
+<a id="anexo-a-prototipos-y-diseno"></a>
 
 | Recurso | Enlace |
 |---|---|
@@ -11,6 +14,7 @@
 ---
 
 ### Anexo B: Gestión del Proyecto
+<a id="anexo-b-gestion-del-proyecto"></a>
 
 | Recurso | Enlace |
 |---|---|
@@ -20,6 +24,7 @@
 ---
 
 ### Anexo C: Videos del Producto
+<a id="anexo-c-videos-del-producto"></a>
 
 | Recurso | Enlace |
 |---|---|
@@ -28,6 +33,7 @@
 ---
 
 ### Anexo D: Videos de Exposiciones
+<a id="anexo-d-videos-de-exposiciones"></a>
 
 | Entrega | Título | Enlace |
 |---|---|---|
@@ -35,3 +41,5 @@
 | TP | Exposición TP — Vantage PMO | — |
 | TB2 | Exposición TB2 — Vantage PMO | — |
 | TF | Exposición TF — Vantage PMO | — |
+
+</div>

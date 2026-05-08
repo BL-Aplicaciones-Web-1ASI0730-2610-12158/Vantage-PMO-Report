@@ -1,6 +1,10 @@
 # Product Implementation, Validation & Deployment
+
 ## 5.1. Software Configuration Management
+<a id="5-1-software-configuration-management"></a>
+
 ### 5.1.1. Software Development Environment Configuration
+<a id="5-1-1-software-development-environment-configuration"></a>
 
 A continuación, se listan las herramientas y estándares adoptados por el equipo para el desarrollo colaborativo del sistema:
 
@@ -18,7 +22,10 @@ A continuación, se listan las herramientas y estándares adoptados por el equip
 | Upgrade of Branches and Commits | Visual Studio Code | Optimización y documentación del proyecto asimismo el trabajo colaborativo. |[https://code.visualstudio.com/](https://code.visualstudio.com/)  |
 | EventStorming | Miro | Herramienta colaborativa grupal que permitio diseñar mejor algunos puntos del trabajo. |[https://miro.com/es/](https://miro.com/es/)  |
 
+<div style="text-align: left; max-width: 900px; margin: 0 auto;">
+
 ### 5.1.2. Source Code Management
+<a id="5-1-2-source-code-management"></a>
 
 Para la gestión del código del proyecto, el equipo adoptó una estrategia simplificada en lugar de implementar completamente el modelo Git Flow. Se trabajó principalmente sobre una rama principal (main), la cual contiene la versión estable y actual del sistema en desarrollo. 
 
@@ -34,7 +41,7 @@ Todas las funcionalidades y mejoras fueron finalmente integradas en la rama main
 
 Enlace de despliegue: 
 
-![Landing Page desplegada en GitHub Pages]()
+![Landing Page desplegada en Github deployment]()
 
 **Landing Page — Repositorio GitHub**
 
@@ -63,6 +70,7 @@ Se adoptará el estándar de **Conventional Commits** para la redacción de los 
 - `docs: update user stories and diagrams`
 - `chore: update dependencies`
 ### 5.1.3. Source Code Style Guide & Conventions
+<a id="5-1-3-source-code-style-guide-conventions"></a>
 
 El código desarrollado por los miembros del equipo esté completamente redactado en inglés.
 
@@ -164,6 +172,7 @@ const hamburger = document.getElementById('hamburger');
 < button onclick="sendForm()">Enviar</ button>
 
 ### 5.1.4. Software Deployment Configuration
+<a id="5-1-4-software-deployment-configuration"></a>
 
 Para la Landing Page desarrollada en HTML, CSS y JavaScript, la configuración del despliegue en GitHub Pages se define de la siguiente manera:
 
@@ -175,8 +184,11 @@ Se debe crear un repositorio en GitHub y subir todos los archivos del proyecto (
 
 
 ## 5.2. Landing Page, Services & Applications Implementation.
+<a id="5-2-landing-page-services-applications-implementation"></a>
 ### 5.2.1. Sprint 1
+<a id="5-2-1-sprint-1"></a>
 ##### 5.2.1.1. Sprint Planning 1
+<a id="5-2-1-1-sprint-planning-1"></a>
 En esta sección, se presentará la planificación de nuestro Sprint 1.
 
 | **Sprint #** |                 **Sprint 1**              |
@@ -195,6 +207,7 @@ En esta sección, se presentará la planificación de nuestro Sprint 1.
 | Sum of Story Points | 18  Story Points                   |
 
 ##### 5.2.1.2. Aspect Leaders and Collaborators
+<a id="5-2-1-2-aspect-leaders-and-collaborators"></a>
 En el marco del Sprint 1, se han priorizado los componentes fundamentales del sistema, centrando los esfuerzos en la entrega de funcionalidades críticas: la visualización de información estratégica, una arquitectura de navegación intuitiva, el diseño responsivo de la interfaz y el flujo de seguridad para la autenticación de usuarios.
 
 A fin de garantizar la trazabilidad y una ejecución coordinada, se ha implementado la Matriz de Liderazgo y Colaboración (LACX). En esta herramienta de gestión, se han designado responsables de liderazgo (L) y equipos de apoyo (C) para cada área técnica, optimizando así la sinergia y la calidad de los entregables
@@ -208,6 +221,7 @@ A fin de garantizar la trazabilidad y una ejecución coordinada, se ha implement
 | Teran Zavala, Mauricio Alejandro    | mau-tz | C                      | C        | C        | C            | L                    |C| C| C| L
 
 ##### 5.2.1.3. Sprint Backlog 1
+<a id="5-2-1-3-sprint-backlog-1"></a>
 
 El objetivo principal de este sprint consiste en establecer el núcleo funcional y de confianza de la plataforma Vantage PMO, transformando la Landing Page de un sitio informativo en una herramienta interactiva, segura y profesional. Para lograrlo, el equipo se enfocará en consolidar un sistema de autenticación robusto que no solo gestione el acceso, sino que cumpla estrictamente con los estándares legales de privacidad e internacionalización (i18n), eliminando barreras de entrada para mercados globales. Asimismo, se busca potenciar el compromiso del usuario mediante la implementación de un simulador de marca interactivo y un dashboard de portafolio dinámico, desarrollados bajo principios avanzados de UX y Branding para tangibilizar el valor del producto a través de recursos multimedia y micro-interacciones. Finalmente, se garantizará una experiencia de navegación omnicanal y de alto rendimiento mediante un diseño responsivo impecable y la integración de un sistema de notificaciones push, asegurando una comunicación persistente y una transición fluida hacia el ecosistema interno de gestión de proyectos.
 
@@ -397,6 +411,7 @@ El objetivo principal de este sprint consiste en establecer el núcleo funcional
 </table>
 
 ##### 5.2.1.4. Development Evidence for Sprint Review
+<a id="5-2-1-4-development-evidence-for-sprint-review"></a>
 
 En esta sección se presentan los avances obtenidos durante la fase de implementación, considerando los productos definidos dentro del alcance del Sprint. En este caso, se analizará específicamente el Sprint Backlog 01, el cual está enfocado exclusivamente en el desarrollo de la Landing Page.
 
@@ -455,6 +470,7 @@ Se describen las funcionalidades implementadas y el progreso alcanzado en relaci
 </table>
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
+<a id="5-2-1-5-execution-evidence-for-sprint-review"></a>
 
 Durante el presente Sprint, se ha logrado la transición de una interfaz estática a un ecosistema interactivo y funcional, cumpliendo con el objetivo de establecer el núcleo de acceso y la propuesta de valor visual de Vantage PMO. Los hitos alcanzados se centran en la implementación de un sistema de seguridad robusto, la personalización dinámica de la identidad de marca y la optimización de la experiencia de usuario a través de múltiples dispositivos y lenguajes.
 
@@ -477,6 +493,7 @@ Screenshots de la Implementación:
 ![Execution Evidence](assets/images/chapter-5/execution-evidence/evidence.jpg)
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
+<a id="5-2-1-6-services-documentation-evidence-for-sprint-review"></a>
 
 Durante este sprint se llevó a cabo el desarrollo y la implementación completa del Landing Page del sistema, el cual representa el primer punto de contacto para los usuarios y funciona como acceso inicial a la plataforma.
 
@@ -499,12 +516,13 @@ En este sprint no se desarrollaron endpoints REST tradicionales; sin embargo, se
     <td>Landig Page</td>
     <td>Vista inicial</td>
     <td>GET</td>
-    <td>https://bl-aplicaciones-web-1asi0730-2610-12158.github.io/Vantage-PMO-Business-Web-Page/</td>
-    <td>https://github.com/BL-Aplicaciones-Web-1ASI0730-2610-12158/Vantage-PMO-Business-Web-Page</td>
+    <td><a href="https://bl-aplicaciones-web-1asi0730-2610-12158.github.io/Vantage-PMO-Business-Web-Page/">https://bl-aplicaciones-web-1asi0730-2610-12158.github.io/Vantage-PMO-Business-Web-Page/</a></td>
+    <td><a href="https://github.com/BL-Aplicaciones-Web-1ASI0730-2610-12158/Vantage-PMO-Business-Web-Page">https://github.com/BL-Aplicaciones-Web-1ASI0730-2610-12158/Vantage-PMO-Business-Web-Page</a></td>
   </tr>
 </table>
 
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
+<a id="5-2-1-7-software-deployment-evidence-for-sprint-review"></a>
 
 En este Sprint se ejecutaron las tareas necesarias para publicar la Landing Page, haciendo uso de GitHub Pages como servicio de alojamiento web. A continuación, se presentan las actividades desarrolladas durante este proceso:
 
@@ -514,6 +532,7 @@ En este Sprint se ejecutaron las tareas necesarias para publicar la Landing Page
 
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
+<a id="5-2-1-8-team-collaboration-insights-during-sprint"></a>
 
 La finalización de este Sprint es el resultado de un esfuerzo coordinado para transformar los requerimientos de Vantage PMO en componentes de software funcionales. El equipo adoptó un flujo de trabajo ágil y riguroso, caracterizado por los siguientes puntos clave:
 
@@ -551,3 +570,5 @@ Se evidencia la participación plena de los cinco integrantes en el desarrollo d
 | Rocha Cotrina, Alvaro | `alvarorc24` | 16 |
 
 Se evidencia la colaboración constante y la sinergia grupal mediante la trazabilidad de los aportes individuales. Cada integrante sumó valor en áreas críticas del desarrollo, garantizando no solo el avance técnico del sistema, sino también el cumplimiento de los acuerdos establecidos durante la planificación del ciclo de trabajo.
+
+</div>

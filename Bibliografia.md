@@ -1,5 +1,7 @@
+<div style="text-align: left; max-width: 900px; margin: 0 auto;">
 
-## Bibliografía
+# Bibliografía
+<a id="bibliografia"></a>
 
 **Ruiz, S. R. (2025).** *Retrasos en la entrega de proyectos: Gastos excesivos y otras consecuencias*. AIC.(https://aicomplutense.com/blog/retrasos-en-la-entrega-proyectos-y-consecuencias/)
 
@@ -14,3 +16,5 @@
 ---
 
 **Argüello, E. E., Albuja, M. D. C. M., Arellano, W. R. C., & Fiallos, J. F. P. (2022).** Adelantos y retrasos en la gestión de proyectos. *Polo del Conocimiento*, 7(8), 728-740.(https://www.polodelconocimiento.com/ojs/index.php/es/article/view/4421)
+
+</div>

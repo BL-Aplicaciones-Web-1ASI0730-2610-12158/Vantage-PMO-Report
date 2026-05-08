@@ -1,7 +1,9 @@
 # Requirements Elicitation & Analysis
+<a id="2-requirements-elicitation-analysis"></a>
 La recolección y análisis de requisitos es una etapa fundamental en el desarrollo de la plataforma Vantage PMO, ya que permite identificar y comprender las necesidades de los stakeholders involucrados en la gestión de proyectos. A través de técnicas como entrevistas, análisis de la competencia y evaluación de escenarios de uso, se busca obtener una visión clara de problemáticas como la falta de visibilidad, la fragmentación de la información y la ausencia de estandarización en los procesos. Este análisis permite definir los requerimientos clave del sistema, estableciendo una base sólida para el diseño y desarrollo de una solución que optimice la gestión de proyectos y mejore la toma de decisiones dentro de las organizaciones. 
 
 ## 2.1 Competidores
+<a id="2-1-competidores"></a>
 En la siguiente sección se presentarán los principales competidores de nuestra solución, así como un análisis general de sus características en comparación con el servicio propuesto.
 
 **Jira**:
@@ -13,6 +15,7 @@ Es una plataforma de gestión de trabajo basada en tableros visuales que permite
 **Microsoft Project**:
 Es un software ampliamente reconocido en la planificación y gestión de proyectos complejos, especialmente en grandes organizaciones. Permite crear cronogramas detallados, asignar recursos, gestionar presupuestos y analizar el avance de los proyectos mediante herramientas como diagramas de Gantt. A pesar de su robustez y capacidad avanzada, presenta una curva de aprendizaje elevada y costos relativamente altos, lo que puede dificultar su adopción en empresas que buscan soluciones más ágiles, accesibles y centralizadas.
 ### 2.1.1 Analisis Competitivo
+<a id="2-1-1-analisis-competitivo"></a>
 
 | **¿Por qué llevar a cabo este análisis?** | Evaluar el posicionamiento de Vantage PMO frente a sus competidores para identificar oportunidades de diferenciación y definir estrategias competitivas. |
 | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -38,6 +41,7 @@ Es un software ampliamente reconocido en la planificación y gestión de proyect
 
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
+<a id="2-1-2-estrategias-y-tacticas-frente-a-competidores"></a>
 
 Para destacar frente a la competencia, es fundamental desarrollar estrategias y tácticas que permitan diferenciar a Vantage PMO dentro del mercado de gestión de proyectos y captar la atención de empresas que requieren soluciones más eficientes y centralizadas. Algunas estrategias y tácticas que se implementarán son las siguientes:
 
@@ -90,8 +94,10 @@ Reducir la resistencia al cambio permitiendo la compatibilidad con herramientas 
 Incorporar funciones de importación y exportación de datos (por ejemplo, desde Excel), facilitando la transición hacia la plataforma Vantage PMO.
 
 ## 2.2 Entrevistas
+<a id="2-2-entrevistas"></a>
 
 ### 2.2.1 Diseño de Entrevistas
+<a id="2-2-1-diseno-de-entrevistas"></a>
  #### Preguntas presentacion
 
 - ¿Cual es su nombre?
@@ -141,6 +147,7 @@ Preguntas complementarias:
 13. ¿Cuál es el problema más frecuente al gestionar varios proyectos?
 
 ### 2.2.2 Registro de Entrevistas
+<a id="2-2-2-registro-de-entrevistas"></a>
 En esta sección presentamos los registros de las entrevistas que hicimos para cada segmento objetivo de nuestra aplicación.
 
 **Segmento 1:**
@@ -384,6 +391,7 @@ Respecto a retrasos en la coordinación, menciona que no suele ser frecuente, au
 </table>
 
 ### 2.2.3 Análisis de Entrevistas
+<a id="2-2-3-analisis-de-entrevistas"></a>
 
  **Segmento 1**: Líderes o jefes de gestión de proyectos
 
@@ -438,8 +446,10 @@ Se analizaron 3 entrevistas a personas que forman parte de empresas o emprendimi
 * **Existe alta disposición a digitalizar la gestión, con condiciones claras**  El 100% de los entrevistados está dispuesto a adoptar una herramienta centralizada, siempre que sea fácil de usar, ahorre tiempo, reduzca errores y no requiera procesos complejos de capacitación.
 ---
 ## 2.3 Needfinding
+<a id="2-3-needfinding"></a>
 
 ### 2.3.1. User Personas
+<a id="2-3-1-user-personas"></a>
 En esta sección describe dos User Personas que reflejan los principales segmentos a los que está dirigida mi solución los Líderes y Jefes de Gestión de Proyectos, así como las Empresas Medianas y Grandes que manejan múltiples portafolios. A través de estos perfiles busco entender mejor sus necesidades, motivaciones, frustraciones y comportamientos, con la finalidad de diseñar una plataforma que mejore la gestión de proyectos, incremente la visibilidad de la operación y facilite una toma de decisiones más estratégica y oportuna.
 
 **Segmento 1**
@@ -455,6 +465,7 @@ El User Persona de Renzo Araos revela una contradicción crítica entre su capac
 Por otro lado, el User Persona Katherine Herrera encarna a la líder operativa en sectores de alta rotación, como el farmacéutico, que enfrenta la complejidad de supervisar múltiples iniciativas críticas simultáneamente. Con un equipo de 12 personas a su cargo, Katherine opera en un entorno de alta presión donde la falta de una herramienta estandarizada la obliga a depender de un ecosistema fragmentado entre Excel y WhatsApp. Valora profundamente la precisión y la visibilidad inmediata de los estados de avance para asegurar el cumplimiento de plazos y la optimización de recursos. Aunque domina las herramientas tradicionales, sufre la frustración de la "ceguera operativa" causada por la dispersión de datos. Su mayor necesidad es una solución centralizada que le brinde control total y alertas automáticas, permitiéndole migrar de una gestión reactiva a una supervisión estratégica y eficiente.
 
 ### 2.3.2. User Task Matrix
+<a id="2-3-2-user-task-matrix"></a>
 
 En esta sección se desarrolla el User Task Matrix, en el cual identifica las principales actividades que realizan los User Personas los Líderes y Jefes de Gestión de Proyectos y las Empresas Medianas y Grandes que gestionan múltiples portafolios.
 
@@ -501,6 +512,7 @@ Estas tareas corresponden a acciones habituales dentro de su dinámica laboral, 
 - Existe una desconexión entre la importancia de la Comunicación (Constante) y el Reporteo. Al estar en canales distintos, el reporte nunca refleja las sutilezas o problemas discutidos en el chat diario.
 
 ### 2.3.3. User Journey Mapping
+<a id="2-3-3-user-journey-mapping"></a>
 
 En esta sección se presentan los User Journey Maps en su estado actual (As-Is), los cuales muestran el flujo de trabajo de los usuarios sin el uso de Vantage PMO. Este análisis permite entender cómo se desarrollan sus procesos, desde la identificación de necesidades hasta la entrega de resultados. Además, se destacan las principales etapas, acciones y puntos de contacto, así como los problemas derivados del uso de herramientas no integradas. Esto evidencia altos niveles de frustración y permite identificar oportunidades clave de mejora que la solución busca resolver, especialmente en la visibilidad operativa y la reducción de la carga administrativa.
 
@@ -513,6 +525,7 @@ En esta sección se presentan los User Journey Maps en su estado actual (As-Is),
 ![User-Journey-Map-2](assets/images/chapter-2/Needfinding/Segment-2/User-Journey-Map-of-Katherine-Herrera.png)
 
 ### 2.3.4. Empathy Mapping
+<a id="2-3-4-empathy-mapping"></a>
 Se ha elaborado el Empathy Map para cada uno de nuestros User Personas con el fin de profundizar en su realidad cotidiana, logrando así una comprensión genuina de sus necesidades. Este análisis nos permite conectar con sus motivaciones más profundas y visualizar los obstáculos que enfrentan, garantizando que las soluciones propuestas no solo sean técnicas, sino que respondan verdaderamente a sus frustraciones y metas personales.
 
 **Segmento 1**
@@ -524,6 +537,7 @@ Se ha elaborado el Empathy Map para cada uno de nuestros User Personas con el fi
 ![Empathy-Map-2](assets/images/chapter-2/Needfinding/Segment-2/Empathy-Map-of-Katherine-Herrera.png)
 
 ## 2.4. Big Picture EventStorming
+<a id="2-4-big-picture-eventstorming"></a>
 
 Nos permite capturar el flujo de negocio identificando los eventos de dominio clave que ocurren para resolver  la información y centralizar el control operativo.
 
@@ -547,6 +561,7 @@ Nos permite capturar el flujo de negocio identificando los eventos de dominio cl
 
 
 ## 2.5. Ubiquitous Language
+<a id="2-5-ubiquitous-language"></a>
 
 El "Ubiquitous Language" es la herramienta esencial en nuestro trabajo, nos permitirá establecer un lenguaje común y compartido entre todos los miembros del equipo, nos ayuda en la comunicación y comprensión de los conceptos clave en nuestro proyecto.
 
