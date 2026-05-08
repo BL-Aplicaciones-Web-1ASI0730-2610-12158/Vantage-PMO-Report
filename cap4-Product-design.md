@@ -1,9 +1,9 @@
-<div style="page-break-after: always;"></div>
-# 4.1. Style Guidelines.
+# Product Design
+## 4.1. Style Guidelines.
 
 El diseño se enfoca en una interfaz intuitiva que garantiza la seguridad y escalabilidad del sistema siendo capaz de manejar múltiples proyectos con alta disponibilidad y un control de acceso estrictamente definido por roles.
 
-## 4.1.1. General Style Guidelines.
+### 4.1.1. General Style Guidelines.
 
 En este apartado se detallan las decisiones de estilo que definen la identidad visual de Vantage PMO, una plataforma web orientada a la gestión centralizada de proyectos (PMO).
 Las decisiones relacionadas con branding, tipografía, colores, espaciado y lenguaje buscan transmitir profesionalismo, claridad, control y confianza, elementos clave en entornos corporativos.
@@ -93,17 +93,17 @@ Por otro lado, la **alineación** cumple un rol fundamental en la organización 
 Estos principios no se aplican de manera aislada, sino que forman parte de un sistema de diseño integral que busca ser **funcional, claro y alineado** con los objetivos de Vantage PMO: optimizar la gestión de proyectos mediante una experiencia intuitiva, organizada y orientada a la toma de decisiones estratégicas.
 
 
-## 4.1.2. Web Style Guidelines.
+### 4.1.2. Web Style Guidelines.
 
 Para Vantage PMO, estamos desarrollando una plataforma web orientada a la gestión centralizada de proyectos en empresas medianas y grandes. Por ello, implementaremos un diseño adaptable (Responsive Web Design), con el objetivo de garantizar una correcta visualización y funcionalidad en distintos dispositivos, como laptops, tablets y smartphones. Esto permitirá que los usuarios puedan acceder a la información en cualquier momento y lugar, mejorando la experiencia de uso y la toma de decisiones en tiempo real.
 
 Como equipo, hemos decidido incorporar el patrón de diseño, las vistas principales del sistema, especialmente en la landing page y dashboards iniciales. Esta técnica es altamente efectiva para dirigir la atención del usuario hacia los elementos más importantes, como indicadores de desempeño, estado de proyectos y acciones clave dentro de la plataforma.
 
-# 4.2. Information Architecture.
+## 4.2. Information Architecture.
 
 Se enfoca en la forma crítica de salud de los proyectos (KPIs y semáforos) sea siempre el punto de partida de la navegación.
 
-## 4.2.1. Organization Systems.
+### 4.2.1. Organization Systems.
 
 En la plataforma Vantage PMO, se emplea principalmente la organización jerárquica para resaltar la información crítica relacionada con la salud de los proyectos y portafolios. Elementos como KPIs clave, semáforos de estado, alertas de riesgo y desviaciones de cronograma o presupuesto se presentan con mayor jerarquía visual dentro de los dashboards. Esta priorización permite que los usuarios identifiquen de forma inmediata los proyectos que requieren atención o toma de decisiones.
 
@@ -111,7 +111,7 @@ Asimismo, se aplica una organización secuencial en procesos que requieren una g
 
 En cuanto a los esquemas de categorización, Vantage PMO no utiliza una organización alfabética como criterio principal. En su lugar, se emplea una organización cronológica para el seguimiento de información histórica, como el avance del proyecto en el tiempo, hitos cumplidos, desviaciones acumuladas y evolución de indicadores.
 Adicionalmente, el contenido se clasifica según el rol del usuario, permitiendo que Project Managers, PMO Leads y Stakeholders accedan a vistas, niveles de detalle y funcionalidades adaptadas a sus responsabilidades y necesidades de información.
-## 4.2.2. Labeling Systems.
+### 4.2.2. Labeling Systems.
 
 A continuación, se presenta el sistema de etiquetado (labeling system) diseñado para la plataforma Vantage PMO. Este sistema busca representar la información de forma clara y consistente, utilizando etiquetas cortas, precisas y alineadas al lenguaje de la gestión de proyectos, con el objetivo de minimizar la carga cognitiva, facilitar la navegación y mantener coherencia visual con la guía de diseño establecida.
 
@@ -142,7 +142,7 @@ Se ha priorizado la claridad semántica, el uso de términos familiares para pro
 * Alertas: Notificaciones sobre desviaciones críticas o riesgos relevantes.
 * Reportes Ejecutivos: Acceso a reportes consolidados para evaluación y seguimiento.
 
-## 4.2.3. SEO Tags and Meta Tags.
+### 4.2.3. SEO Tags and Meta Tags.
 
 Para asegurar que la plataforma *Vantage PMO* sea funcional por los motores de búsqueda y presente un buen diseño, se han configurado los siguientes meta tags técnicos:
 
@@ -167,7 +167,7 @@ Para asegurar que la plataforma *Vantage PMO* sea funcional por los motores de b
 * **Robots:** en html:
     `<meta name="robots" content="index, follow">`
 
-## 4.2.4. Searching Systems.
+### 4.2.4. Searching Systems.
 
 El sistema de búsqueda está diseñado  para poder reducir el tiempo de localización de datos críticos:
 
@@ -181,7 +181,7 @@ El sistema de búsqueda está diseñado  para poder reducir el tiempo de localiz
     * **Prioridad y Carga:** Según el impacto en el negocio.
 3.  **Búsqueda Documental:** Capacidad de búsqueda dentro del repositorio central de documentos para localizar actas, PDFs de reportes generados anteriormente y archivos de colaboración mediante palabras clave en el título y metadatos.
 
-## 4.2.5. Navigation Systems.
+### 4.2.5. Navigation Systems.
 
 La navegación se estructura para que el usuario nunca este a más de tres clics de la información que necesita:
 
@@ -198,11 +198,11 @@ La navegación se estructura para que el usuario nunca este a más de tres clics
 4.  **Acciones Rápidas:** Botones de acción flotante y accesos directos para la creación inmediata de proyectos o registro de riesgos, condicionados por los permisos del usuario.
 
 
-# 4.3. Landing Page UI Design.
+## 4.3. Landing Page UI Design.
 
 Este apartado define la identidad visual y estética de la página de inicio. En esta sección se detallan los elementos gráficos —como la paleta de colores, la tipografía que transforman la estructura del wireframe en una interfaz funcional y atractiva, asegurando una experiencia de usuario coherente con la propuesta.
 
-## 4.3.1. Landing Page Wireframe.
+### 4.3.1. Landing Page Wireframe.
 
 **LADING PAGE WEB**
 
@@ -265,7 +265,7 @@ Este apartado define la identidad visual y estética de la página de inicio. En
 
 **Newsletter**: Un formulario de suscripción vertical con el campo de texto y el botón de registro apilados.Los enlaces de navegación (Product, Company, Resources) se presentan en listas verticales expandibles o fijas.Finaliza con iconos de redes sociales y los términos legales en la base de la pantalla.
 
-## 4.3.2. Landing Page Mock-up.
+### 4.3.2. Landing Page Mock-up.
 
 **LADING PAGE MOCK-UP WEB**
 
@@ -336,11 +336,11 @@ Este apartado define la identidad visual y estética de la página de inicio. En
 
 **Footer Organizado**: Los enlaces de navegación (Product, Company, Resources) se presentan en listas verticales fijas o expandibles. Finaliza con iconos de redes sociales y los términos legales en la base de la pantalla, en una composición compacta.
 
-# 4.4. Web Applications UX/UI Design.
+## 4.4. Web Applications UX/UI Design.
 
 Se enfoca en los dashboards(UX), en  flujos para la generación de reportes. Se detalla el diseño de experiencia para asegurar que los Project Managers gestionen múltiples proyectos.
 
-## 4.4.1. Web Applications Wireframes.
+### 4.4.1. Web Applications Wireframes.
 
 **Web applications** 
 
@@ -1048,15 +1048,15 @@ Wireframe - Executive Profile (Mobile)
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/user-flow-diagrams/user-flow-team-members-segment-2-mobile.png">
 
-# 4.5. Web Applications Prototyping.
+## 4.5. Web Applications Prototyping.
 
 Este apartado detalla los diagramas de flujo, wireframes  y el prototipo interactivo final. Se valida la experiencia de gestión de portafolios, la generación automática de reportes y la visualización de KPIs en tiempo real.
 
 
-# 4.6. Domain-Driven Software Architecture.
+## 4.6. Domain-Driven Software Architecture.
 Se enfoca en la organización de la lógica del software, la delimitación de contextos y el uso de diagramas.
 
-## 4.6.1. Design-Level EventStorming.
+### 4.6.1. Design-Level EventStorming.
 
 Se presenta a continuación el Event Storming correspondiente a Vantage PMO, donde se han identificado los principales eventos del dominio, así como los actores involucrados, acciones, decisiones, reglas de negocio y las interacciones entre los distintos componentes del sistema. Como resultado de este análisis, se definieron 9 bounded contexts:
 
@@ -1159,25 +1159,25 @@ Este bounded context engloba las actividades de análisis de datos y generación
 ![Analytics-and-Reporting](assets/images/chapter-4/EventStorming/boundeds/analytics-and-reporting.jpg)
 
 
-## 4.6.2. Software Architecture Context Diagram.
+### 4.6.2. Software Architecture Context Diagram.
 El Diagrama de Contexto representa la vista de más alto nivel de **Vantage PMO**, detallando cómo el sistema interactúa con los usuarios y sistemas externos sin profundizar en detalles técnicos.
 
-### Sistema Central
+#### Sistema Central
 - **Vantage PMO**: Solución integral para la gestión de múltiples proyectos y gobernanza corporativa.
 
-### Usuarios
+#### Usuarios
 
-#### Segmento A: Líderes y Jefes
+##### Segmento A: Líderes y Jefes
 - Operan proyectos individuales.
 - Supervisan equipos de trabajo.
 - Realizan seguimiento de avances y tareas.
 
-#### Segmento B: Administradores PMO
+##### Segmento B: Administradores PMO
 - Gestionan portafolios de proyectos.
 - Definen estándares organizacionales.
 - Supervisan el cumplimiento de metodologías.
 
-### Sistemas Externos
+#### Sistemas Externos
 - **Auth0 (Servicio de Identidad)**  
   Encargado de la autenticación y gestión de seguridad de usuarios.
 - **AWS S3 (Servicio de Almacenamiento)**  
@@ -1185,7 +1185,7 @@ El Diagrama de Contexto representa la vista de más alto nivel de **Vantage PMO*
 - **SendGrid (Servicio de Notificaciones)**  
   Maneja el envío automatizado de correos electrónicos y alertas.
 
-### Resumen de Interacción
+#### Resumen de Interacción
 - Los usuarios (Segmento A y B) interactúan directamente con **Vantage PMO**.
 - **Vantage PMO** delega:
   - Autenticación a Auth0.
@@ -1194,22 +1194,22 @@ El Diagrama de Contexto representa la vista de más alto nivel de **Vantage PMO*
 
 ![Context-Diagram](assets/images/chapter-4/Software-Arquitecture-Diagrams/Context-Diagram.jpeg)
 
-## 4.6.3. Software Architecture Container Diagrams.
+### 4.6.3. Software Architecture Container Diagrams.
 Este nivel desglosa el sistema **Vantage PMO** en aplicaciones independientes, especificando las tecnologías de desarrollo empleadas.
 
 
-### Web Application
+#### Web Application
 Aplicación desarrollada con **Vue.js**, la cual ofrece una interfaz de usuario reactiva, dinámica y de alto rendimiento.  
 Se comunica con el backend mediante peticiones asíncronas sobre **HTTPS**, garantizando seguridad y eficiencia en la transferencia de datos.
 
-### API Application
+#### API Application
 Construida en **C#** utilizando **ASP.NET Core**.  
 Este componente actúa como el núcleo del sistema, encargado de:
 - Procesar la lógica de negocio  
 - Gestionar las operaciones del sistema  
 - Exponer endpoints **RESTful** protegidos  
 
-### Database
+#### Database
 Motor de base de datos relacional basado en **MySQL**, responsable de la persistencia de datos.  
 Garantiza:
 - Integridad de la información de proyectos  
@@ -1218,15 +1218,15 @@ Garantiza:
 
 ![Container-Diagram](assets/images/chapter-4/Software-Arquitecture-Diagrams/Container-Diagram.jpeg)
 
-## 4.6.4. Software Architecture Components Diagrams.
+### 4.6.4. Software Architecture Components Diagrams.
 
-### Persistence Layer (EF Core)
+#### Persistence Layer (EF Core)
 Capa de persistencia que utiliza **Entity Framework Core (EF Core)** como ORM:
 - Abstracción de consultas **SQL**  
 - Gestión de entidades y relaciones  
 - Comunicación eficiente con la base de datos  
 
-### Shared Module
+#### Shared Module
 Módulo compartido que centraliza componentes reutilizables:
 - DTOs (**Data Transfer Objects**)  
 - Funciones utilitarias comunes  
@@ -1234,11 +1234,11 @@ Módulo compartido que centraliza componentes reutilizables:
 
 ![Components-Diagram](assets/images/chapter-4/Software-Arquitecture-Diagrams/Components-Diagram.jpeg)
 
-# 4.7. Software Object-Oriented Design.
+## 4.7. Software Object-Oriented Design.
 
 Se centra en la definición de diagramas de clases, la interacción entre objetos y la aplicación de principios.
 
-## 4.7.1. Class Diagrams.
+### 4.7.1. Class Diagrams.
 
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/ClassDiagram.png">
@@ -1265,11 +1265,11 @@ Se centra en la definición de diagramas de clases, la interacción entre objeto
 |Comment|Permite registrar comentarios en tareas o proyectos para facilitar la comunicación del equipo.|
 |Notification|Representa las notificaciones enviadas a los usuarios sobre eventos relevantes del sistema.|
 
-# 4.8. Database Design.
+## 4.8. Database Design.
 
 Se centra en el diagrama entidad-relación, la normalización de las tablas y la arquitectura de persistencia.
 
-## 4.8.1. Database Diagrams.
+### 4.8.1. Database Diagrams.
 
 <div style="text-align:center;">
   <img src="assets/images/chapter-4/4.8 APP.png">
