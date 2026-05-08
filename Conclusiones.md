@@ -1,3 +1,5 @@
+<div style="page-break-after: always;"></div>
+
 # Conclusiones
 
 - Se logró consolidar una solución que resuelve de manera efectiva la fragmentación de la información en la gestión de proyectos. A través del diseño de procesos estandarizados, se demostró que es posible centralizar la gobernanza corporativa, permitiendo que los líderes de proyectos y los administradores mantengan una visión clara y en tiempo real del desempeño de sus portafolios.

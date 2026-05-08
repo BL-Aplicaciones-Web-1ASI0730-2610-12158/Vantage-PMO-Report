@@ -1,3 +1,5 @@
+<div style="page-break-after: always;"></div>
+
 ## Bibliografía
 
 **Ruiz, S. R. (2025).** *Retrasos en la entrega de proyectos: Gastos excesivos y otras consecuencias*. AIC.(https://aicomplutense.com/blog/retrasos-en-la-entrega-proyectos-y-consecuencias/)

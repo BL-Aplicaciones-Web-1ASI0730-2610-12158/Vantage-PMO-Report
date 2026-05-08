@@ -1,3 +1,5 @@
+<div style="page-break-after: always;"></div>
+
 # Requirements Elicitation & Analysis
 La recolección y análisis de requisitos es una etapa fundamental en el desarrollo de la plataforma Vantage PMO, ya que permite identificar y comprender las necesidades de los stakeholders involucrados en la gestión de proyectos. A través de técnicas como entrevistas, análisis de la competencia y evaluación de escenarios de uso, se busca obtener una visión clara de problemáticas como la falta de visibilidad, la fragmentación de la información y la ausencia de estandarización en los procesos. Este análisis permite definir los requerimientos clave del sistema, estableciendo una base sólida para el diseño y desarrollo de una solución que optimice la gestión de proyectos y mejore la toma de decisiones dentro de las organizaciones. 
 

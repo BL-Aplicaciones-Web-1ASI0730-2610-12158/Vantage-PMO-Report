@@ -3,11 +3,9 @@
   
 ## Universidad Peruana de Ciencias Aplicadas
 
-**Facultad:** Ingeniería
-
 **Ingeniería de Software**
 
-**Ciclo:** 2026-1
+**Ciclo:** 202610
  
 1ASI0730 - Aplicaciones Web
 
@@ -32,7 +30,7 @@
 | Teran Zavala, Mauricio Alejandro     | U202417423 |
 
 
-**Mes y Año**:  2026
+**Mes y Año**: 05/2026
 
 ---
 
@@ -45,6 +43,7 @@
 | :--- | :--- | :--- | :--- |
 | **AV1** | 25/04/2026 | Rocha, Alvaro<br>Esquicha, Diego<br>Guillen, Dylan<br>Quispe, César<br>Teran Zavala, Mauricio Alejandro | Para la entrega AV1 se consolidó la estructura del informe técnico, incluyendo carátula, registro de versiones, tabla de contenidos y la definición de Student Outcomes.<br><br>**Capítulo I — Introducción:** Se redactó el Startup Profile y el Solution Profile (Vantage PMO), detallando la propuesta de valor para la gestión de portafolios y gobernanza corporativa enfocada en los segmentos de líderes de proyectos y administradores PMO.<br><br>**Capítulo II — Requirements Elicitation & Analysis:** Se realizó el análisis de competidores y el registro de entrevistas a profundidad. Se desarrolló el Needfinding (User Personas, Task Matrix, Journey Mapping), así como el Big Picture EventStorming para identificar los eventos clave del dominio y el Ubiquitous Language basado en los Bounded Contexts definidos.<br><br>**Capítulo III — Requirements Specification:** Se elaboró el Product Backlog priorizando las User Stories críticas. Se aplicó la metodología de Impact Mapping para alinear las funcionalidades con los objetivos estratégicos del negocio.<br><br>**Capítulo IV — Product Design:** Se completaron las Style Guidelines y la Arquitectura de Información. Se desarrolló la Software Architecture bajo el Modelo C4 (Contexto, Contenedores y Componentes), especificando el uso de C# (.NET) para el backend y Vue.js/Vite para el frontend, además del diseño lógico y físico de la base de datos.<br><br>**Capítulo V — Product Implementation:** Se documentó la gestión de configuración de software y la evidencia del Sprint 1. Se incluyó el Sprint Planning, Sprint Backlog (enfocado en US20, US31, US02 y US37), documentación de servicios y evidencias de despliegue inicial.<br><br>Finalmente, se incluyeron las conclusiones preliminares del equipo, la bibliografía técnica y los anexos correspondientes. |
 
+<div style="page-break-after: always;"></div>
 
 # Project Report Collaboration Insights
 

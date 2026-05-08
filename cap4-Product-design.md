@@ -1,3 +1,4 @@
+<div style="page-break-after: always;"></div>
 # 4.1. Style Guidelines.
 
 El diseño se enfoca en una interfaz intuitiva que garantiza la seguridad y escalabilidad del sistema siendo capaz de manejar múltiples proyectos con alta disponibilidad y un control de acceso estrictamente definido por roles.

@@ -1,3 +1,4 @@
+<div style="page-break-after: always;"></div>
 ## 3.1. User Stories
 En esta sección se verán las historias de usuario que ayudarán en el desarrollo de la plataforma Vantage, enfocándonos en resolver la fragmentación de la información y mejorar el control estratégico.
 
