@@ -572,3 +572,138 @@ Se evidencia la participación plena de los cinco integrantes en el desarrollo d
 Se evidencia la colaboración constante y la sinergia grupal mediante la trazabilidad de los aportes individuales. Cada integrante sumó valor en áreas críticas del desarrollo, garantizando no solo el avance técnico del sistema, sino también el cumplimiento de los acuerdos establecidos durante la planificación del ciclo de trabajo.
 
 </div>
+
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1. Sprint Planning 2
+
+En esta sección se presenta la planificación correspondiente al Sprint 2, enfocado en el desarrollo de las funcionalidades interactivas del entorno interno de gestión de proyectos.
+
+| Campo | Detalle |
+| :--- | :--- |
+| **Sprint #** | Sprint 2 |
+| **Sprint Planning Background** | |
+| **Date** | 2026/05/02 |
+| **Time** | 22:00 pm |
+| **Location** | Reunión virtual mediante Discord |
+| **Prepared By** | Guillen Giraldo, Mike Dylan |
+| **Attendees** | Rocha Cotrina, Alvaro / Esquicha Alcántara, Diego Alonso / Quispe Llacsahuanga, César Agusto / Guillen Giraldo, Mike Dylan / Teran Zavala, Mauricio Alejandro |
+| **Sprint n-1 Review Summary** | Se completó exitosamente el desarrollo y despliegue de la Landing Page institucional, incluyendo autenticación visual, internacionalización, responsive design y notificaciones push. |
+| **Sprint n-1 Retrospective Summary** | Se identificó la necesidad de mejorar la integración entre componentes frontend y backend, además de reforzar la validación de formularios y la consistencia visual entre módulos. |
+| **Sprint Goal & User Stories** | **Sprint 2**: Nos enfocamos en implementar las funcionalidades operativas e interactivas principales. Creemos que esto permitirá a líderes de proyectos y equipos empresariales gestionar tareas, visualizar proyectos, monitorear avances y centralizar la colaboración dentro de una plataforma intuitiva. Esto se confirmará cuando los usuarios puedan interactuar con tableros Kanban, dashboards visuales, comentarios, filtros y estados dinámicos sin fricciones técnicas, logrando una experiencia de gestión fluida y mas precisa. |
+| **Sprint 2 Velocity** | 26 Story Points |
+| **Sum of Story Points** | 26 Story Points |
+
+### #5.2.2.2. Aspect Leaders and Collaborators.
+Durante el Sprint 2, el equipo priorizó el desarrollo de los módulos centrales en la dirije la gestión visual de proyectos, interacción de tareas, dashboards operativos y componentes de experiencia de usuario avanzada. El objetivo principal fue dar una experiencia funcional similar a un entorno PMO real, integrando componentes frontend reutilizables.
+
+Para asegurar una correcta coordinación y distribución de responsabilidades, se implementó nuevamente la matriz de liderazgo y colaboración (LACX), asignando líderes técnicos y colaboradores según la especialidad de cada integrante del equipo.
+
+| Team Member (Last Name, First Name) | GitHub Username | Dashboard | Kanban | API | Auth | Notifications | Reports | Risks | Calendar | UI/UX |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Rocha Cotrina, Alvaro | alvarorc24 | L | C | C | C | C | L | C | C | C |
+| Esquicha Alcántara, Diego Alonso | DiegoEsquich | C | C | L | L | C | C | C | C | C |
+| Quispe Llacsahuanga, César Agusto | user20-bit | C | L | C | C | L | C | C | C | L |
+| Guillen Giraldo, Mike Dylan | FulLHous | C | C | C | C | C | C | L | C | L |
+| Teran Zavala, Mauricio Alejandro | mau-tz | C | C | C | C | C | C | C | L | C |
+
+*Leyenda: L = Lead (Líder), C = Collaborator (Colaborador)*
+
+#### 5.2.2.3.Sprint Backlog 2.
+
+El Sprint 2 se ven las funcionalidades operativas mediante la implementación de componente y herramientas de monitoreo visual. El equipo trabajó en la integración de tableros Kanban, dashboards de seguimiento, comentarios colaborativos, filtros dinámicos, autenticación segura y generación de reportes, permitiendo transformar la plataforma en un entorno funcional para la gestión de proyectos.
+
+### Screenshot del Board
+*Aquí se debe insertar la imagen del board*
+
+**Trello:** [Falta](https://trello.com/b/9yf99IHI/vantage-pmo-sprint-backlog)
+
+### Sprint Backlog #02
+
+| User Story Id | Title | Task Id | Task Title | Description | Est. (h) | Assigned To | Status |
+| :--- | :--- | :--- | :--- | :--- | :---: | :--- | :---: |
+| **US-033** | Tablero Kanban | T001 | Implementación drag & drop | Permite mover tareas entre columnas mediante interacción visual drag and drop. | 3h | Cesar Quispe | Done |
+| | | T002 | Persistencia de estados | Permite actualizar el estado de tareas en tiempo real mediante conexión API. | 2h | Diego Esquicha | Done |
+| **US-061** | Barra de Progreso | T001 | Cálculo dinámico de avance | Permite visualizar el porcentaje de avance automáticamente según tareas completadas. | 2h | Alvaro Rocha | Done |
+| **US-062** | Chat / Comentarios UI | T001 | Feed de comentarios | Permite visualizar mensajes y comentarios asociados a tareas del proyecto. | 2h | Mauricio Teran | Done |
+| | | T002 | Diseño de burbujas de conversación | Permite mejorar la experiencia visual de interacción colaborativa. | 1h | Dylan Guillen | Done |
+| **US-063** | Campanita Avisos | T001 | Centro de notificaciones | Permite visualizar alertas activas dentro del dashboard. | 2h | Cesar Quispe | Done |
+| **US-064** | Risk Table | T001 | Tabla de riesgos críticos | Permite resaltar riesgos críticos mediante colores y prioridades. | 2h | Dylan Guillen | Done |
+| **US-039** | Calendario Mensual | T001 | Calendario interactivo | Permite visualizar hitos y eventos importantes del proyecto. | 2h | Mauricio Teran | Done |
+| **US-041** | Auth JWT | T001 | Generación de tokens | Permite asegurar las peticiones mediante autenticación JWT. | 2h | Diego Esquicha | Done |
+| **US-043** | CRUD Proyectos API | T001 | Endpoints REST | Permite crear, listar, editar y eliminar proyectos desde la API. | 4h | Diego Esquicha | Done |
+| **US-054** | JSON a PDF | T001 | Generación de reportes PDF | Permite exportar reportes ejecutivos desde la plataforma. | 2h | Alvaro Rocha | Done |
+
+#### 5.2.2.4.Development Evidence for Sprint Review.
+
+#### 5.2.2.5.Execution Evidence for Sprint Review.
+Durante el Sprint 2 se logró consolidar el entorno interactivo principal, integrando módulos funcionales orientados a la gestión operativa de proyectos y colaboración entre equipos.
+
+### Resumen de Logros:
+
+*   **Gestión Visual de Proyectos:** Se implementó un tablero Kanban completamente interactivo con actualización dinámica de estado.
+*   **Dashboard Ejecutivo:** Se integraron barras de progreso, indicadores visuales y métricas estratégicas para el monitoreo continuo de proyectos.
+*   **Seguridad** Se desarrolló un sistema de autenticación para proyectos, asegurando una comunicación estructurada entre frontend.
+*   **Comunicación y Riesgos:** Se añadieron módulos de comentarios colaborativos, centro de notificaciones y tabla de riesgos críticos para fortalecer la coordinación entre equipos.
+*   **Reportes y Seguimiento:** Se incorporó la generación de reportes PDF y un calendario interactivo para visualizar hitos y actividades relevantes.
+
+### Video de Demostración y Navegación
+Puedes acceder al video de la demostración funcional en el siguiente enlace:
+[Enlace a Video de Demostración ]()
+
+### Screenshots de la Implementación
+*Aquí se deben insertar las capturas de pantalla de la plataforma Vantage PMO.*
+
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+En este Sprint se ejecutaron actividades de despliegue relacionadas con el frontend. Se utilizaron entornos cloud para garantizar la accesibilidad y estabilidad del sistema.
+
+**Las actividades realizadas incluyen:**
+
+* **Frontend Deployment:** Despliegue del frontend en entorno web.
+* **Environment Configuration:** Configuración de variables de entorno y autenticación JWT.
+
+### Detalle de Entornos de Despliegue
+
+| Componente | Plataforma / Herramienta | Estado | URL / Acceso |
+| :--- | :--- | :---: | :--- |
+| **Frontend Web** | Vercel / Netlify | `Live` | [Enlace al Frontend] |
+| **Documentación** | Swagger UI | `Public` | `/api/docs` |
+
+---
+
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+
+- Desarrollo e implementación del Fronted.
+- Registro y visualizacion de opciones del fronted.
+
+
+------------ IMAGENES COLOCAR LAS EVIDENCIAS -------------------
+
+#### 5.2.2.8.Team Collaboration Insights during Sprint.
+
+<a id="5-2-2-8-team-collaboration-insights-during-sprint"></a>
+
+La ejecución del Sprint 2 permitió integrar múltiples componentes frontend dentro de la arquitectura funcional y colaborativa. El trabajo del equipo se caracterizó por los siguientes aspectos:
+
+*   **Sinergia Técnica:** Se fortaleció la colaboración entre frontend mediante integraciones continuas y validaciones cruzadas entre módulos visuales y servicios REST.
+*   **Gestión de Control de Versiones:** El uso de ramas de desarrollo y Pull Requests permitió mantener orden de integración estable, evitando conflictos y asegurando la calidad del código entregado.
+*   **Consistencia Visual y Funcional:** La coordinación grupal ayudo a mantener consistencia entre dashboards, componentes UI y lógica de negocio, especialmente en funcionalidades como Kanban, comentarios y notificaciones.
+*   **Cultura de Calidad:** Se aplicaron buenas prácticas de desarrollo ágil, incluyendo revisiones semanales, commits y pruebas funcionales constantes.
+*   **Comunicación Efectiva:** El equipo mantuvo la comunicación ante cambios mediante Discord y GitHub, logrando resolver rápidamente problemas de integración y dependencias entre servicios.
+
+### Analíticos de GitHub — Sprint 2
+**Analíticos de GitHub — Plataforma Interna**
+
+<p align="center">
+  <img src="" alt="Top Committers — Sprint 2" width="600"/>
+</p>
+
+| Integrante | Usuario GitHub | Commits |
+| :--- | :--- | :---: |
+| Guillen Giraldo, Mike Dylan | FulLHous |  |
+| Quispe Llacsahuanga, César Agusto | user20-bit |  |
+| Esquicha Alcántara, Diego Alonso | DiegoEsquich |  |
+| Rocha Cotrina, Alvaro | alvarorc24 |  |
+| Teran Zavala, Mauricio Alejandro | mau-tz |  |
+
+Se evidencia una participación activa y equilibrada de todos los integrantes del equipo durante el Sprint 2, reflejando un trabajo colaborativo de la plataforma Vantage PMO.
