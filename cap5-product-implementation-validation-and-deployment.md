@@ -76,102 +76,102 @@ El código desarrollado por los miembros del equipo esté completamente redactad
 
 ## **HTML**
 
-**Use Lowercase Element Names**: Se recomienda utilizar minúsculas para todos los elementos HTML.
-
-    <section class="hero">
-      <h1>Centralize your projects</h1>
-    </section>
+* **Use Lowercase Element Names**: Se recomienda utilizar minúsculas para todos los elementos HTML.
+```html
+<section class="hero">
+<h1>Centralize your projects</h1>
+</section>
 
 **Close All HTML Elements**: Todos los elementos deben cerrarse correctamente para evitar errores de renderizado.
+```html
+<p>Centralize your projects, control your future.</p>
 
- < p >Centralize your projects, control your future.</ p >
-
-< a href="#Contact">Solicitar demo</a >
+<a href="#Contact">Solicitar demo</a>
+```
 
 **Use Lowercase Attribute Names**: Los atributos deben escribirse en minúsculas.
 
-< input type="email" placeholder="tu@correo.com" id="fe" />
-
+```html
+<input type="email" placeholder="tu@correo.com" id="fe"/>
+```
 **Use Semantic HTML Elements**: Se deben utilizar etiquetas semánticas para mejorar la estructura y accesibilidad.
 
-< nav>...</ nav>
-< section id="funciones">...</ section>
-< footer>...</ footer>
+```html
+<nav>...</nav>
+<section id="funciones">...</section>
+<footer>...</footer>
+```
 
 **Use Descriptive IDs and Classes**: Los nombres deben ser claros y representar su función.
-
-< section id="contact">
-  < div class="contact-form">
-
+```html
+<section id="contact">
+  <div class="contact-form">
+```
 ## **CSS**
 
 **Use Kebab-Case for Class Names**: Las clases deben escribirse en minúsculas separadas por guiones.
-
+```css
 .contact-form {
   display: flex;
 }
-
-
+```
 **Use CSS Variables for Colors**: Se deben definir colores reutilizables en :root.
-
+```css
 :root {
   --blue: #1E40AF;
   --navy: #0F172A;
 }
-
+```
 **Group Styles by Sections**: El código CSS debe organizarse por secciones del sitio.
-
+```css
 /* NAV */
 nav { ... }
-
 /* HERO */
 .hero { ... }
-
 /* FOOTER */
 footer { ... }
-
-
+```
 **Use Consistent Spacing**: Se debe mantener consistencia en márgenes, padding y alineación.
-
+```css
 .section {
   padding: 6rem 2rem;
 }
-
+```
 **Responsive Design with Media Queries**: Se deben usar breakpoints para adaptar la interfaz.
-
+```css
 @media (max-width: 600px) {
   .hero {
     padding: 4rem 1rem;
   }
 }
-
-
+```
 ## **JavaScript**
 
 **Use CamelCase for Variables and Functions**: Las variables y funciones deben usar camelCase.
-
+```js
 function sendForm() {
   const userName = document.getElementById('fn').value;
 }
-
+```
 **Keep Functions Simple and Clear**: Las funciones deben ser cortas y fáciles de entender.
-
+```js
 if (!n || !e) {
   alert('Por favor completa tu nombre y correo.');
   return;
 }
-
+```
 
 **Use Meaningful Variable Names**: Los nombres deben representar su propósito.
-
+```js
 const navLinks = document.getElementById('navLinks');
 const hamburger = document.getElementById('hamburger');
-
+```
 **Avoid Inline JavaScript**: Se recomienda mantener la lógica separada del HTML.
-
+```js
 < button onclick="sendForm()">Enviar</ button>
-
+```
 ### 5.1.4. Software Deployment Configuration
+
 <a id="5-1-4-software-deployment-configuration"></a>
 
 Para la Landing Page desarrollada en HTML, CSS y JavaScript, la configuración del despliegue en GitHub Pages se define de la siguiente manera:
