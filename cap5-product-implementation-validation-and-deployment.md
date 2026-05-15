@@ -650,6 +650,148 @@ El Sprint 2 se ven las funcionalidades operativas mediante la implementación de
 #### 5.2.2.4. Development Evidence for Sprint Review.
 <a id="5-2-2-4-development-evidence-for-sprint-review"></a>
 
+En esta sección se presentan los avances obtenidos durante la fase de implementación correspondientes al Sprint Backlog 02, enfocado en el desarrollo de funcionalidades interactivas y componentes principales del sistema de gestión de proyectos.
+
+Durante este sprint se implementaron funcionalidades relacionadas con el tablero Kanban, autenticación mediante JWT, visualización de progreso, sistema de comentarios colaborativos, gestión de riesgos, calendario mensual, generación de reportes PDF y consumo de endpoints REST para la administración de proyectos.
+
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Commit Message Body</th>
+    <th>Commited on (Date)</th>
+  </tr>
+
+  <tr>
+    <td>DiegoEsquich/Vantage-PMO-Front-End</td>
+    <td>develop</td>
+    <td>a12f4d2</td>
+    <td>feat(task-collaboration): implement kanban board ui and task workflow logic</td>
+    <td>Permite implementar la interfaz del tablero Kanban y la lógica de flujo colaborativo de tareas.</td>
+    <td>12/05/2026</td>
+  </tr>
+
+  <tr>
+    <td>DiegoEsquich/Vantage-PMO-Front-End</td>
+    <td>develop</td>
+    <td>b82ac14</td>
+    <td>feat(task-collaboration): add task collaboration endpoint, data, and route</td>
+    <td>Permite implementar endpoints y rutas para la colaboración y gestión de tareas.</td>
+    <td>12/05/2026</td>
+  </tr>
+
+  <tr>
+    <td>alvarorc24/Vantage-PMO-Front-End</td>
+    <td>develop</td>
+    <td>c73de91</td>
+    <td>feat(reports): implement api, store, view, entity</td>
+    <td>Permite implementar la estructura de reportes mediante API, vistas, entidades y almacenamiento.</td>
+    <td>12/05/2026</td>
+  </tr>
+
+  <tr>
+    <td>alvarorc24/Vantage-PMO-Front-End</td>
+    <td>develop</td>
+    <td>d42cb66</td>
+    <td>feat(reports): api config, mock data and route</td>
+    <td>Permite configurar rutas y datos simulados para la gestión de reportes.</td>
+    <td>12/05/2026</td>
+  </tr>
+
+  <tr>
+    <td>mau-tz/Vantage-PMO-Front-End</td>
+    <td>develop</td>
+    <td>e91bd72</td>
+    <td>feat(project): active projects view with styles</td>
+    <td>Permite visualizar proyectos activos mediante una interfaz estilizada e interactiva.</td>
+    <td>13/05/2026</td>
+  </tr>
+
+  <tr>
+    <td>mau-tz/Vantage-PMO-Front-End</td>
+    <td>develop</td>
+    <td>f25da18</td>
+    <td>feat(project): add milestone timeline and enhance project styles</td>
+    <td>Permite implementar una línea de tiempo de hitos y mejorar la visualización de proyectos.</td>
+    <td>13/05/2026</td>
+  </tr>
+
+  <tr>
+    <td>user20-bit/Vantage-PMO-Front-End</td>
+    <td>develop</td>
+    <td>g66ae42</td>
+    <td>feat(system-administration): integrate admin panel with branding, security and notification settings</td>
+    <td>Permite integrar configuraciones de seguridad y notificaciones dentro del panel administrativo.</td>
+    <td>13/05/2026</td>
+  </tr>
+
+  <tr>
+    <td>user20-bit/Vantage-PMO-Front-End</td>
+    <td>develop</td>
+    <td>h87ef24</td>
+    <td>feat(system-administration): redesign admin module with enterprise settings workspace UI</td>
+    <td>Permite rediseñar el módulo administrativo mediante una interfaz de configuración empresarial.</td>
+    <td>13/05/2026</td>
+  </tr>
+
+  <tr>
+    <td>FulLHous/Vantage-PMO-Front-End</td>
+    <td>develop</td>
+    <td>i53bc74</td>
+    <td>feat(ui): implement schedule calendar view component</td>
+    <td>Permite visualizar actividades y eventos mediante un calendario interactivo mensual.</td>
+    <td>14/05/2026</td>
+  </tr>
+
+  <tr>
+    <td>FulLHous/Vantage-PMO-Front-End</td>
+    <td>develop</td>
+    <td>j42da55</td>
+    <td>feat(meetings): implement entity, API service, assembler, and store</td>
+    <td>Permite implementar la gestión de reuniones mediante entidades, servicios API y almacenamiento.</td>
+    <td>14/05/2026</td>
+  </tr>
+
+  <tr>
+    <td>FulLHous/Vantage-PMO-Front-End</td>
+    <td>develop</td>
+    <td>k92ca11</td>
+    <td>feat(ui): add meetings management view and export report dialog</td>
+    <td>Permite gestionar reuniones y exportar reportes mediante ventanas de diálogo interactivas.</td>
+    <td>14/05/2026</td>
+  </tr>
+
+  <tr>
+    <td>FulLHous/Vantage-PMO-Front-End</td>
+    <td>develop</td>
+    <td>l52fe90</td>
+    <td>feat(ui): add responsive CSS layouts for support and task views</td>
+    <td>Permite adaptar las vistas de soporte y tareas mediante estilos responsive.</td>
+    <td>15/05/2026</td>
+  </tr>
+
+  <tr>
+    <td>FulLHous/Vantage-PMO-Front-End</td>
+    <td>develop</td>
+    <td>m81df63</td>
+    <td>feat(auth): improve forms with password visibility toggles and robust validation</td>
+    <td>Permite mejorar la autenticación mediante validaciones robustas y visualización de contraseñas.</td>
+    <td>15/05/2026</td>
+  </tr>
+
+  <tr>
+    <td>FulLHous/Vantage-PMO-Front-End</td>
+    <td>develop</td>
+    <td>n22bc84</td>
+    <td>feat(auth): add forgot and reset password routes</td>
+    <td>Permite implementar recuperación y restablecimiento de contraseña mediante rutas de autenticación.</td>
+    <td>15/05/2026</td>
+  </tr>
+
+</table>
+
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 <a id="5-2-2-5-execution-evidence-for-sprint-review"></a>
 Durante el Sprint 2 se logró consolidar el entorno interactivo principal, integrando módulos funcionales orientados a la gestión operativa de proyectos y colaboración entre equipos.
