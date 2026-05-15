@@ -619,9 +619,12 @@ Para asegurar una correcta coordinación y distribución de responsabilidades, s
 El Sprint 2 se ven las funcionalidades operativas mediante la implementación de componente y herramientas de monitoreo visual. El equipo trabajó en la integración de tableros Kanban, dashboards de seguimiento, comentarios colaborativos, filtros dinámicos, autenticación segura y generación de reportes, permitiendo transformar la plataforma en un entorno funcional para la gestión de proyectos.
 
 ### Screenshot del Board
-*Aquí se debe insertar la imagen del board*
+<div style="text-align:center;">
+  <img src="assets/images/chapter-5/Sprint2/Trello sprint2.png" 
+       alt="Paleta de Colores">
+</div>
 
-**Trello:** [Falta](https://trello.com/b/9yf99IHI/vantage-pmo-sprint-backlog)
+**Trello:** [Trello Sprint 2](https://trello.com/b/9yf99IHI/vantage-pmo-sprint-backlog) [https://trello.com/b/9yf99IHI/vantage-pmo-sprint-backlog]
 
 ### Sprint Backlog #02
 
@@ -809,7 +812,16 @@ Puedes acceder al video de la demostración funcional en el siguiente enlace:
 [Enlace a Video de Demostración ]()
 
 ### Screenshots de la Implementación
-*Aquí se deben insertar las capturas de pantalla de la plataforma Vantage PMO.*
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-5/Sprint2//parte1 front.jpg" 
+       alt="Paleta de Colores">
+</div>
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-5/Sprint2/frontend-evidence-1.jpeg" 
+       alt="Paleta de Colores">
+</div>
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 <a id="5-2-2-6-services-documentation-evidence-for-sprint-review"></a>
@@ -838,16 +850,6 @@ En este Sprint se ejecutaron actividades de despliegue relacionadas con el front
 
 <div style="text-align:center;">
   <img src="assets/images/chapter-5/Sprint2/servidor-front-end.jpg" 
-       alt="Paleta de Colores">
-</div>
-
-<div style="text-align:center;">
-  <img src="assets/images/chapter-5/Sprint2//parte1 front.jpg" 
-       alt="Paleta de Colores">
-</div>
-
-<div style="text-align:center;">
-  <img src="assets/images/chapter-5/Sprint2/frontend-evidence-1.jpeg" 
        alt="Paleta de Colores">
 </div>
 
