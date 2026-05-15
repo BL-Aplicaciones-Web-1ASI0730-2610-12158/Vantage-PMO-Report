@@ -836,7 +836,7 @@ En este Sprint se ejecutaron actividades de despliegue relacionadas con el front
 
 | Componente | Plataforma / Herramienta | Estado | URL / Acceso |
 | :--- | :--- | :---: | :--- |
-| **Frontend Web** | Vercel / Netlify | `Live` | [Enlace al Frontend] |
+| **Frontend Web** | Vercel / Netlify | `Live` | [https://vantagepmo-297ec.web.app] |
 | **Documentación** | Swagger UI | `Public` | `/api/docs` |
 
 ---
@@ -850,14 +850,23 @@ En este Sprint se ejecutaron actividades de despliegue relacionadas con el front
 
 <div style="text-align:center;">
   <img src="assets/images/chapter-5/Sprint2/servidor-front-end.jpg" 
-       alt="Paleta de Colores">
+       alt="Frontend Evidence">
 </div>
 
 <div style="text-align:center;">
-  <img src="assets/images/chapter-5/Sprint2/frontend-evidence-2.jpeg" 
-       alt="Paleta de Colores">
+  <img src="assets/images/chapter-5/Sprint2/frontend-picture-evidence-2.png" 
+       alt="Frontend Evidence">
 </div>
 
+<div style="text-align:center;">
+  <img src="assets/images/chapter-5/Sprint2/frontend-picture-evidence.png" 
+       alt="Frontend Evidence">
+</div>
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-5/Sprint2/software-deployment-evidence.png" 
+       alt="Software Deployment Evidence">
+</div>
 
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 
