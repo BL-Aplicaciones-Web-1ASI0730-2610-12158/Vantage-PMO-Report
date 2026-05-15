@@ -836,7 +836,26 @@ En este Sprint se ejecutaron actividades de despliegue relacionadas con el front
 - Registro y visualizacion de opciones del fronted.
 
 
------------- IMAGENES COLOCAR LAS EVIDENCIAS -------------------
+<div style="text-align:center;">
+  <img src="assets/images/chapter-5/Sprint2/servidor-front-end.jpg" 
+       alt="Paleta de Colores">
+</div>
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-5/Sprint2//parte1 front.jpg" 
+       alt="Paleta de Colores">
+</div>
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-5/Sprint2/frontend-evidence-1.jpeg" 
+       alt="Paleta de Colores">
+</div>
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-5/Sprint2/frontend-evidence-2.jpeg" 
+       alt="Paleta de Colores">
+</div>
+
 
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 
