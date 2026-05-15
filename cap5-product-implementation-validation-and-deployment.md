@@ -573,9 +573,12 @@ Se evidencia la colaboración constante y la sinergia grupal mediante la trazabi
 
 </div>
 
+
 ### 5.2.2. Sprint 2
+<a id="5-2-2-sprint-2"></a>
 
 #### 5.2.2.1. Sprint Planning 2
+<a id="5-2-2-1-sprint-planning-2"></a>
 
 En esta sección se presenta la planificación correspondiente al Sprint 2, enfocado en el desarrollo de las funcionalidades interactivas del entorno interno de gestión de proyectos.
 
@@ -594,7 +597,8 @@ En esta sección se presenta la planificación correspondiente al Sprint 2, enfo
 | **Sprint 2 Velocity** | 26 Story Points |
 | **Sum of Story Points** | 26 Story Points |
 
-### #5.2.2.2. Aspect Leaders and Collaborators.
+### 5.2.2.2. Aspect Leaders and Collaborators.
+<a id="5-2-2-2-aspect-leaders-and-collaborators"></a>
 Durante el Sprint 2, el equipo priorizó el desarrollo de los módulos centrales en la dirije la gestión visual de proyectos, interacción de tareas, dashboards operativos y componentes de experiencia de usuario avanzada. El objetivo principal fue dar una experiencia funcional similar a un entorno PMO real, integrando componentes frontend reutilizables.
 
 Para asegurar una correcta coordinación y distribución de responsabilidades, se implementó nuevamente la matriz de liderazgo y colaboración (LACX), asignando líderes técnicos y colaboradores según la especialidad de cada integrante del equipo.
@@ -609,7 +613,8 @@ Para asegurar una correcta coordinación y distribución de responsabilidades, s
 
 *Leyenda: L = Lead (Líder), C = Collaborator (Colaborador)*
 
-#### 5.2.2.3.Sprint Backlog 2.
+#### 5.2.2.3. Sprint Backlog 2.
+<a id="5-2-2-3-sprint-backlog-2"></a>
 
 El Sprint 2 se ven las funcionalidades operativas mediante la implementación de componente y herramientas de monitoreo visual. El equipo trabajó en la integración de tableros Kanban, dashboards de seguimiento, comentarios colaborativos, filtros dinámicos, autenticación segura y generación de reportes, permitiendo transformar la plataforma en un entorno funcional para la gestión de proyectos.
 
@@ -634,9 +639,11 @@ El Sprint 2 se ven las funcionalidades operativas mediante la implementación de
 | **US-043** | CRUD Proyectos API | T001 | Endpoints REST | Permite crear, listar, editar y eliminar proyectos desde la API. | 4h | Diego Esquicha | Done |
 | **US-054** | JSON a PDF | T001 | Generación de reportes PDF | Permite exportar reportes ejecutivos desde la plataforma. | 2h | Alvaro Rocha | Done |
 
-#### 5.2.2.4.Development Evidence for Sprint Review.
+#### 5.2.2.4. Development Evidence for Sprint Review.
+<a id="5-2-2-4-development-evidence-for-sprint-review"></a>
 
-#### 5.2.2.5.Execution Evidence for Sprint Review.
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+<a id="5-2-2-5-execution-evidence-for-sprint-review"></a>
 Durante el Sprint 2 se logró consolidar el entorno interactivo principal, integrando módulos funcionales orientados a la gestión operativa de proyectos y colaboración entre equipos.
 
 ### Resumen de Logros:
@@ -654,7 +661,8 @@ Puedes acceder al video de la demostración funcional en el siguiente enlace:
 ### Screenshots de la Implementación
 *Aquí se deben insertar las capturas de pantalla de la plataforma Vantage PMO.*
 
-#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+<a id="5-2-2-6-services-documentation-evidence-for-sprint-review"></a>
 En este Sprint se ejecutaron actividades de despliegue relacionadas con el frontend. Se utilizaron entornos cloud para garantizar la accesibilidad y estabilidad del sistema.
 
 **Las actividades realizadas incluyen:**
@@ -671,7 +679,8 @@ En este Sprint se ejecutaron actividades de despliegue relacionadas con el front
 
 ---
 
-#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+<a id="5-2-2-7-software-deployment-evidence-for-sprint-review"></a>
 
 - Desarrollo e implementación del Fronted.
 - Registro y visualizacion de opciones del fronted.
