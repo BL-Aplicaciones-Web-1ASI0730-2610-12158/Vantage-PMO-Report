@@ -695,15 +695,15 @@ La ejecución del Sprint 2 permitió integrar múltiples componentes frontend de
 **Analíticos de GitHub — Plataforma Interna**
 
 <p align="center">
-  <img src="" alt="Top Committers — Sprint 2" width="600"/>
+  <img src="assets/images/chapter-5/Team-Colaboration/Commiters-sprint2.jpeg" alt="Top Committers — Sprint 2" width="600"/>
 </p>
 
 | Integrante | Usuario GitHub | Commits |
 | :--- | :--- | :---: |
-| Guillen Giraldo, Mike Dylan | FulLHous |  |
-| Quispe Llacsahuanga, César Agusto | user20-bit |  |
-| Esquicha Alcántara, Diego Alonso | DiegoEsquich |  |
-| Rocha Cotrina, Alvaro | alvarorc24 |  |
-| Teran Zavala, Mauricio Alejandro | mau-tz |  |
+| Guillen Giraldo, Mike Dylan | FulLHous | 51 |
+| Quispe Llacsahuanga, César Agusto | user20-bit | 9 |
+| Esquicha Alcántara, Diego Alonso | DiegoEsquich | 5 |
+| Rocha Cotrina, Alvaro | alvarorc24 | 3 |
+| Teran Zavala, Mauricio Alejandro | mau-tz | 3|
 
 Se evidencia una participación activa y equilibrada de todos los integrantes del equipo durante el Sprint 2, reflejando un trabajo colaborativo de la plataforma Vantage PMO.
