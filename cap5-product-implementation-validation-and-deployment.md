@@ -620,11 +620,11 @@ El Sprint 2 se ven las funcionalidades operativas mediante la implementación de
 
 ### Screenshot del Board
 <div style="text-align:center;">
-  <img src="assets/images/chapter-5/Sprint2/Trello sprint2.png" 
+  <img src="assets/images/chapter-5/Sprint2/trello-sprint-2.png" 
        alt="Paleta de Colores">
 </div>
 
-**Trello:** [Trello Sprint 2](https://trello.com/b/9yf99IHI/vantage-pmo-sprint-backlog) [https://trello.com/b/9yf99IHI/vantage-pmo-sprint-backlog]
+**Trello:** [Trello Sprint 2](https://trello.com/b/X2pD5igT/vantage-pmo-sprint-backlog-2) [https://trello.com/b/X2pD5igT/vantage-pmo-sprint-backlog-2]
 
 ### Sprint Backlog #02
 
