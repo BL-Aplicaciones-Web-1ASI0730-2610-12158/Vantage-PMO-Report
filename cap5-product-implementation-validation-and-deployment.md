@@ -486,7 +486,7 @@ Durante el presente Sprint, se ha logrado la transición de una interfaz estáti
 
 A continuación, se presentan las evidencias gráficas de las vistas implementadas y el recurso audiovisual que detalla el flujo de navegación alcanzado:
 
-Video de Demostración y Navegación: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202411243_upc_edu_pe/IQBeKxnUoQKmRYT2cJBc8WMKAXQ7spnUE5tnzJIMjm1vmfU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=epsV7Q
+Video de Demostración y Navegación: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202411243_upc_edu_pe/IQBeKxnUoQKmRYT2cJBc8WMKAXQ7spnUE5tnzJIMjm1vmfU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=epsV7Q)
 
 Screenshots de la Implementación:
 
@@ -809,7 +809,7 @@ Durante el Sprint 2 se logró consolidar el entorno interactivo principal, integ
 
 ### Video de Demostración y Navegación
 Puedes acceder al video de la demostración funcional en el siguiente enlace:
-[Enlace a Video de Demostración ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202411799_upc_edu_pe/IQB9_MnQmbOJQ4bIrihqyoPJAf8ovP4aL_gm3Tv7x9twqk8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hJb0Ta) - (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202411799_upc_edu_pe/IQB9_MnQmbOJQ4bIrihqyoPJAf8ovP4aL_gm3Tv7x9twqk8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hJb0Ta) 
+[Enlace a Video de Demostración: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202411799_upc_edu_pe/IQB9_MnQmbOJQ4bIrihqyoPJAf8ovP4aL_gm3Tv7x9twqk8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hJb0Ta
 
 ### Screenshots de la Implementación
 
@@ -845,10 +845,7 @@ En este Sprint se ejecutaron actividades de despliegue relacionadas con el front
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 <a id="5-2-2-7-software-deployment-evidence-for-sprint-review"></a>
 
-- Desarrollo e implementación del front-end.
-- Registro y visualizacion de opciones del front-end.
-
-
+- Evidencia del despliegue en FireBase
 <div style="text-align:center;">
   <img src="assets/images/chapter-5/Sprint2/firebase-deployment-evidence.png" 
        alt="Frontend Evidence">
@@ -859,16 +856,19 @@ En este Sprint se ejecutaron actividades de despliegue relacionadas con el front
        alt="Frontend Evidence">
 </div>
 
+- Desarrollo e implementación del front-end.
 <div style="text-align:center;">
   <img src="assets/images/chapter-5/Sprint2/frontend-picture-evidence-2.png" 
        alt="Frontend Evidence">
 </div>
 
+- Registro y visualizacion de opciones del front-end.
 <div style="text-align:center;">
   <img src="assets/images/chapter-5/Sprint2/frontend-picture-evidence.png" 
        alt="Frontend Evidence">
 </div>
 
+- Evidencia del despliegue en Render.
 <div style="text-align:center;">
   <img src="assets/images/chapter-5/Sprint2/software-deployment-evidence.png" 
        alt="Software Deployment Evidence">
