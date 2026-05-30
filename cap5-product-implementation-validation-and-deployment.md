@@ -896,3 +896,13 @@ La ejecución del Sprint 2 permitió integrar múltiples componentes frontend de
 | Teran Zavala, Mauricio Alejandro | mau-tz | 3|
 
 Se evidencia una participación activa y equilibrada de todos los integrantes del equipo durante el Sprint 2, reflejando un trabajo colaborativo de la plataforma Vantage PMO.
+
+## 5.3. Validation Interviews.
+
+### 5.3.1. Diseño de Entrevistas.
+
+### 5.3.2. Registro de Entrevistas.
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+## 5.4. Video About-the-Product.

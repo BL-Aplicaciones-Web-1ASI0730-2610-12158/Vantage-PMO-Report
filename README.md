@@ -151,7 +151,11 @@
       - [5.2.2.6. Services Documentation Evidence for Sprint Review](cap5-product-implementation-validation-and-deployment.md#5-2-2-6-services-documentation-evidence-for-sprint-review)
       - [5.2.2.7. Software Deployment Evidence for Sprint Review](cap5-product-implementation-validation-and-deployment.md#5-2-2-7-software-deployment-evidence-for-sprint-review)
       - [5.2.2.8. Team Collaboration Insights during Sprint](cap5-product-implementation-validation-and-deployment.md#5-2-2-8-team-collaboration-insights-during-sprint)
-    
+- [5.3. Validation Interviews](cap5-product-implementation-validation-and-deployment.md#53-validation-interviews)
+  - [5.3.1. Diseño de Entrevistas.](cap5-product-implementation-validation-and-deployment.md#531-diseño-de-entrevistas)
+  - [5.3.2. Registro de Entrevistas.](cap5-product-implementation-validation-and-deployment.md#532-registro-de-entrevistas)
+  - [5.3.3. Evaluaciones según heurísticas.](cap5-product-implementation-validation-and-deployment.md#533-evaluaciones-según-heurísticas)
+- [5.4. Video About-the-Product.](cap5-product-implementation-validation-and-deployment.md#54-video-about-the-product)
 ---
 
 ## [Conclusiones](Conclusiones.md)
