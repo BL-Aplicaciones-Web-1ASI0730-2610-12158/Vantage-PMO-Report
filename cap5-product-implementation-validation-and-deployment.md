@@ -837,6 +837,7 @@ En este Sprint se ejecutaron actividades de despliegue relacionadas con el front
 | Componente | Plataforma / Herramienta | Estado | URL / Acceso |
 | :--- | :--- | :---: | :--- |
 | **Frontend Web** | Vercel / Netlify | `Live` | [https://vantagepmo-297ec.web.app] |
+| **Fake API**.    | Render | `Live` | [https://json-server-2mq3.onrender.com]
 | **Documentación** | Swagger UI | `Public` | `/api/docs` |
 
 ---
@@ -844,12 +845,17 @@ En este Sprint se ejecutaron actividades de despliegue relacionadas con el front
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 <a id="5-2-2-7-software-deployment-evidence-for-sprint-review"></a>
 
-- Desarrollo e implementación del Fronted.
-- Registro y visualizacion de opciones del fronted.
+- Desarrollo e implementación del front-end.
+- Registro y visualizacion de opciones del front-end.
 
 
 <div style="text-align:center;">
-  <img src="assets/images/chapter-5/Sprint2/servidor-front-end.jpg" 
+  <img src="assets/images/chapter-5/Sprint2/firebase-deployment-evidence.png" 
+       alt="Frontend Evidence">
+</div>
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-5/Sprint2/firebase-deployment-evidence2.png" 
        alt="Frontend Evidence">
 </div>
 
