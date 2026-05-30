@@ -597,7 +597,7 @@ En esta sección se presenta la planificación correspondiente al Sprint 2, enfo
 | **Sprint 2 Velocity** | 26 Story Points |
 | **Sum of Story Points** | 26 Story Points |
 
-### 5.2.2.2. Aspect Leaders and Collaborators.
+#### 5.2.2.2. Aspect Leaders and Collaborators.
 <a id="5-2-2-2-aspect-leaders-and-collaborators"></a>
 Durante el Sprint 2, el equipo priorizó el desarrollo de los módulos centrales en la dirije la gestión visual de proyectos, interacción de tareas, dashboards operativos y componentes de experiencia de usuario avanzada. El objetivo principal fue dar una experiencia funcional similar a un entorno PMO real, integrando componentes frontend reutilizables.
 
@@ -896,6 +896,17 @@ La ejecución del Sprint 2 permitió integrar múltiples componentes frontend de
 | Teran Zavala, Mauricio Alejandro | mau-tz | 3|
 
 Se evidencia una participación activa y equilibrada de todos los integrantes del equipo durante el Sprint 2, reflejando un trabajo colaborativo de la plataforma Vantage PMO.
+
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Sprint Planning 3
+#### 5.2.3.2. Aspect Leaders and Collaborators.
+#### 5.2.3.3. Sprint Backlog 3.
+#### 5.2.3.4. Development Evidence for Sprint Review.
+#### 5.2.3.5. Execution Evidence for Sprint Review.
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.3.8.Team Collaboration Insights during Sprint.
+
 
 ## 5.3. Validation Interviews.
 
