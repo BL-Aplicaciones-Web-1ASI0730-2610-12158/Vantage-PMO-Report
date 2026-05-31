@@ -904,14 +904,23 @@ La ejecución del Sprint 2 permitió integrar múltiples componentes frontend de
 Se evidencia una participación activa y equilibrada de todos los integrantes del equipo durante el Sprint 2, reflejando un trabajo colaborativo de la plataforma Vantage PMO.
 
 ### 5.2.3. Sprint 3
+<a id="5-2-3-sprint-3"></a>
 #### 5.2.3.1. Sprint Planning 3
+<a id="5-2-3-1-sprint-planning-3"></a>
 #### 5.2.3.2. Aspect Leaders and Collaborators.
+<a id="5-2-3-2-aspect-leaders-and-collaborators"></a>
 #### 5.2.3.3. Sprint Backlog 3.
+<a id="5-2-3-3-sprint-backlog-3"></a>
 #### 5.2.3.4. Development Evidence for Sprint Review.
+<a id="5-2-3-4-development-evidence-for-sprint-review"></a>
 #### 5.2.3.5. Execution Evidence for Sprint Review.
+<a id="5-2-3-5-execution-evidence-for-sprint-review"></a>
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+<a id="5-2-3-6-services-documentation-evidence-for-sprint-review"></a>
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+<a id="5-2-3-7-software-deployment-evidence-for-sprint-review"></a>
 #### 5.2.3.8.Team Collaboration Insights during Sprint.
+<a id="5-2-3-8-team-collaboration-insights-during-sprint"></a>
 
 
 ## 5.3. Validation Interviews.
