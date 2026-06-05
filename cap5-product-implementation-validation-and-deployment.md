@@ -907,11 +907,12 @@ Se evidencia una participación activa y equilibrada de todos los integrantes de
 <a id="5-2-3-sprint-3"></a>
 #### 5.2.3.1. Sprint Planning 3
 <a id="5-2-3-1-sprint-planning-3"></a>
-En esta sección se presenta la planificación correspondiente al Sprint 3, enfocado en la implementación de los servicios backend, la integración completa entre frontend y backend, y la optimización de los módulos desarrollados durante los ciclos anteriores.
 
-El objetivo principal de este sprint es consolidar la plataforma Vantage PMO como una solución funcional de extremo a extremo, permitiendo la persistencia de información, la comunicación mediante APIs REST seguras y la mejora continua de la experiencia de usuario. Para ello, se desarrollarán componentes relacionados con autenticación, gestión de datos, almacenamiento persistente, validaciones, generación de reportes y despliegue de servicios en entornos cloud.
+Durante el Sprint 3 se desarrollará la primera versión funcional del backend de Vantage, permitiendo la implementación de servicios REST necesarios para la gestión de proyectos, autenticación e integración con la interfaz web. Asimismo, se continuará mejorando la experiencia de usuario mediante la implementación de nuevas vistas para los distintos roles del sistema y el perfeccionamiento de funcionalidades desarrolladas en sprints anteriores.
 
-Asimismo, se realizarán mejoras en los módulos frontend ya implementados, fortaleciendo la usabilidad, el rendimiento y la consistencia visual de la plataforma para ofrecer una experiencia más estable y cercana a un entorno empresarial real de gestión de portafolios y proyectos.
+El objetivo principal de este sprint es establecer la comunicación entre frontend y backend, permitiendo que la aplicación evolucione desde una interfaz estática hacia una plataforma con persistencia de datos y lógica de negocio.
+
+Las actividades contempladas incluyen la implementación de endpoints para proyectos, autenticación mediante JWT, documentación de la API, mejoras visuales en la aplicación web, corrección de componentes existentes y desarrollo de nuevas interfaces orientadas a los perfiles de usuario definidos dentro del sistema.
 
 
 | Campo | Detalle |
@@ -932,11 +933,10 @@ Asimismo, se realizarán mejoras en los módulos frontend ya implementados, fort
 #### 5.2.3.2. Aspect Leaders and Collaborators.
 <a id="5-2-3-2-aspect-leaders-and-collaborators"></a>
 
-Durante el Sprint 3, el equipo centrará sus esfuerzos en la consolidación de la arquitectura tecnológica de Vantage PMO, priorizando la implementación de servicios backend, la integración con los módulos frontend existentes y la optimización de los componentes desarrollados durante los sprints anteriores.
+Durante el Sprint 3, el equipo priorizó la integración de servicios backend, autenticación, gestión de proyectos y mejoras de experiencia de usuario. Además, se realizaron ajustes sobre módulos previamente desarrollados con el objetivo de incrementar la estabilidad funcional y la consistencia visual de la plataforma.
 
-El objetivo principal será garantizar una comunicación eficiente entre la capa de presentación y los servicios de negocio, permitiendo una gestión de información segura, escalable y persistente. Además, se realizarán mejoras de experiencia de usuario y ajustes funcionales orientados a aumentar la calidad general de la plataforma.
+Para asegurar una correcta coordinación y distribución de responsabilidades, se implementó nuevamente la matriz de liderazgo y colaboración (LACX), asignando líderes técnicos y colaboradores según la especialidad de cada integrante del equipo.
 
-Para asegurar una correcta distribución de responsabilidades, se continuará utilizando la matriz de liderazgo y colaboración (LACX), asignando líderes y colaboradores para cada área funcional del sistema.
 
 | Team Member (Last Name, First Name) | GitHub Username | Backend API | Database | Authentication | Integrations | Reports | Deployment | Testing | Frontend Improvements | Documentation |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -951,13 +951,15 @@ Para asegurar una correcta distribución de responsabilidades, se continuará ut
 #### 5.2.3.3. Sprint Backlog 3.
 <a id="5-2-3-3-sprint-backlog-3"></a>
 
-El Sprint 3 tiene como objetivo consolidar la arquitectura completa de Vantage PMO mediante la implementación de los servicios backend y la integración definitiva con los módulos desarrollados durante los sprints anteriores.
+El Sprint 3 tiene como objetivo consolidar la evolución de Vantage PMO mediante la integración progresiva entre los componentes frontend desarrollados en los sprints anteriores y los servicios backend necesarios para soportar la persistencia y gestión de la información de la plataforma.
 
-El equipo trabajará en la construcción de APIs REST, mecanismos de persistencia de datos, seguridad mediante autenticación y autorización, así como en la optimización de la comunicación entre frontend y backend para garantizar una experiencia de usuario fluida y consistente.
+El equipo trabajará en la implementación de funcionalidades relacionadas con autenticación, gestión de proyectos y consumo de servicios API, fortaleciendo la comunicación entre frontend y backend para garantizar una experiencia más consistente y alineada con los requerimientos funcionales definidos en el Product Backlog.
 
-Adicionalmente, se realizarán mejoras sobre la interfaz de usuario desarrollada previamente, fortaleciendo aspectos relacionados con validaciones de formularios, manejo de errores, rendimiento de navegación, consistencia visual y experiencia de uso dentro de los diferentes módulos de gestión de proyectos.
+Asimismo, se desarrollarán nuevas vistas orientadas a los distintos perfiles de usuario de la plataforma, incluyendo mejoras en la experiencia del emprendedor, la selección de roles dentro del flujo de incorporación al sistema y la integración de espacios colaborativos como ChatHub. También se realizarán correcciones y optimizaciones sobre componentes previamente desarrollados, como la vista de perfil y los módulos de configuración y personalización visual.
 
-Este sprint permitirá transformar los prototipos funcionales implementados en ciclos anteriores en una plataforma integrada capaz de gestionar información real, almacenar datos de manera persistente y ofrecer funcionalidades empresariales más robustas para la administración de portafolios, proyectos, riesgos, reuniones y reportes ejecutivos.
+Adicionalmente, se continuará fortaleciendo la experiencia de usuario mediante mejoras en la navegación, consistencia visual, modo oscuro, validaciones de formularios y reutilización de componentes, buscando ofrecer una plataforma más estable, intuitiva y preparada para futuras integraciones.
+
+Este sprint permitirá avanzar desde una aplicación principalmente centrada en la interfaz de usuario hacia una solución más integrada, capaz de conectar funcionalidades visuales con servicios backend, sentando las bases para la gestión de información persistente y el crecimiento progresivo de las capacidades de la plataforma.
 
 ### Screenshot del Board
 
@@ -970,11 +972,13 @@ Este sprint permitirá transformar los prototipos funcionales implementados en c
 #### 5.2.3.4. Development Evidence for Sprint Review.
 <a id="5-2-3-4-development-evidence-for-sprint-review"></a>
 
-En esta sección se presentarán los avances obtenidos durante la fase de implementación correspondientes al Sprint Backlog 03, enfocado en la consolidación de la arquitectura backend, la integración de servicios REST y la optimización de los módulos desarrollados en iteraciones anteriores.
+En esta sección se presentarán los avances obtenidos durante la fase de implementación correspondientes al Sprint Backlog 03, enfocado en la consolidación de la integración entre frontend y backend, así como en la ampliación de funcionalidades clave de la plataforma.
 
-Durante este sprint se documentarán las funcionalidades relacionadas con la persistencia de datos, autenticación y autorización, gestión de entidades principales del sistema, integración frontend-backend, validaciones, generación de reportes y mejoras de experiencia de usuario.
+Durante este sprint se documentarán las actividades relacionadas con el desarrollo de servicios backend, persistencia de datos, autenticación y autorización, consumo de APIs REST e integración de módulos previamente implementados.
 
-Asimismo, se incluirá una tabla con la evidencia de desarrollo obtenida desde los repositorios del proyecto, permitiendo identificar los commits realizados, los cambios implementados y los responsables de cada funcionalidad desarrollada durante el sprint.
+Asimismo, se registrarán las mejoras realizadas sobre la interfaz de usuario, incluyendo la implementación del módulo de comunicación ChatHub, la creación de proyectos, el desarrollo de nuevas vistas para emprendedores, la selección de sectores dentro del proceso IAM, la corrección del módulo de perfil de usuario y la optimización del modo oscuro.
+
+Finalmente, se incluirá una tabla con la evidencia de desarrollo obtenida desde los repositorios del proyecto, permitiendo identificar los commits realizados, los cambios implementados y los responsables de cada funcionalidad desarrollada durante el Sprint 3.
 
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
@@ -987,18 +991,26 @@ Durante el Sprint 3 se consolidará la integración entre los componentes fronte
 * Implementación de servicios backend para la gestión de entidades principales del sistema.
 * Integración entre frontend y backend mediante consumo de APIs REST.
 * Incorporación de mecanismos de autenticación y autorización para el acceso seguro a los recursos.
-* Persistencia de datos mediante base de datos relacional o documental.
+* Persistencia de datos mediante base de datos y servicios de almacenamiento.
+* Implementación del módulo de comunicación ChatHub para fortalecer la interacción entre usuarios.
+* Desarrollo de la funcionalidad de creación de proyectos mediante formularios conectados con los servicios backend.
+* Implementación de la vista de Emprendedor dentro del flujo principal de la aplicación.
+* Desarrollo de la selección de sectores dentro del proceso IAM.
+* Corrección y habilitación del módulo de Perfil de Usuario.
+* Optimización del sistema de configuración visual y mejora del modo oscuro.
 * Optimización de formularios, validaciones y manejo de errores.
 * Mejoras de experiencia de usuario y rendimiento general de la plataforma.
-* Implementación de documentación técnica para los servicios desarrollados.
+* Implementación y actualización de documentación técnica para los servicios desarrollados.
 
 ### Video de Demostración y Navegación
 
-Se incluirá el enlace al video de demostración correspondiente al Sprint 3, mostrando el funcionamiento de los servicios implementados y la integración completa de la plataforma.
+Se incluirá el enlace al video de demostración correspondiente al Sprint 3, mostrando el funcionamiento de los servicios implementados, las nuevas funcionalidades desarrolladas y la integración completa de la plataforma.
 
 ### Screenshots de la Implementación
 
-Se incorporarán capturas de pantalla que evidencien las funcionalidades desarrolladas durante este sprint, incluyendo módulos frontend, respuestas de API, dashboards actualizados y evidencias de integración.
+Se incorporarán capturas de pantalla que evidencien las funcionalidades desarrolladas durante este sprint, incluyendo módulos frontend, respuestas de API, vistas de usuario, ChatHub, creación de proyectos, dashboards actualizados y evidencias de integración.
+
+---
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 <a id="5-2-3-6-services-documentation-evidence-for-sprint-review"></a>
@@ -1010,6 +1022,8 @@ Las actividades realizadas incluirán:
 * Implementación de servicios REST.
 * Configuración de autenticación y autorización.
 * Integración de persistencia de datos.
+* Desarrollo de endpoints para creación y gestión de proyectos.
+* Integración de módulos frontend con servicios backend.
 * Publicación de documentación técnica mediante Swagger/OpenAPI.
 * Validación de consumo de servicios desde el frontend.
 
@@ -1020,6 +1034,8 @@ Las actividades realizadas incluirán:
 | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente |
 
 La tabla será actualizada conforme se completen los servicios correspondientes al Sprint 3.
+
+---
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 <a id="5-2-3-7-software-deployment-evidence-for-sprint-review"></a>
@@ -1033,6 +1049,8 @@ Las actividades previstas incluyen:
 * Configuración de variables de entorno.
 * Integración entre frontend desplegado y backend publicado.
 * Validación de disponibilidad y conectividad de los servicios.
+* Validación de funcionamiento de los nuevos módulos implementados durante el Sprint 3.
+* Pruebas de integración entre ChatHub, gestión de proyectos y servicios backend.
 
 ### Evidencias de Despliegue
 
@@ -1042,11 +1060,17 @@ Se incorporarán capturas de pantalla correspondientes a:
 * Configuración de servicios.
 * Estado operativo de las APIs.
 * Conectividad entre frontend y backend.
+* Funcionamiento de ChatHub.
+* Funcionamiento de la creación de proyectos.
+* Vista de Emprendedor.
+* Configuración visual y modo oscuro.
 * Evidencias de funcionamiento en ambiente productivo.
 
 <div style="text-align:center;">
   <img src="" alt="Deployment Evidence">
 </div>
+
+---
 
 #### 5.2.3.8.Team Collaboration Insights during Sprint.
 <a id="5-2-3-8-team-collaboration-insights-during-sprint"></a>
@@ -1056,9 +1080,11 @@ La ejecución del Sprint 3 estará orientada a consolidar la integración tecnol
 El trabajo colaborativo del equipo se apoyará en los siguientes aspectos:
 
 * **Integración Continua:** Se coordinarán actividades de desarrollo e integración entre frontend y backend para garantizar la compatibilidad entre componentes.
+* **Desarrollo Full Stack:** El equipo trabajará simultáneamente en la implementación de servicios backend y en la mejora de los módulos visuales desarrollados en iteraciones anteriores.
 * **Gestión de Versiones:** El uso de GitHub y Pull Requests permitirá mantener un flujo de trabajo ordenado y controlado durante la implementación de nuevas funcionalidades.
 * **Calidad de Software:** Se realizarán pruebas funcionales e integraciones periódicas para asegurar la estabilidad de los servicios desarrollados.
 * **Documentación Técnica:** Se mantendrá actualizada la documentación de APIs, despliegue y arquitectura para facilitar el mantenimiento futuro del sistema.
+* **Mejora Continua de la Experiencia de Usuario:** Se realizarán ajustes y optimizaciones sobre módulos existentes para mejorar la usabilidad y consistencia visual de la plataforma.
 * **Comunicación Efectiva:** El equipo continuará utilizando herramientas colaborativas para coordinar avances, resolver incidencias y dar seguimiento a las actividades planificadas.
 
 ### Analíticos de GitHub — Sprint 3
@@ -1067,7 +1093,11 @@ Las métricas de actividad del repositorio serán incorporadas al finalizar el S
 
 | Integrante | Usuario GitHub | Commits |
 | :--- | :--- | :---: |
-| Pendiente | Pendiente | Pendiente |
+| Guillen Giraldo, Mike Dylan | FulLHous | 0 |
+| Quispe Llacsahuanga, César Agusto | user20-bit | 0 |
+| Esquicha Alcántara, Diego Alonso | DiegoEsquich | 0 |
+| Rocha Cotrina, Alvaro | alvarorc24 | 0 |
+| Teran Zavala, Mauricio Alejandro | mau-tz | 0|
 
 Se espera mantener una participación equilibrada entre todos los integrantes del equipo, fortaleciendo la colaboración y asegurando el cumplimiento de los objetivos establecidos para este sprint.
 
