@@ -907,21 +907,99 @@ Se evidencia una participación activa y equilibrada de todos los integrantes de
 <a id="5-2-3-sprint-3"></a>
 #### 5.2.3.1. Sprint Planning 3
 <a id="5-2-3-1-sprint-planning-3"></a>
+En esta sección se presenta la planificación correspondiente al Sprint 3, enfocado en la implementación de los servicios backend y la consolidación de la arquitectura de soporte para la plataforma Vantage PMO.
+
+| Campo | Detalle |
+| :--- | :--- |
+| **Sprint #** | Sprint 3 |
+| **Sprint Planning Background** | |
+| **Date** | Por definir |
+| **Time** | Por definir |
+| **Location** | Reunión virtual mediante Discord |
+| **Prepared By** | Por definir |
+| **Attendees** | Rocha Cotrina, Alvaro / Esquicha Alcántara, Diego Alonso / Quispe Llacsahuanga, César Agusto / Guillen Giraldo, Mike Dylan / Teran Zavala, Mauricio Alejandro |
+| **Sprint n-1 Review Summary** | Se completó la implementación de los principales componentes frontend de la plataforma, incluyendo dashboard, tablero Kanban, sistema de comentarios, gestión de riesgos, calendario interactivo y generación de reportes. |
+| **Sprint n-1 Retrospective Summary** | Se identificó la necesidad de fortalecer la capa de servicios, centralizar la lógica de negocio y mejorar la persistencia de datos mediante una arquitectura backend más robusta. |
+| **Sprint Goal & User Stories** | **Sprint 3:** Nos enfocamos en implementar la capa backend de la plataforma Vantage PMO. Creemos que esto permitirá consolidar la persistencia de información, la gestión de entidades del sistema y la comunicación segura entre frontend y backend. Esto se confirmará cuando los usuarios puedan interactuar con datos almacenados y gestionados mediante servicios centralizados, logrando una experiencia más estable, escalable y consistente. |
+| **Sprint 3 Velocity** | Por definir |
+| **Sum of Story Points** | Por definir |
+
 #### 5.2.3.2. Aspect Leaders and Collaborators.
 <a id="5-2-3-2-aspect-leaders-and-collaborators"></a>
+
+Durante el Sprint 3, el equipo centrará sus esfuerzos en el desarrollo de la arquitectura backend, priorizando la construcción de servicios, gestión de datos, seguridad, persistencia y comunicación entre componentes del sistema.
+
+La distribución de liderazgo y colaboración será definida de acuerdo con las responsabilidades técnicas asignadas para cada módulo backend, permitiendo mantener una adecuada coordinación durante la implementación de los servicios y procesos de negocio de la plataforma.
+
+| Team Member (Last Name, First Name) | GitHub Username | API | Authentication | Database | Services | Reports | Notifications | Security | Documentation |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Rocha Cotrina, Alvaro | alvarorc24 | - | - | - | - | - | - | - | - |
+| Esquicha Alcántara, Diego Alonso | DiegoEsquich | - | - | - | - | - | - | - | - |
+| Quispe Llacsahuanga, César Agusto | user20-bit | - | - | - | - | - | - | - | - |
+| Guillen Giraldo, Mike Dylan | FulLHous | - | - | - | - | - | - | - | - |
+| Teran Zavala, Mauricio Alejandro | mau-tz | - | - | - | - | - | - | - | - |
+
+*Leyenda: L = Lead (Líder), C = Collaborator (Colaborador)*
+
 #### 5.2.3.3. Sprint Backlog 3.
 <a id="5-2-3-3-sprint-backlog-3"></a>
+
+El Sprint 3 estará orientado a la construcción de la infraestructura backend que permitirá soportar las funcionalidades implementadas previamente en el frontend. Se trabajará en la implementación de servicios REST, persistencia de datos, autenticación, autorización y documentación de APIs, buscando consolidar una arquitectura escalable y mantenible para la plataforma Vantage PMO.
+
+### Screenshot del Board
+
+*Pendiente de incorporación una vez definido el Sprint Backlog.*
+
 #### 5.2.3.4. Development Evidence for Sprint Review.
 <a id="5-2-3-4-development-evidence-for-sprint-review"></a>
+
+En esta sección se presentarán los avances obtenidos durante la fase de implementación correspondientes al Sprint Backlog 03, enfocado en el desarrollo de los servicios backend y la integración con los módulos funcionales de la plataforma.
+
+Se incluirán los commits realizados, repositorios utilizados y evidencias asociadas a la construcción de la arquitectura backend.
+
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 <a id="5-2-3-5-execution-evidence-for-sprint-review"></a>
+
+Durante el Sprint 3 se documentarán las funcionalidades backend implementadas, incluyendo la exposición de servicios, gestión de datos, autenticación y demás componentes necesarios para soportar las operaciones de la plataforma.
+
+### Resumen de Logros:
+
+* Pendiente de implementación.
+
+### Video de Demostración y Navegación
+
+* Pendiente de incorporación.
+
+### Screenshots de la Implementación
+
+* Pendiente de incorporación.
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 <a id="5-2-3-6-services-documentation-evidence-for-sprint-review"></a>
+
+En esta sección se documentarán los servicios implementados durante el Sprint 3, incluyendo los endpoints desarrollados, métodos HTTP utilizados, estructuras de respuesta y documentación asociada a las APIs del sistema.
+
+### Detalle de Servicios
+
+* Pendiente de implementación.
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 <a id="5-2-3-7-software-deployment-evidence-for-sprint-review"></a>
+
+En esta sección se incluirán las evidencias relacionadas con el despliegue de los servicios backend, la configuración de los entornos de ejecución y la publicación de las APIs utilizadas por la plataforma.
+
+* Pendiente de implementación.
+
 #### 5.2.3.8.Team Collaboration Insights during Sprint.
 <a id="5-2-3-8-team-collaboration-insights-during-sprint"></a>
 
+La ejecución del Sprint 3 estará enfocada en la coordinación técnica necesaria para la construcción de la capa backend de Vantage PMO. El equipo trabajará de manera colaborativa para garantizar la correcta integración entre servicios, bases de datos y componentes frontend desarrollados en los sprints anteriores.
+
+Los indicadores de colaboración, actividad en repositorios y métricas de contribución serán incorporados una vez finalizado el ciclo de desarrollo.
+
+### Analíticos de GitHub — Sprint 3
+
+*Pendiente de incorporación.*
 
 ## 5.3. Validation Interviews.
 
