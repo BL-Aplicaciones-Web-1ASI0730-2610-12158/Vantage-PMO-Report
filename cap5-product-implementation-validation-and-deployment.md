@@ -907,7 +907,12 @@ Se evidencia una participación activa y equilibrada de todos los integrantes de
 <a id="5-2-3-sprint-3"></a>
 #### 5.2.3.1. Sprint Planning 3
 <a id="5-2-3-1-sprint-planning-3"></a>
-En esta sección se presenta la planificación correspondiente al Sprint 3, enfocado en la implementación de los servicios backend y la consolidación de la arquitectura de soporte para la plataforma Vantage PMO.
+En esta sección se presenta la planificación correspondiente al Sprint 3, enfocado en la implementación de los servicios backend, la integración completa entre frontend y backend, y la optimización de los módulos desarrollados durante los ciclos anteriores.
+
+El objetivo principal de este sprint es consolidar la plataforma Vantage PMO como una solución funcional de extremo a extremo, permitiendo la persistencia de información, la comunicación mediante APIs REST seguras y la mejora continua de la experiencia de usuario. Para ello, se desarrollarán componentes relacionados con autenticación, gestión de datos, almacenamiento persistente, validaciones, generación de reportes y despliegue de servicios en entornos cloud.
+
+Asimismo, se realizarán mejoras en los módulos frontend ya implementados, fortaleciendo la usabilidad, el rendimiento y la consistencia visual de la plataforma para ofrecer una experiencia más estable y cercana a un entorno empresarial real de gestión de portafolios y proyectos.
+
 
 | Campo | Detalle |
 | :--- | :--- |
@@ -927,79 +932,144 @@ En esta sección se presenta la planificación correspondiente al Sprint 3, enfo
 #### 5.2.3.2. Aspect Leaders and Collaborators.
 <a id="5-2-3-2-aspect-leaders-and-collaborators"></a>
 
-Durante el Sprint 3, el equipo centrará sus esfuerzos en el desarrollo de la arquitectura backend, priorizando la construcción de servicios, gestión de datos, seguridad, persistencia y comunicación entre componentes del sistema.
+Durante el Sprint 3, el equipo centrará sus esfuerzos en la consolidación de la arquitectura tecnológica de Vantage PMO, priorizando la implementación de servicios backend, la integración con los módulos frontend existentes y la optimización de los componentes desarrollados durante los sprints anteriores.
 
-La distribución de liderazgo y colaboración será definida de acuerdo con las responsabilidades técnicas asignadas para cada módulo backend, permitiendo mantener una adecuada coordinación durante la implementación de los servicios y procesos de negocio de la plataforma.
+El objetivo principal será garantizar una comunicación eficiente entre la capa de presentación y los servicios de negocio, permitiendo una gestión de información segura, escalable y persistente. Además, se realizarán mejoras de experiencia de usuario y ajustes funcionales orientados a aumentar la calidad general de la plataforma.
 
-| Team Member (Last Name, First Name) | GitHub Username | API | Authentication | Database | Services | Reports | Notifications | Security | Documentation |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Rocha Cotrina, Alvaro | alvarorc24 | - | - | - | - | - | - | - | - |
-| Esquicha Alcántara, Diego Alonso | DiegoEsquich | - | - | - | - | - | - | - | - |
-| Quispe Llacsahuanga, César Agusto | user20-bit | - | - | - | - | - | - | - | - |
-| Guillen Giraldo, Mike Dylan | FulLHous | - | - | - | - | - | - | - | - |
-| Teran Zavala, Mauricio Alejandro | mau-tz | - | - | - | - | - | - | - | - |
+Para asegurar una correcta distribución de responsabilidades, se continuará utilizando la matriz de liderazgo y colaboración (LACX), asignando líderes y colaboradores para cada área funcional del sistema.
+
+| Team Member (Last Name, First Name) | GitHub Username | Backend API | Database | Authentication | Integrations | Reports | Deployment | Testing | Frontend Improvements | Documentation |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Rocha Cotrina, Alvaro | alvarorc24 | C | C | C | C | L | C | C | L | C |
+| Esquicha Alcántara, Diego Alonso | DiegoEsquich | L | C | L | L | C | C | C | C | C |
+| Quispe Llacsahuanga, César Agusto | user20-bit | C | L | C | C | C | C | L | C | C |
+| Guillen Giraldo, Mike Dylan | FulLHous | C | C | C | C | C | L | C | L | C |
+| Teran Zavala, Mauricio Alejandro | mau-tz | C | C | C | C | C | C | C | C | L |
 
 *Leyenda: L = Lead (Líder), C = Collaborator (Colaborador)*
 
 #### 5.2.3.3. Sprint Backlog 3.
 <a id="5-2-3-3-sprint-backlog-3"></a>
 
-El Sprint 3 estará orientado a la construcción de la infraestructura backend que permitirá soportar las funcionalidades implementadas previamente en el frontend. Se trabajará en la implementación de servicios REST, persistencia de datos, autenticación, autorización y documentación de APIs, buscando consolidar una arquitectura escalable y mantenible para la plataforma Vantage PMO.
+El Sprint 3 tiene como objetivo consolidar la arquitectura completa de Vantage PMO mediante la implementación de los servicios backend y la integración definitiva con los módulos desarrollados durante los sprints anteriores.
+
+El equipo trabajará en la construcción de APIs REST, mecanismos de persistencia de datos, seguridad mediante autenticación y autorización, así como en la optimización de la comunicación entre frontend y backend para garantizar una experiencia de usuario fluida y consistente.
+
+Adicionalmente, se realizarán mejoras sobre la interfaz de usuario desarrollada previamente, fortaleciendo aspectos relacionados con validaciones de formularios, manejo de errores, rendimiento de navegación, consistencia visual y experiencia de uso dentro de los diferentes módulos de gestión de proyectos.
+
+Este sprint permitirá transformar los prototipos funcionales implementados en ciclos anteriores en una plataforma integrada capaz de gestionar información real, almacenar datos de manera persistente y ofrecer funcionalidades empresariales más robustas para la administración de portafolios, proyectos, riesgos, reuniones y reportes ejecutivos.
 
 ### Screenshot del Board
 
-*Pendiente de incorporación una vez definido el Sprint Backlog.*
+*Pendiente de implementación.*
+
+### Sprint Backlog #03
+
+*Pendiente de definición y asignación de User Stories, Story Points y tareas correspondientes al Sprint 3.*
 
 #### 5.2.3.4. Development Evidence for Sprint Review.
 <a id="5-2-3-4-development-evidence-for-sprint-review"></a>
 
-En esta sección se presentarán los avances obtenidos durante la fase de implementación correspondientes al Sprint Backlog 03, enfocado en el desarrollo de los servicios backend y la integración con los módulos funcionales de la plataforma.
+En esta sección se presentarán los avances obtenidos durante la fase de implementación correspondientes al Sprint Backlog 03, enfocado en la consolidación de la arquitectura backend, la integración de servicios REST y la optimización de los módulos desarrollados en iteraciones anteriores.
 
-Se incluirán los commits realizados, repositorios utilizados y evidencias asociadas a la construcción de la arquitectura backend.
+Durante este sprint se documentarán las funcionalidades relacionadas con la persistencia de datos, autenticación y autorización, gestión de entidades principales del sistema, integración frontend-backend, validaciones, generación de reportes y mejoras de experiencia de usuario.
+
+Asimismo, se incluirá una tabla con la evidencia de desarrollo obtenida desde los repositorios del proyecto, permitiendo identificar los commits realizados, los cambios implementados y los responsables de cada funcionalidad desarrollada durante el sprint.
+
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 <a id="5-2-3-5-execution-evidence-for-sprint-review"></a>
 
-Durante el Sprint 3 se documentarán las funcionalidades backend implementadas, incluyendo la exposición de servicios, gestión de datos, autenticación y demás componentes necesarios para soportar las operaciones de la plataforma.
+Durante el Sprint 3 se consolidará la integración entre los componentes frontend y backend de la plataforma, permitiendo que los usuarios interactúen con información persistente mediante servicios REST completamente funcionales.
 
-### Resumen de Logros:
+### Resumen de Logros
 
-* Pendiente de implementación.
+* Implementación de servicios backend para la gestión de entidades principales del sistema.
+* Integración entre frontend y backend mediante consumo de APIs REST.
+* Incorporación de mecanismos de autenticación y autorización para el acceso seguro a los recursos.
+* Persistencia de datos mediante base de datos relacional o documental.
+* Optimización de formularios, validaciones y manejo de errores.
+* Mejoras de experiencia de usuario y rendimiento general de la plataforma.
+* Implementación de documentación técnica para los servicios desarrollados.
 
 ### Video de Demostración y Navegación
 
-* Pendiente de incorporación.
+Se incluirá el enlace al video de demostración correspondiente al Sprint 3, mostrando el funcionamiento de los servicios implementados y la integración completa de la plataforma.
 
 ### Screenshots de la Implementación
 
-* Pendiente de incorporación.
+Se incorporarán capturas de pantalla que evidencien las funcionalidades desarrolladas durante este sprint, incluyendo módulos frontend, respuestas de API, dashboards actualizados y evidencias de integración.
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 <a id="5-2-3-6-services-documentation-evidence-for-sprint-review"></a>
 
-En esta sección se documentarán los servicios implementados durante el Sprint 3, incluyendo los endpoints desarrollados, métodos HTTP utilizados, estructuras de respuesta y documentación asociada a las APIs del sistema.
+En este Sprint se documentarán los servicios desarrollados para soportar la lógica de negocio de la plataforma Vantage PMO. La documentación incluirá los endpoints REST implementados, métodos HTTP utilizados, parámetros de entrada, respuestas generadas y mecanismos de autenticación asociados.
 
-### Detalle de Servicios
+Las actividades realizadas incluirán:
 
-* Pendiente de implementación.
+* Implementación de servicios REST.
+* Configuración de autenticación y autorización.
+* Integración de persistencia de datos.
+* Publicación de documentación técnica mediante Swagger/OpenAPI.
+* Validación de consumo de servicios desde el frontend.
+
+### Detalle de Servicios Implementados
+
+| Recurso | Acción Implementada | HTTP | URL / Endpoint | Estado |
+|----------|----------|----------|----------|----------|
+| Pendiente | Pendiente | Pendiente | Pendiente | Pendiente |
+
+La tabla será actualizada conforme se completen los servicios correspondientes al Sprint 3.
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 <a id="5-2-3-7-software-deployment-evidence-for-sprint-review"></a>
 
-En esta sección se incluirán las evidencias relacionadas con el despliegue de los servicios backend, la configuración de los entornos de ejecución y la publicación de las APIs utilizadas por la plataforma.
+Durante este Sprint se realizarán las actividades necesarias para desplegar los servicios backend y consolidar el entorno de ejecución completo de la plataforma.
 
-* Pendiente de implementación.
+Las actividades previstas incluyen:
+
+* Configuración de entornos de desarrollo y producción.
+* Despliegue de servicios backend en plataforma cloud.
+* Configuración de variables de entorno.
+* Integración entre frontend desplegado y backend publicado.
+* Validación de disponibilidad y conectividad de los servicios.
+
+### Evidencias de Despliegue
+
+Se incorporarán capturas de pantalla correspondientes a:
+
+* Plataforma de despliegue backend.
+* Configuración de servicios.
+* Estado operativo de las APIs.
+* Conectividad entre frontend y backend.
+* Evidencias de funcionamiento en ambiente productivo.
+
+<div style="text-align:center;">
+  <img src="" alt="Deployment Evidence">
+</div>
 
 #### 5.2.3.8.Team Collaboration Insights during Sprint.
 <a id="5-2-3-8-team-collaboration-insights-during-sprint"></a>
 
-La ejecución del Sprint 3 estará enfocada en la coordinación técnica necesaria para la construcción de la capa backend de Vantage PMO. El equipo trabajará de manera colaborativa para garantizar la correcta integración entre servicios, bases de datos y componentes frontend desarrollados en los sprints anteriores.
+La ejecución del Sprint 3 estará orientada a consolidar la integración tecnológica de la plataforma mediante el desarrollo coordinado de servicios backend, componentes frontend y actividades de despliegue.
 
-Los indicadores de colaboración, actividad en repositorios y métricas de contribución serán incorporados una vez finalizado el ciclo de desarrollo.
+El trabajo colaborativo del equipo se apoyará en los siguientes aspectos:
+
+* **Integración Continua:** Se coordinarán actividades de desarrollo e integración entre frontend y backend para garantizar la compatibilidad entre componentes.
+* **Gestión de Versiones:** El uso de GitHub y Pull Requests permitirá mantener un flujo de trabajo ordenado y controlado durante la implementación de nuevas funcionalidades.
+* **Calidad de Software:** Se realizarán pruebas funcionales e integraciones periódicas para asegurar la estabilidad de los servicios desarrollados.
+* **Documentación Técnica:** Se mantendrá actualizada la documentación de APIs, despliegue y arquitectura para facilitar el mantenimiento futuro del sistema.
+* **Comunicación Efectiva:** El equipo continuará utilizando herramientas colaborativas para coordinar avances, resolver incidencias y dar seguimiento a las actividades planificadas.
 
 ### Analíticos de GitHub — Sprint 3
 
-*Pendiente de incorporación.*
+Las métricas de actividad del repositorio serán incorporadas al finalizar el Sprint 3, incluyendo evidencias de commits, contribuciones individuales, merges y participación de los integrantes del equipo.
+
+| Integrante | Usuario GitHub | Commits |
+| :--- | :--- | :---: |
+| Pendiente | Pendiente | Pendiente |
+
+Se espera mantener una participación equilibrada entre todos los integrantes del equipo, fortaleciendo la colaboración y asegurando el cumplimiento de los objetivos establecidos para este sprint.
 
 ## 5.3. Validation Interviews.
 
