@@ -919,16 +919,16 @@ Las actividades contempladas incluyen la implementación de endpoints para proye
 | :--- | :--- |
 | **Sprint #** | Sprint 3 |
 | **Sprint Planning Background** | |
-| **Date** | Por definir |
-| **Time** | Por definir |
+| **Date** | 2026/06/20 |
+| **Time** | 10:00 AM |
 | **Location** | Reunión virtual mediante Discord |
-| **Prepared By** | Por definir |
+| **Prepared By** | Esquicha Alcántara, Diego Alonso |
 | **Attendees** | Rocha Cotrina, Alvaro / Esquicha Alcántara, Diego Alonso / Quispe Llacsahuanga, César Agusto / Guillen Giraldo, Mike Dylan / Teran Zavala, Mauricio Alejandro |
-| **Sprint n-1 Review Summary** | Se completó la implementación de los principales componentes frontend de la plataforma, incluyendo dashboard, tablero Kanban, sistema de comentarios, gestión de riesgos, calendario interactivo y generación de reportes. |
-| **Sprint n-1 Retrospective Summary** | Se identificó la necesidad de fortalecer la capa de servicios, centralizar la lógica de negocio y mejorar la persistencia de datos mediante una arquitectura backend más robusta. |
+| **Sprint n-3 Review Summary** | Se completó la implementación de los principales componentes frontend de la plataforma, incluyendo dashboard, tablero Kanban, sistema de comentarios, gestión de riesgos, calendario interactivo y generación de reportes. |
+| **Sprint n-3 Retrospective Summary** | Se identificó la necesidad de fortalecer la capa de servicios, centralizar la lógica de negocio y mejorar la persistencia de datos mediante una arquitectura backend más robusta. |
 | **Sprint Goal & User Stories** | **Sprint 3:** Nos enfocamos en implementar la capa backend de la plataforma Vantage PMO. Creemos que esto permitirá consolidar la persistencia de información, la gestión de entidades del sistema y la comunicación segura entre frontend y backend. Esto se confirmará cuando los usuarios puedan interactuar con datos almacenados y gestionados mediante servicios centralizados, logrando una experiencia más estable, escalable y consistente. |
-| **Sprint 3 Velocity** | Por definir |
-| **Sum of Story Points** | Por definir |
+| **Sprint 3 Velocity** | 21 Story Points |
+| **Sum of Story Points** | 24 Story Points |
 
 #### 5.2.3.2. Aspect Leaders and Collaborators.
 <a id="5-2-3-2-aspect-leaders-and-collaborators"></a>
@@ -963,11 +963,26 @@ Este sprint permitirá avanzar desde una aplicación principalmente centrada en 
 
 ### Screenshot del Board
 
-*Pendiente de implementación.*
+![Sprint-Backlog-01](assets/images/chapter-5/sprint-backlog/sprint-backlog-03.PNG)
+
+*Trello:* https://trello.com/b/OYqRnZWb/vantage-pmo-sprint-backlog-3
 
 ### Sprint Backlog #03
 
-*Pendiente de definición y asignación de User Stories, Story Points y tareas correspondientes al Sprint 3.*
+| User Story Id | Title | Task Id | Task Title | Description | Est. (h) | Assigned To | Status |
+| :--- | :--- | :--- | :--- | :--- | :---: | :--- | :---: |
+| US-039 | Calendario Mensual | T003 | Eventos desde backend | Permite cargar eventos del proyecto desde API. | 4h | Mauricio Teran | To-Do |
+| US-041 | Auth JWT | T002 | Middleware validación JWT | Permite proteger endpoints y validar tokens JWT en backend. | 5h | Diego Esquicha | In-Progress |
+| | | T003 | Pruebas de autenticación | Permite validar flujos de acceso autorizado y errores. | 4h | César Quispe | To-Review |
+| US-043 | CRUD Proyectos API | T003 | Integración API–Frontend | Permite consumir endpoints de proyectos desde frontend. | 6h | Alvaro Rocha | In-Progress |
+| US-054 | JSON a PDF | T002 | Integración con datos reales | Permite generar PDF usando información persistida. | 5h | Mauricio Teran | In-Progress |
+| | | T004 | Manejo de errores API | Permite manejar errores y respuestas inválidas. | 4h | Mauricio Teran | To-Do |
+| US-061 | Barra de Progreso | T003 | Sincronización con backend | Permite actualizar progreso usando datos persistidos. | 4h | Alvaro Rocha | To-Do |
+| US-062 | Chat / Comentarios UI | T004 | Integración Chat con backend | Permite persistir mensajes usando servicios backend. | 6h | Dylan Guillen | In-Progress |
+| | | T005 | Almacenamiento de mensajes | Permite guardar mensajes en base de datos. | 5h | César Quispe | To-Do |
+| US-063 | Campanita Avisos | T003 | Persistencia de avisos | Permite almacenar notificaciones en backend. | 4h | César Quispe | To-Do |
+| US-064 | Risk Table | T003 | Consumo de riesgos desde API | Permite obtener riesgos desde backend. | 4h | Diego Esquicha | To-Do |
+| | | T004 | Validación de severidad | Permite validar prioridades y estados de riesgo. | 4h | Alvaro Rocha | To-Do |
 
 #### 5.2.3.4. Development Evidence for Sprint Review.
 <a id="5-2-3-4-development-evidence-for-sprint-review"></a>
