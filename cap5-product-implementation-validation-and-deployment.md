@@ -903,8 +903,11 @@ La ejecución del Sprint 2 permitió integrar múltiples componentes frontend de
 
 Se evidencia una participación activa y equilibrada de todos los integrantes del equipo durante el Sprint 2, reflejando un trabajo colaborativo de la plataforma Vantage PMO.
 
+<div style="text-align: left;">
+
 ### 5.2.3. Sprint 3
 <a id="5-2-3-sprint-3"></a>
+
 #### 5.2.3.1. Sprint Planning 3
 <a id="5-2-3-1-sprint-planning-3"></a>
 
@@ -1753,6 +1756,7 @@ Aunque la navegación general fue descrita como fluida e intuitiva, algunos acce
 
 **Recomendación:**
 Agregar etiquetas claras, íconos representativos o ayudas visuales que faciliten el reconocimiento inmediato de accesos secundarios sin afectar la simplicidad de la interfaz.
+</div>
 
 ## 5.4. Video About-the-Product
 
