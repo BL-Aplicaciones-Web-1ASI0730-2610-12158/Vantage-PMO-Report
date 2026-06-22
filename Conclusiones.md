@@ -16,3 +16,12 @@
 
 - Se recomienda formalizar los contratos de comunicación entre los componentes del sistema de manera anticipada. Establecer estos acuerdos desde la fase de diseño permite que los miembros del equipo trabajen de forma independiente con una visión compartida, minimizando errores de integración y optimizando los tiempos de entrega en las etapas finales del ciclo.
 </div>
+
+## Video About the Team
+
+| Título del Video      | Vantage PMO Product           | 
+|-----------------------|------------------------------|
+| Duración              | 11 minutos y 14 segundos       |  
+| Fecha de Grabación    | 21/06/2026                   | 
+| URL YouTube           | https://www.youtube.com/watch?v=2SgyC93G9dY | 
+

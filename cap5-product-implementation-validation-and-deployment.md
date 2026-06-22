@@ -1426,9 +1426,29 @@ Durante el Sprint 3 se consolidará la integración entre los componentes fronte
 
 Se incluirá el enlace al video de demostración correspondiente al Sprint 3, mostrando el funcionamiento de los servicios implementados, las nuevas funcionalidades desarrolladas y la integración completa de la plataforma.
 
+Puedes acceder al video de la demostración funcional en el siguiente enlace:
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202411799_upc_edu_pe/IQC5FIEG7RVRRb5EYlejBOfDAQiul5RZR2_QUs1Q0Fm_eB0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Ot2Y5l
+
 ### Screenshots de la Implementación
 
 Se incorporarán capturas de pantalla que evidencien las funcionalidades desarrolladas durante este sprint, incluyendo módulos frontend, respuestas de API, vistas de usuario, ChatHub, creación de proyectos, dashboards actualizados y evidencias de integración.
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-5/Sprint3/screenshot-1.png" 
+       alt="Paleta de Colores">
+</div>
+<div style="text-align:center;">
+  <img src="assets/images/chapter-5/Sprint3/screenshot-2.png" 
+       alt="Paleta de Colores">
+</div>
+<div style="text-align:center;">
+  <img src="assets/images/chapter-5/Sprint3/screenshot-3.png" 
+       alt="Paleta de Colores">
+</div>
+<div style="text-align:center;">
+  <img src="assets/images/chapter-5/Sprint3/screenshot-4.png" 
+       alt="Paleta de Colores">
+</div>
 
 ---
 
@@ -1451,7 +1471,7 @@ Las actividades realizadas incluirán:
 
 | Recurso | Acción Implementada | HTTP | URL / Endpoint | Estado |
 |----------|----------|----------|----------|----------|
-| Pendiente | Pendiente | Pendiente | Pendiente | Pendiente |
+| Render | Base de Datos | https://vantage-pmo-back-end-2.onrender.com/ | https://vantage-pmo-back-end-2.onrender.com/ | Activo |
 
 La tabla será actualizada conforme se completen los servicios correspondientes al Sprint 3.
 
@@ -1486,9 +1506,20 @@ Se incorporarán capturas de pantalla correspondientes a:
 * Configuración visual y modo oscuro.
 * Evidencias de funcionamiento en ambiente productivo.
 
-<div style="text-align:center;">
-  <img src="" alt="Deployment Evidence">
-</div>
+Render:
+<td><div align="center"><img src="assets/images/chapter-5/Sprint3/screenshot-evidence-render.png" alt=""></div></td>
+<td><div align="center"><img src="assets/images/chapter-5/Sprint3/screenshot-evidence-render2.png" alt=""></div></td>
+<td><div align="center"><img src="assets/images/chapter-5/Sprint3/screenshot-evidence-render3.png" alt=""></div></td>
+
+MySQL:
+<td><div align="center"><img src="assets/images/chapter-5/Sprint3/screenshot-evidence-mysql1.png" alt=""></div></td>
+<td><div align="center"><img src="assets/images/chapter-5/Sprint3/screenshot-evidence-mysql2.png" alt=""></div></td>
+<td><div align="center"><img src="assets/images/chapter-5/Sprint3/screenshot-evidence-mysql3.png" alt=""></div></td>
+<td><div align="center"><img src="assets/images/chapter-5/Sprint3/screenshot-evidence-mysql4.png" alt=""></div></td>
+<td><div align="center"><img src="assets/images/chapter-5/Sprint3/screenshot-evidence-mysql5.png" alt=""></div></td>
+<td><div align="center"><img src="assets/images/chapter-5/Sprint3/screenshot-evidence-mysql6.png" alt=""></div></td>
+<td><div align="center"><img src="assets/images/chapter-5/Sprint3/screenshot-evidence-mysql7.png" alt=""></div></td>
+<td><div align="center"><img src="assets/images/chapter-5/Sprint3/screenshot-evidence-mysql8.png" alt=""></div></td>
 
 ---
 
@@ -1511,22 +1542,224 @@ El trabajo colaborativo del equipo se apoyará en los siguientes aspectos:
 
 Las métricas de actividad del repositorio serán incorporadas al finalizar el Sprint 3, incluyendo evidencias de commits, contribuciones individuales, merges y participación de los integrantes del equipo.
 
+<td><div align="center"><img src="assets/images/chapter-5/Sprint3/evidence-commits-for-sprint-3.png" alt=""></div></td>
+
 | Integrante | Usuario GitHub | Commits |
 | :--- | :--- | :---: |
-| Guillen Giraldo, Mike Dylan | FulLHous | 0 |
-| Quispe Llacsahuanga, César Agusto | user20-bit | 0 |
-| Esquicha Alcántara, Diego Alonso | DiegoEsquich | 0 |
-| Rocha Cotrina, Alvaro | alvarorc24 | 0 |
-| Teran Zavala, Mauricio Alejandro | mau-tz | 0|
+| Quispe Llacsahuanga, César Agusto | user20-bit | 20 |
+| Teran Zavala, Mauricio Alejandro | mau-tz | 16 |
+| Rocha Cotrina, Alvaro | alvarorc24 | 15 |
+| Esquicha Alcántara, Diego Alonso | DiegoEsquich | 8 |
+| Guillen Giraldo, Mike Dylan | FulLHous | 8 |
 
 Se espera mantener una participación equilibrada entre todos los integrantes del equipo, fortaleciendo la colaboración y asegurando el cumplimiento de los objetivos establecidos para este sprint.
 
-## 5.3. Validation Interviews.
+## 5.3. Validation Interviews
+<a id="#53-validation-interviews"></a>
+En esta sección se documentan y describen las actividades relacionadas con las entrevistas de validación realizadas a lo largo del desarrollo del proyecto. Estas entrevistas tienen como propósito principal recopilar retroalimentación directa, entender las necesidades y expectativas de los usuarios, y confirmar o descartar las hipótesis planteadas sobre el producto. Para ello, los participantes de ambos segmentos interactuarán tanto con la landing page como con la aplicación web.
 
-### 5.3.1. Diseño de Entrevistas.
+### 5.3.1. Diseño de Entrevistas
+<a id="(#531-diseño-de-entrevistas)"></a>
 
-### 5.3.2. Registro de Entrevistas.
+**Preguntas Generales**
 
-### 5.3.3. Evaluaciones según heurísticas.
+- Al ingresar a la Landing Page, ¿Qué crees que ofrece Vantage PMO?
+- ¿La propuesta de valor presentada en la Landing Page te resulta clara y fácil de comprender? ¿Por qué?
+- ¿Consideras que la información mostrada comunica adecuadamente los problemas que busca resolver la plataforma?
+- ¿El diseño visual de la Landing Page transmite profesionalismo y confianza para la gestión de proyectos empresariales?
+- ¿Te resultó sencillo identificar los principales beneficios de utilizar Vantage PMO?
+- Durante la navegación de la plataforma, ¿Encontraste fácilmente las funciones más importantes?
+- ¿Qué tan intuitiva te pareció la experiencia general de uso de la plataforma?
+- ¿Consideras que la información presentada en los paneles y reportes es fácil de interpretar?
+- Después de conocer la Landing Page y utilizar la plataforma, ¿Estarías interesado en utilizar Vantage PMO? ¿Por qué?
 
-## 5.4. Video About-the-Product.
+**Preguntas Segmento 1 - Líderes y Jefes de Gestión de Proyectos**
+
+- ¿Consideras que Vantage PMO te ayudaría a reducir el tiempo que dedicas actualmente a consolidar información de proyectos?
+- ¿Qué tan útil te parece contar con una vista centralizada del estado de múltiples proyectos en tiempo real?
+- ¿Crees que la plataforma te permitiría detectar riesgos o desviaciones antes de que se conviertan en problemas mayores?
+- ¿La información mostrada en los dashboards te parece suficiente para tomar decisiones rápidas y fundamentadas?
+- ¿Qué tan valiosa consideras la integración de métricas, cronogramas y seguimiento de recursos en una sola plataforma?
+- ¿Sientes que Vantage PMO podría ayudarte a mejorar la comunicación y coordinación con tu equipo de trabajo?
+- ¿Hay alguna funcionalidad que esperabas encontrar para la gestión de proyectos y que no viste reflejada en la plataforma?
+- ¿Qué característica de Vantage PMO te llamó más la atención y por qué?
+- En una escala del 1 al 10, ¿qué tan probable sería que recomiendes Vantage PMO a otros gestores o líderes de proyectos?
+
+**Preguntas para el Segmento 2 Empresas Medianas y Grandes con Múltiples Portafolios**
+- ¿Consideras que Vantage PMO ayudaría a tu organización a obtener una visión más clara del estado de todos sus proyectos?
+- ¿Qué tan valioso te parece contar con información consolidada de múltiples proyectos en una sola plataforma?
+- ¿Crees que Vantage PMO podría contribuir a reducir sobrecostos o retrasos en la ejecución de proyectos?
+- ¿La información presentada en los dashboards ejecutivos resulta útil para la toma de decisiones gerenciales?
+- ¿Consideras que la plataforma facilitaría el control y la asignación eficiente de recursos compartidos entre distintos proyectos?
+- ¿Qué tan importante consideras la capacidad de identificar riesgos y alertas de manera temprana dentro de la organización?
+- ¿Ves a Vantage PMO como una solución viable para mejorar la gobernanza y el control de los proyectos corporativos?
+- ¿Qué mejoras o funcionalidades adicionales agregarías para que la plataforma se adapte mejor a las necesidades de tu empresa?
+
+### 5.3.2. Registro de Entrevistas
+
+En esta sección presentaremos el registro de cada entrevista de validación que hemos realizado para cada segmento objetivo de nuestro proyecto.
+
+**Segmento 1 - Líderes y Jefes de Gestión de Proyectos**
+
+**Segmento 2 Empresas Medianas y Grandes con Múltiples Portafolios**
+
+<table>
+<tr>
+<th colspan="2">Entrevista #1</th>
+</tr>
+<tr>
+<td><b>Nombre</b></td>
+<td>Santiago</td>
+</tr>
+<tr>
+<td><b>Apellidos</b></td>
+<td>García Calderón</td>
+</tr>
+<tr>
+<td><b>Edad</b></td>
+<td>30 años</td>
+</tr>
+<tr>
+<td><b>Distrito</b></td>
+<td>Chorrillos</td>
+</tr>
+<tr>
+<td><b>Aplicaciones Usadas</b></td>
+<td>WhatsApp, Google Drive, Google Meet, Microsoft Stream</td>
+</tr>
+<tr>
+<td><b>Motivación</b></td>
+<td>Santiago manifiesta interés en utilizar plataformas que le permitan organizar su trabajo de manera eficiente y centralizada. Valora especialmente aquellas herramientas que presentan una interfaz intuitiva y visualmente clara, ya que esto le facilita identificar rápidamente las funcionalidades disponibles y comprender el estado de sus actividades. Asimismo, se siente motivado por soluciones digitales que optimizan la comunicación y el seguimiento de tareas, permitiéndole tomar decisiones oportunas y reducir el tiempo invertido en procesos manuales o desorganizados.</td>
+</tr>
+<tr>
+<td><b>Frustración</b></td>
+<td>Una de las principales frustraciones de Santiago es la falta de alertas tempranas claras que le permitan anticiparse a problemas o retrasos dentro de un proyecto. Considera que, cuando una plataforma no comunica de forma oportuna los riesgos o incidencias, se dificulta la toma de precauciones necesarias. Además, menciona que en algunas herramientas la información puede estar dispersa o poco destacada, lo que genera confusión y retrasa la identificación de aspectos críticos que requieren atención inmediata.</td>
+</tr>
+	<tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="assets/images/chapter-5/Sprint3/interview-of-sement-2.png" alt=""></div></td>
+  </tr>
+<tr>
+	 <tr>
+    <td>Link</td>
+   <td>
+		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202411799_upc_edu_pe/IQBGvGy-lhHSRY-o5xqiBNvvAdFG3hWV6BXUJtAc3ienI2A?e=sVUIwW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Microsoft Stream</p>
+	</td>
+  </tr>
+  <tr>
+    <td>Duracion</td>
+   <td>
+		0: 00 min - 19: 05 min
+	</td>
+  </tr>
+  <tr>
+<td><b>Resumen</b></td>
+<td>El entrevistado manifestó que la plataforma evaluada resulta fácil de usar debido a que las herramientas son sencillas de identificar y la interfaz se percibe intuitiva, ordenada y visualmente pulida. Destacó que la navegación es fluida, lo que permite desplazarse entre las distintas secciones sin generar confusión, y que la información presentada es clara y fácil de entender, tanto en su contenido textual como visual. No obstante, señaló como aspecto de mejora la necesidad de implementar alertas tempranas más visibles y oportunas, ya que considera fundamental contar con notificaciones que permitan anticiparse a posibles riesgos o problemas y tomar decisiones preventivas de manera eficiente.</td>
+</tr>
+</table>
+
+### 5.3.3. Evaluaciones según heurísticas
+
+## UX Heuristics & Principles Evaluation
+
+**Usability – Inclusive Design – Information Architecture**
+
+| Campo | Detalle |
+|---|---|
+| **CARRERA** | Ingeniería de Software |
+| **CURSO** | Aplicaciones Web |
+| **SECCIÓN** | 12158 |
+| **PROFESOR** | Villafuerte Bazán, Oscar Ivan |
+| **AUDITOR** | MDEPS |
+| **CLIENTE(S)** | Santiago |
+
+**SITE o APP A EVALUAR:** Vantage PMO
+
+---
+
+### TAREAS A EVALUAR
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+- Identificación y uso de herramientas principales del sistema.
+- Navegación entre módulos del dashboard
+- Comprensión de la información visual presentada
+- Visualización de alertas y notificaciones del sistema
+- Interpretación del estado de proyectos y riesgos
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+- Configuración avanzada de notificaciones
+- Gestión de permisos por roles
+- Integraciones externas avanzadas
+---
+
+### ESCALA DE SEVERIDAD
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción |
+|---|---|
+| 1 | Problema superficial: puede ser fácilmente superado por el usuario. |
+| 2 | Problema menor: genera cierta fricción, pero no impide el uso del sistema. |
+| 3 | Problema mayor: afecta la toma de decisiones o genera confusión frecuente. |
+| 4 | Problema crítico: impide continuar con el uso del sistema. |
+---
+
+### TABLA RESUMEN
+
+| # | Problema | Escala de severidad | Heurística/Principio violada(o) |
+|---|---|---|---|
+| 1 | Las alertas tempranas no son lo suficientemente visibles ni oportunas para anticipar riesgos del proyecto. | 3 | Usability: Visibilidad del estado del sistema |
+| 2 | La información visual es clara, pero podría reforzarse la jerarquía visual en indicadores críticos. | 2 | Information Architecture: Jerarquía visual |
+| 3 | La navegación es fluida e intuitiva, aunque algunos accesos secundarios no están claramente destacados. | 1 | Usability: Reconocimiento antes que recuerdo |
+
+---
+
+### DESCRIPCIÓN DE PROBLEMAS
+
+**PROBLEMA #1:** Falta de visibilidad y anticipación en alertas tempranas
+
+**Severidad:** 3
+
+**Heurística violada:** Usability – Visibilidad del estado del sistema
+
+**Problema:**
+Durante la entrevista, el usuario indicó que la plataforma es intuitiva, ordenada y fácil de comprender; sin embargo, resaltó que las alertas tempranas no se perciben con suficiente claridad ni prioridad visual. Esto dificulta la identificación rápida de riesgos o desviaciones en los proyectos, lo que puede afectar la toma de decisiones preventivas. La ausencia de señales visuales más destacadas puede ocasionar que el usuario reaccione de forma tardía ante problemas críticos.
+
+**Recomendación:**
+Mejorar la visibilidad de las alertas tempranas mediante el uso de colores de alta prioridad, íconos diferenciados y notificaciones contextuales en el dashboard principal. Asimismo, se recomienda clasificar las alertas por nivel de criticidad para facilitar una respuesta rápida y efectiva.
+
+**PROBLEMA #2:** Jerarquía visual limitada en indicadores críticos
+
+**Severidad: 2**
+
+**Heurística violada:** Information Architecture – Jerarquía visual
+
+**Problema:**
+Si bien el entrevistado destacó que la información visual es clara y fácil de entender, algunos indicadores clave (estado del proyecto, riesgos, progreso) no resaltan lo suficiente frente a otros elementos del dashboard. Esto puede generar que el usuario invierta más tiempo en identificar información crítica.
+
+**Recomendación:**
+Reforzar la jerarquía visual utilizando tamaños de fuente diferenciados, contrastes de color y agrupación visual de indicadores clave, permitiendo que la información más relevante sea identificada de forma inmediata.
+
+**PROBLEMA #3:** Accesos secundarios poco destacados
+
+**Severidad:** 1
+
+**Heurística violada:** Usability – Reconocimiento antes que recuerdo
+
+**Problema:**
+Aunque la navegación general fue descrita como fluida e intuitiva, algunos accesos secundarios no son inmediatamente reconocibles, lo que puede requerir exploración adicional por parte del usuario, especialmente en usuarios nuevos.
+
+**Recomendación:**
+Agregar etiquetas claras, íconos representativos o ayudas visuales que faciliten el reconocimiento inmediato de accesos secundarios sin afectar la simplicidad de la interfaz.
+
+## 5.4. Video About-the-Product
+
+| Título del Video      | Vantage PMO Product           | 
+|-----------------------|------------------------------|
+| Duración              | 1 minuto y 13 segundos       |  
+| Fecha de Grabación    | 21/06/2026                   | 
+| URL YouTube           | https://youtu.be/Vo4ptRyBrpw | 
+| URL Microsoft Stream  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202411799_upc_edu_pe/IQCfF_HLycdKTZe-pKjjZldSAXqTAfaEkIG8ShXEr4HkNY4?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JJKd1a |
+
