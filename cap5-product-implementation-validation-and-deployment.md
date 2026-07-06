@@ -1604,11 +1604,179 @@ En esta sección presentaremos el registro de cada entrevista de validación que
 
 **Segmento 1 - Líderes y Jefes de Gestión de Proyectos**
 
+<table>
+<tr>
+<th colspan="2">Entrevista #1</th>
+</tr>
+<tr>
+<td><b>Nombre</b></td>
+<td>Gustabo</td>
+</tr>
+<tr>
+<td><b>Apellidos</b></td>
+<td>Pomassonco Arrelucea</td>
+</tr>
+<tr>
+<td><b>Edad</b></td>
+<td>30 años</td>
+</tr>
+<tr>
+<td><b>Distrito</b></td>
+<td>Chorrillos</td>
+</tr>
+<tr>
+<td><b>Aplicaciones Usadas</b></td>
+<td>WhatsApp, Google Drive, Google Meet, Microsoft Stream</td>
+</tr>
+<tr>
+<td><b>Motivación</b></td>
+<td>Gustabo se muestra motivado por la claridad de la propuesta de valor presentada en la landing page, ya que considera que comunica de manera directa los problemas principales de la gestión de proyectos, como la falta de visibilidad, el control limitado y la necesidad de estandarización, explicando de forma comprensible cómo la plataforma los soluciona.</td>
+</tr>
+<tr>
+<td><b>Frustración</b></td>
+<td>Una de las principales frustraciones de Gustabo es la falta de mayor visibilidad y anticipación en las alertas tempranas. Aunque reconoce que existen indicadores, considera que podrían destacarse más para permitir una identificación aún más rápida de los riesgos críticos.
+Otra frustración identificada es la poca notoriedad de los accesos secundarios dentro de la plataforma. Gustavo percibe que algunas funcionalidades importantes no están suficientemente resaltadas, lo que podría afectar la eficiencia en la navegación para usuarios que buscan acciones específicas con rapidez.</td>
+</tr>
+	<tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="assets/images/chapter-5/Sprint4/interview-of-sement-1.png" alt=""></div></td>
+  </tr>
+<tr>
+	 <tr>
+    <td>Link</td>
+   <td>
+		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202411799_upc_edu_pe/IQAS_mf1QAPsTZ8WKFkZHOuHAdcfCka2uuMQcdGn-qHAz0E?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=AwyOKC">Microsoft Stream</p>
+	</td>
+  </tr>
+  <tr>
+    <td>Duracion</td>
+   <td>
+		0: 00 min - 15: 58 min
+	</td>
+  </tr>
+  <tr>
+<td><b>Resumen</b></td>
+<td>Gustabo percibe a Vantage PMO como una solución altamente efectiva para líderes y jefes de gestión de proyectos, destacando su propuesta de valor clara, su diseño profesional y su experiencia de uso intuitiva. Valora especialmente la centralización de información, la visualización clara de métricas, cronogramas y recursos, así como la capacidad de detectar riesgos y tomar decisiones rápidas y fundamentadas. Si bien identifica oportunidades de mejora relacionadas con la visibilidad de las alertas tempranas y el destaque de accesos secundarios, considera que la plataforma cubre gran parte del trabajo que actualmente se realiza de forma manual, razón por la cual la califica con un alto nivel de recomendación.</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th colspan="2">Entrevista #2</th>
+</tr>
+<tr>
+<td><b>Nombre</b></td>
+<td>Diana</td>
+</tr>
+<tr>
+<td><b>Apellidos</b></td>
+<td>Li Gayoso</td>
+</tr>
+<tr>
+<td><b>Edad</b></td>
+<td>30 años</td>
+</tr>
+<tr>
+<td><b>Distrito</b></td>
+<td>Chorrillos</td>
+</tr>
+<tr>
+<td><b>Aplicaciones Usadas</b></td>
+<td>WhatsApp, Google Drive, Google Meet, Microsoft Stream</td>
+</tr>
+<tr>
+<td><b>Motivación</b></td>
+<td>Diana se muestra motivada por la propuesta de Vantage PMO como una plataforma que centraliza la gestión de proyectos y permite monitorear el avance en tiempo real. Considera que esta centralización responde a una necesidad frecuente en su trabajo, ya que reduce la dispersión de la información y facilita la toma de decisiones mediante indicadores y reportes claros.</td>
+</tr>
+<tr>
+<td><b>Frustración</b></td>
+<td>Una de las principales frustraciones de Diana es la necesidad de complementar la información de los dashboards con reportes más detallados cuando se requiere un análisis profundo. Aunque considera que los paneles son suficientes para el seguimiento diario, percibe una oportunidad de mejora en la profundidad analítica para ciertos casos. Diana considera que la plataforma tiene mucho potencial, pero que podría adaptarse aún mejor a las necesidades específicas de distintas organizaciones si se amplían estas capacidades.</td>
+</tr>
+	<tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="assets/images/chapter-5/Sprint4/interview-of-sement-1.1.png" alt=""></div></td>
+  </tr>
+<tr>
+	 <tr>
+    <td>Link</td>
+   <td>
+		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202411799_upc_edu_pe/IQBKw0WeEB0qQZyRdTaD_TqnAY9MEfTVihAbd6gMHNV-t74?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rcjM9a">Microsoft Stream</p>
+	</td>
+  </tr>
+  <tr>
+    <td>Duracion</td>
+   <td>
+		0: 00 min - 14:46 min
+	</td>
+  </tr>
+  <tr>
+<td><b>Resumen</b></td>
+<td>Diana percibe a Vantage PMO como una plataforma con alto potencial para organizaciones que gestionan múltiples proyectos de manera simultánea, destacando su capacidad para centralizar información, ofrecer una vista consolidada en tiempo real y reducir el tiempo dedicado al seguimiento manual. Valora positivamente la claridad de la propuesta de valor, el diseño profesional y la experiencia de uso intuitiva, así como la integración de métricas, cronogramas y recursos en una sola herramienta.</td>
+</tr>
+</table>
+
 **Segmento 2 Empresas Medianas y Grandes con Múltiples Portafolios**
 
 <table>
 <tr>
 <th colspan="2">Entrevista #1</th>
+</tr>
+<tr>
+<td><b>Nombre</b></td>
+<td>Italo</td>
+</tr>
+<tr>
+<td><b>Apellidos</b></td>
+<td>Pancorbo Amoros</td>
+</tr>
+<tr>
+<td><b>Edad</b></td>
+<td>30 años</td>
+</tr>
+<tr>
+<td><b>Distrito</b></td>
+<td>Chorrillos</td>
+</tr>
+<tr>
+<td><b>Aplicaciones Usadas</b></td>
+<td>WhatsApp, Google Drive, Google Meet, Microsoft Stream</td>
+</tr>
+<tr>
+<td><b>Motivación</b></td>
+<td>Italo se siente motivado por la posibilidad de contar con una visión clara y consolidada del estado de todos los proyectos dentro de una sola plataforma. Considera que los reportes y las analíticas de Vantage PMO le permiten comprender la información desde un enfoque numérico y estadístico, lo que facilita una toma de decisiones más informada a nivel gerencial, Italo encuentra valor en la posibilidad de comparar proyectos y gestionar recursos compartidos de manera más eficiente.</td>
+</tr>
+<tr>
+<td><b>Frustración</b></td>
+<td>Una de las principales frustraciones de Italo es la falta de mayor visibilidad y anticipación en las alertas tempranas. Aunque reconoce que la funcionalidad existe, considera que podría reforzarse para que los usuarios identifiquen con mayor rapidez los posibles riesgos.
+También manifiesta frustración respecto a la jerarquía visual de los puntos críticos dentro de la plataforma. Percibe que ciertos elementos importantes no destacan lo suficiente y sugiere que podrían enfatizarse más mediante cambios en tamaño, posición o diseño visual.</td>
+</tr>
+	<tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="assets/images/chapter-5/Sprint4/interview-of-sement-2.2.png" alt=""></div></td>
+  </tr>
+<tr>
+	 <tr>
+    <td>Link</td>
+   <td>
+		<p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202411799_upc_edu_pe/IQDd1l9V3zXbS4eNwmDruChQAeHnHAy3OL-k5D0LaChVkqs?e=gt3aAW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Microsoft Stream</p>
+	</td>
+  </tr>
+  <tr>
+    <td>Duracion</td>
+   <td>
+		0: 00 min - 5:41 min
+	</td>
+  </tr>
+  <tr>
+<td><b>Resumen</b></td>
+<td>El entrevistado percibe a Vantage PMO como una plataforma sólida y viable para mejorar la gestión, gobernanza y control de proyectos dentro de una organización, destacando especialmente la integración de reportes, analíticas, control financiero, comunicación y gestión de riesgos en un solo sistema. Valora la capacidad de la herramienta para ofrecer una visión consolidada y comparativa de múltiples proyectos, lo que facilita la toma de decisiones gerenciales y la asignación eficiente de recursos. No obstante, identifica oportunidades de mejora relacionadas principalmente con la visibilidad de las alertas tempranas, la jerarquía visual de los puntos críticos y el resaltado de accesos secundarios, aspectos que, de optimizarse, podrían fortalecer aún más la experiencia del usuario y el enfoque preventivo de la plataforma.</td>
+</tr>
+</table>
+
+
+<table>
+<tr>
+<th colspan="2">Entrevista #2</th>
 </tr>
 <tr>
 <td><b>Nombre</b></td>
@@ -1674,7 +1842,7 @@ En esta sección presentaremos el registro de cada entrevista de validación que
 | **SECCIÓN** | 12158 |
 | **PROFESOR** | Villafuerte Bazán, Oscar Ivan |
 | **AUDITOR** | MDEPS |
-| **CLIENTE(S)** | Santiago |
+| **CLIENTE(S)** | Diana, Santiago, Italo y Gustabo |
 
 **SITE o APP A EVALUAR:** Vantage PMO
 

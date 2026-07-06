@@ -436,7 +436,7 @@ Se analizaron 3 entrevistas a personas que forman parte de empresas o emprendimi
 | **Retrasos por falta de organización o seguimiento** | 3/3 | 100% | Crecimiento del negocio, optimización de recursos y eficiencia del equipo. |
 | **Objetivo de crecimiento o mejora operativa** | 1/3 | 33,3% | Los tres expresan interés en adoptar una solución digital. |
 | **Disposición a usar una herramienta centralizada** | 3/3 | 100% | Los tres expresan interés en adoptar una solución digital. |
-| **Requisito de facilidad de uso** | 3/3 | 100% | Katherine y Valentín resaltan que no debe ser compleja ni demandar mucha capacitación. |
+| **Condición de facilidad de uso** | 3/3 | 100% | Katherine y Valentín resaltan que no debe ser compleja ni demandar mucha capacitación. |
 
 **Insights Destacados**
 
