@@ -1,36 +1,37 @@
-<div aligne="center">
+<div align="center">
+
 <img src="assets/images/UPC_logo_transparente.png" alt="Logo-UPC" width="150">
-  
-## Universidad Peruana de Ciencias Aplicadas
 
-**Ingeniería de Software**
+**Universidad Peruana de Ciencias Aplicadas**<br>
+**Carrera de Ingeniería de Software**
 
-**Ciclo:** 202610
- 
-1ASI0730 - Aplicaciones Web
+**1ASI0730**<br>
+**Aplicaciones Web**<br>
+NRC<br>
+**12158**<br>
+**Informe del Trabajo Final**<br>
+Docente<br>
+**Villafuerte Bazan, Oscar Ivan**<br>
+Equipo<br>
+**MDEPS**
 
-**NRC:** 12158
+Proyecto<br>
+**Vantage PMO**
 
-**Profesor:** Villafuerte Bazan, Oscar Ivan 
+<br>**Integrantes**
+| Código      | Apellidos y Nombres              |
+|-------------|----------------------------------|
+| U202411243  | Rocha Cotrina, Alvaro            |
+| U202411799  | Esquicha Alcántara, Diego Alonso |
+| U202417405  | Quispe Llacsahuanga, César Agusto|
+| U202211881  | Guillen Giraldo, Mike Dylan      |
+| U202417423  | Teran Zavala, Mauricio Alejandro |
 
-### Informe de Trabajo Final
+**Período 202610**  
 
-**Nombre del startup:** MDEPS
+**Junio 2026**
 
-**Nombre del producto:** Vantage PMO 
-
-#### Relación de integrantes
-
-| Integrante                           | Código     |
-| ------------------------------------ | ---------- |
-| Rocha Cotrina, Alvaro                | U202411243 |
-| Esquicha Alcántara, Diego Alonso     | U202411799 |
-| Quispe Llacsahuanga, César Agusto    | U202417405 |
-| Guillen Giraldo, Mike Dylan          | U202211881 |
-| Teran Zavala, Mauricio Alejandro     | U202417423 |
-
-
-**Mes y Año**: 06/2026
+</div>
 
 ---
 
