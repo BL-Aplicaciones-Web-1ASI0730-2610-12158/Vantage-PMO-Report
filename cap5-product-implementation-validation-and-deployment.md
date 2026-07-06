@@ -1557,6 +1557,225 @@ Las métricas de actividad del repositorio serán incorporadas al finalizar el S
 
 Se espera mantener una participación equilibrada entre todos los integrantes del equipo, fortaleciendo la colaboración y asegurando el cumplimiento de los objetivos establecidos para este sprint.
 
+<div style="text-align: left;">
+
+### 5.2.4. Sprint 4
+<a id="5-2-4-sprint-4"></a>
+
+#### 5.2.4.1. Sprint Planning 4
+<a id="5-2-4-1-sprint-planning-4"></a>
+
+Durante el Sprint 4 se culminará el desarrollo del backend de la plataforma Vantage PMO, consolidando los servicios REST implementados en sprints anteriores y asegurando su correcto funcionamiento, estabilidad y seguridad. Este sprint estará orientado a finalizar la lógica de negocio, optimizar los endpoints existentes y validar la persistencia de datos, dejando el sistema preparado para su integración final y evaluación funcional.
+
+El objetivo principal de este sprint es garantizar la correcta operación del backend como núcleo del sistema, asegurando una comunicación estable y eficiente con el frontend, el manejo adecuado de autenticación y autorización, así como la ejecución de procesos automáticos y validaciones críticas. De esta manera, la plataforma pasa de una versión parcialmente funcional a un sistema backend completo, consistente y listo para demostración y validación académica.
+
+
+| Campo | Detalle |
+| :--- | :--- |
+| **Sprint #** | Sprint 4 |
+| **Sprint Planning Background** | |
+| **Date** | 2026/07/05 |
+| **Time** | 10:00 PM |
+| **Location** | Reunión virtual mediante Discord |
+| **Prepared By** | Esquicha Alcántara, Diego Alonso |
+| **Attendees** | Rocha Cotrina, Alvaro / Esquicha Alcántara, Diego Alonso / Quispe Llacsahuanga, César Agusto / Guillen Giraldo, Mike Dylan / Teran Zavala, Mauricio Alejandro |
+| **Sprint n-4 Review Summary** | Se logró implementar la versión final funcional del backend, incluyendo endpoints principales, autenticación básica mediante JWT, documentación inicial de la API y la integración preliminar con el frontend. |
+| **Sprint n-4 Retrospective Summary** | Se identificó la necesidad de culminar y robustecer el backend, reforzar la seguridad, mejorar la validación de datos, optimizar endpoints existentes y asegurar la correcta persistencia y consistencia de la información. |
+| **Sprint Goal & User Stories** | **Sprint 4:** Nos enfocamos en culminar y consolidar el backend de la plataforma Vantage PMO. Creemos que esto permitirá garantizar una comunicación estable y segura entre frontend y backend, una correcta ejecución de la lógica de negocio y una persistencia de datos confiable. Esto se confirmará cuando todas las funcionalidades clave operen sobre servicios centralizados, con control de errores, seguridad y estabilidad, logrando una plataforma lista para validación final y demostración. |
+| **Sprint 4 Velocity** | 21 Story Points |
+| **Sum of Story Points** | 24 Story Points |
+
+#### 5.2.4.2. Aspect Leaders and Collaborators.
+<a id="5-2-4-2-aspect-leaders-and-collaborators"></a>
+
+Durante el Sprint 4, el equipo centró sus esfuerzos en la culminación y consolidación del backend de la plataforma Vantage PMO, priorizando la finalización de la lógica de negocio, el refuerzo de los mecanismos de seguridad, la correcta persistencia de datos y la estabilidad de los servicios REST. Asimismo, se realizaron ajustes finales orientados a optimizar la integración con el frontend y asegurar un comportamiento consistente de la aplicación en todos sus módulos.
+
+| Team Member (Last Name, First Name) | GitHub Username | Backend Services & Persistence | API integration | Authentication & Security| Data & Validation | Reports & Queries | Deployment | Testing | Frontend Improvements | Documentation |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Rocha Cotrina, Alvaro | alvarorc24 | C | C | C | C | L | C | C | L | C |
+| Esquicha Alcántara, Diego Alonso | DiegoEsquich | C | C | C | L | C | C | C | C | L |
+| Quispe Llacsahuanga, César Agusto | user20-bit | C | L | C | C | C | C | L | C | C |
+| Guillen Giraldo, Mike Dylan | FulLHous | C | C | L | L | C | L | C | L | C |
+| Teran Zavala, Mauricio Alejandro | mau-tz | L | C | C | C | C | C | C | C | C |
+
+*Leyenda: L = Lead (Líder), C = Collaborator (Colaborador)*
+
+#### 5.2.4.3. Sprint Backlog 4.
+<a id="5-2-4-3-sprint-backlog-4"></a>
+
+El Sprint 4 tiene como objetivo culminar y estabilizar la capa backend de la plataforma Vantage PMO, asegurando la correcta persistencia de la información, la consolidación de la lógica de negocio y la integración completa con los componentes frontend desarrollados en los sprints anteriores.
+
+Durante este sprint, el equipo se enfocará en finalizar los servicios REST principales, reforzar los mecanismos de seguridad y autenticación, y garantizar que las funcionalidades clave del sistema operen sobre datos reales almacenados en la base de datos. Asimismo, se trabajará en la integración final entre frontend y backend, permitiendo que las vistas existentes consuman endpoints funcionales y reflejen información actualizada de manera consistente.
+
+Adicionalmente, se priorizará la generación de reportes finales, la correcta documentación de la API, y la validación del comportamiento del sistema frente a distintos escenarios de uso, incluyendo manejo de errores, control de accesos y flujos críticos del negocio. Estas actividades permitirán dejar la plataforma preparada para su entrega académica final, con una arquitectura backend robusta y alineada a los requerimientos definidos en el Product Backlog.
+
+Finalmente, este sprint representa la transición desde una solución parcialmente integrada hacia una versión final estable, enfocada en el cierre del desarrollo, la consolidación funcional y la preparación del sistema para futuras mejoras o despliegues, asegurando una experiencia consistente, segura y escalable para los distintos perfiles de usuario.
+
+### Screenshot del Board
+
+![Sprint-Backlog-04](assets/images/chapter-5/sprint4/sprint%20backlog4.png)
+
+*Trello:* https://trello.com/b/nXg9F2E2/vantage-pmo-sprint-backlog-4
+
+### Sprint Backlog #03
+
+| User Story Id | Title | Task Id | Task Title | Description | Est. (h) | Assigned To | Status |
+| :--- | :--- | :--- | :--- | :--- | :---: | :--- | :---: |
+| **US41** | Auth JWT | US41-T1 | Implementar generación de token JWT | Configurar la creación de tokens JWT al autenticar usuarios válidos, incluyendo claims básicos y tiempo de expiración. | 8h | Diego Esquicha | Done |
+| | | US41-T2 | Proteger endpoints con middleware JWT | Aplicar validación de token en rutas privadas para asegurar que solo usuarios autenticados accedan a los recursos. | 8h | Diego Esquicha | Done |
+| | | US41-T3 | Manejo de errores de autenticación | Implementar respuestas controladas para tokens inválidos, expirados o ausentes (401 / 403). | 6h | Alvaro Rocha | Done |
+| **US43** | CRUD Proyectos API | US43-T1 | Implementar endpoint POST /projects | Recibir, validar y persistir proyectos en la base de datos desde el frontend. | 5h | Diego Esquicha | Done |
+| | | US43-T2 | Implementar endpoint GET /projects | Recuperar la lista de proyectos asociados al usuario autenticado. | 4h | Cesar Quispe | Done |
+| | | US43-T3 | Implementar endpoint PUT /projects/{id} | Permitir la actualización de datos del proyecto manteniendo integridad referencial. | 8h | Alvaro Rocha | Done |
+| | | US43-T4 | Implementar endpoint DELETE /projects/{id} | Eliminar proyectos de forma lógica o física según reglas del negocio. | 8h | Diego Esquicha | Done |
+| **US45** | API de Subida de Archivos | US45-T1 | Configurar endpoint multipart/form-data | Permitir la recepción de archivos binarios desde el frontend. | 2h | Cesar Quispe | Done |
+| | | US45-T2 | Almacenamiento y generación de URL | Guardar archivos en el sistema definido y retornar una URL pública o privada. | 2h | Alvaro Rocha | Done |
+| | | US45-T3 | Validación de tipo y tamaño de archivo | Restringir extensiones y tamaños para evitar cargas inválidas o riesgos de seguridad. | 4h | Dylan Guillen | Done |
+| **US54** | JSON a PDF | US54-T1 | Estructurar modelo JSON de reporte | Definir la estructura de datos agregados que alimentarán el reporte PDF. | 8h | Alvaro Rocha | Done |
+| | | US54-T2 | Integrar motor de generación PDF | Transformar el JSON en un archivo PDF descargable. | 8h | Alvaro Rocha | Done |
+| | | US54-T3 | Exponer endpoint de descarga | Permitir al frontend solicitar y descargar el reporte generado. | 8h | Diego Esquicha | Done |
+| **US42** | Swagger / Documentación | US42-T1 | Configurar Swagger en el backend | Habilitar el endpoint /swagger para visualización de la documentación. | 6h | Mauricio Teran | Done |
+| | | US42-T2 | Documentar endpoints principales | Incluir descripción, parámetros, respuestas y códigos HTTP de cada servicio. | 2h | Mauricio Teran | Done |
+| | | US42-T3 | Validar consistencia entre API y documentación | Asegurar que la documentación refleje el comportamiento real del backend. | 4h | Todo el equipo | Done |
+
+
+#### 5.2.4.4. Development Evidence for Sprint Review.
+<a id="5-2-4-4-development-evidence-for-sprint-review"></a>
+
+En esta sección se presentan los avances obtenidos durante la fase de implementación correspondientes al Sprint Backlog 04, el cual estuvo enfocado en la culminación, estabilización y documentación de la capa backend de la plataforma Vantage PMO, así como en la integración final con los componentes frontend desarrollados en sprints anteriores.
+
+Durante este sprint se documentan las actividades relacionadas con la finalización de servicios REST, el fortalecimiento de los mecanismos de autenticación y autorización mediante JWT, la correcta persistencia de la información, la gestión de proyectos, la subida y almacenamiento de archivos, y la generación de reportes ejecutivos en formato PDF a partir de datos estructurados en JSON.
+
+Finalmente, se incluye una tabla con la evidencia de desarrollo obtenida a partir de los repositorios del proyecto, permitiendo identificar los commits realizados, las funcionalidades completadas, los cambios implementados y los responsables de cada actividad desarrollada durante el Sprint 4, consolidando así la entrega académica final del proyecto.
+
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Commit Message Body</th>
+    <th>Commited on (Date)</th>
+  </tr>
+    <tr>
+    <td>user20-bit/Vantage-PMO-Back-End</td>
+    <td>main</td>
+    <td>j3cgrf</td>
+    <td>refactor: Skip sample seeding; remove Docker USER</td>
+    <td>Desactiva seeding de ejemplo y elimina usuario explícito en Docker.</td>
+    <td>2026-07-03</td>
+  </tr>
+
+  <tr>
+    <td>user20-bit/Vantage-PMO-Back-End</td>
+    <td>main</td>
+    <td>989rgf</td>
+    <td>feat: Add Analytics bounded context</td>
+    <td>Agrega bounded context de Analytics con migraciones iniciales.</td>
+    <td>2026-07-03</td>
+  </tr>
+
+  <tr>
+    <td>user20-bit/Vantage-PMO-Back-End</td>
+    <td>main</td>
+    <td>rggrbb</td>
+    <td>refactor: Add Reports bounded context</td>
+    <td>Agrega contexto de Reportes (Quick Reports).</td>
+    <td>2026-07-03</td>
+  </tr>
+
+  <tr>
+    <td>user20-bit/Vantage-PMO-Back-End</td>
+    <td>main</td>
+    <td>30bgg4</td>
+    <td>refactor: Add ChatHub module</td>
+    <td>Implementa módulo ChatHub con dominio, API y configuración EF.</td>
+    <td>2026-07-03</td>
+  </tr>
+    <tr>
+    <td>user20-bit/Vantage-PMO-Back-End</td>
+    <td>main</td>
+    <td>b4b001</td>
+    <td>refactor: Return user ID from signup and improve error handling</td>
+    <td>Retorna el ID del usuario al registrarse y mejora el manejo de errores.</td>
+    <td>2026-07-04</td>
+  </tr>
+
+  <tr>
+    <td>mau-tz/Vantage-PMO-Back-End</td>
+    <td>main</td>
+    <td>vddvdf</td>
+    <td>refactor: Handle OPTIONS requests and unauthorized access</td>
+    <td>Gestiona solicitudes OPTIONS y accesos no autorizados.</td>
+    <td>2026-07-04</td>
+  </tr>
+
+  <tr>
+    <td>user20-bit/Vantage-PMO-Back-End</td>
+    <td>main</td>
+    <td>222aprl</td>
+    <td>feat: Add workspace selection feature</td>
+    <td>Agrega selección de workspace con modelo de dominio y API REST.</td>
+    <td>2026-07-04</td>
+  </tr>
+
+  <tr>
+    <td>user20-bit/Vantage-PMO-Back-End</td>
+    <td>main</td>
+    <td>456hhh</td>
+    <td>feat: Enable Swagger UI in all environments</td>
+    <td>Habilita Swagger UI en todos los entornos.</td>
+    <td>2026-07-04</td>
+  </tr>
+
+  <tr>
+    <td>user20-bit/Vantage-PMO-Back-End</td>
+    <td>main</td>
+    <td>j4b005</td>
+    <td>fix: Resolve Linux Docker build failure</td>
+    <td>Corrige error de build en Docker Linux por rutas REST duplicadas.</td>
+    <td>2026-07-04</td>
+  </tr>
+
+  <tr>
+    <td>user20-bit/Vantage-PMO-Back-End</td>
+    <td>main</td>
+    <td>jegrgr</td>
+    <td>feat: Add UserId to profile creation</td>
+    <td>Agrega UserId a la creación de perfiles con validaciones.</td>
+    <td>2026-07-04</td>
+  </tr>
+
+  <tr>
+    <td>user20-bit/Vantage-PMO-Back-End</td>
+    <td>main</td>
+    <td>c951885</td>
+    <td>feat: Refactor Profiles module with localized resources</td>
+    <td>Refactoriza el módulo Profiles usando recursos localizados.</td>
+    <td>2026-07-04</td>
+  </tr>
+<tr>
+    <td>user20-bit/Vantage-PMO-Back-End</td>
+    <td>main</td>
+    <td>17df188</td>
+    <td>refactor: sign-in response and email queries</td>
+    <td>Refactoriza la respuesta del sign-in y optimiza consultas por email.</td>
+    <td>2026-07-05</td>
+  </tr>
+
+  <tr>
+    <td>user20-bit/Vantage-PMO-Back-End</td>
+    <td>main</td>
+    <td>b392e4d</td>
+    <td>refactor: Fix value object handling in Profile domain</td>
+    <td>Corrige el manejo de value objects dentro del dominio Profile.</td>
+    <td>2026-07-05</td>
+  </tr>
+</table>
+
+#### 5.2.4.5. Execution Evidence for Sprint Review.
+<a id="5-2-4-5-execution-evidence-for-sprint-review"></a>
+
 ## 5.3. Validation Interviews
 <a id="#53-validation-interviews"></a>
 En esta sección se documentan y describen las actividades relacionadas con las entrevistas de validación realizadas a lo largo del desarrollo del proyecto. Estas entrevistas tienen como propósito principal recopilar retroalimentación directa, entender las necesidades y expectativas de los usuarios, y confirmar o descartar las hipótesis planteadas sobre el producto. Para ello, los participantes de ambos segmentos interactuarán tanto con la landing page como con la aplicación web.
