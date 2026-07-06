@@ -28,7 +28,7 @@
 
 | Recurso | Enlace |
 |---|---|
-| Video About-the-Product | — |
+| Video About-the-Product | https://youtu.be/Vo4ptRyBrpw |
 
 ---
 
@@ -38,8 +38,8 @@
 | Entrega | Título | Enlace |
 |---|---|---|
 | AV1 | Exposición AV1 — Vantage PMO |  |
-| TP | Exposición TP — Vantage PMO | — |
+| TB1 | Exposición TB1 — Vantage PMO | — |
+| AV2 | Exposición AV2 — Vantage PMO | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202411243_upc_edu_pe/IQCLGODw1DTmSK_Lz7UUs8teAao9dbl9-TnutRysEt9k97k?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=7IyJNG |
 | TB2 | Exposición TB2 — Vantage PMO | — |
-| TF | Exposición TF — Vantage PMO | — |
 
 </div>
