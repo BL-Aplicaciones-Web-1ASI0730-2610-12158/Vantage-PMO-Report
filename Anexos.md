@@ -37,9 +37,9 @@
 
 | Entrega | Título | Enlace |
 |---|---|---|
-| AV1 | Exposición AV1 — Vantage PMO |  |
-| TB1 | Exposición TB1 — Vantage PMO | — |
+| AV1 | Exposición AV1 — Vantage PMO | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202411799_upc_edu_pe/IQDLzhb9jLqoT7CxRb15OQp6ASviq9HHdFdIahyT1XBuNK0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=UrR9bk |
+| TB1 | Exposición TB1 — Vantage PMO | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202411799_upc_edu_pe/IQANNhsOC7pDQrLAlZgwhmQqAQnB8gxF6ml44jtog5xvpRo?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=4Sd397 |
 | AV2 | Exposición AV2 — Vantage PMO | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202411243_upc_edu_pe/IQCLGODw1DTmSK_Lz7UUs8teAao9dbl9-TnutRysEt9k97k?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=7IyJNG |
-| TB2 | Exposición TB2 — Vantage PMO | — |
+| TB2 | Exposición TB2 — Vantage PMO | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202411243_upc_edu_pe/IQAnatiFLxF0SLdntTIRXDTRARFLY6joOXS6H-ye1ny2nDU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=3y6JVQ |
 
 </div>

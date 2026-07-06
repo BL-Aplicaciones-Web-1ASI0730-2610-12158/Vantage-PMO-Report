@@ -1776,6 +1776,166 @@ Finalmente, se incluye una tabla con la evidencia de desarrollo obtenida a parti
 #### 5.2.4.5. Execution Evidence for Sprint Review.
 <a id="5-2-4-5-execution-evidence-for-sprint-review"></a>
 
+Durante el Sprint 4 se consolidó la arquitectura backend de la plataforma, fortaleciendo los bounded contexts, optimizando los servicios REST existentes y asegurando una integración estable y escalable con el frontend. Este sprint estuvo enfocado en la madurez técnica del sistema, la mejora de la seguridad, la estandarización de módulos y la preparación de la solución para entornos productivos.
+
+### Resumen de Logros
+
+* Refactorización y optimización de servicios backend para mejorar la mantenibilidad y consistencia del dominio.
+* Consolidación de la integración frontend–backend mediante APIs REST alineadas con los contratos definidos.
+* Mejora de los flujos de autenticación y autorización, incluyendo validaciones, manejo de errores y compatibilidad con el frontend.
+* Optimización del manejo de perfiles de usuario, incorporando validaciones de dominio y localización de recursos.
+* Implementación y refactorización de múltiples bounded contexts (Profiles, Meetings, Reports, Analytics, ChatHub, Support, Settings).
+* Integración del módulo ChatHub con configuración de dominio, API REST y persistencia mediante Entity Framework.
+* Implementación de la selección de workspace y fortalecimiento del modelo de dominio asociado.
+* Corrección de errores críticos en módulos existentes (Profiles, Meetings, configuración del sistema).
+* Optimización del despliegue mediante correcciones en Docker y compatibilidad con entornos Linux.
+* Habilitación y mejora de la documentación técnica mediante Swagger UI en todos los entornos.
+* Mejora del manejo de configuración del sistema, credenciales y parámetros de seguridad.
+* Limpieza de código, eliminación de seeding innecesario y estandarización de la arquitectura backend.
+* Integración de migraciones y preparación de la base de datos para escenarios productivos.
+* Mejora del rendimiento general, estabilidad del sistema y experiencia de desarrollo.
+
+### Video de Demostración y Navegación
+
+Se incluirá el enlace al video de demostración correspondiente al Sprint 4, mostrando el funcionamiento de los servicios implementados, las nuevas funcionalidades desarrolladas y la integración completa de la plataforma.
+
+Puedes acceder al video de la demostración funcional en el siguiente enlace:
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202411799_upc_edu_pe/IQC3O67HzlLpTKMoU9eLBuGAAehF18QCkuR_qxaSBujDxzI?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ifZUZ1
+
+### Screenshots de la Implementación
+
+Se incorporarán capturas de pantalla que evidencien las funcionalidades desarrolladas durante este sprint, incluyendo módulos frontend, respuestas de API, vistas de usuario, ChatHub, creación de proyectos, dashboards actualizados y evidencias de integración.
+
+<div style="text-align:center;">
+  <img src="assets/images/chapter-5/Sprint4/schedule.png" 
+       alt="Paleta de Colores">
+</div>
+<div style="text-align:center;">
+  <img src="assets/images/chapter-5/Sprint4/schedule2.png" 
+       alt="Paleta de Colores">
+</div>
+<div style="text-align:center;">
+  <img src="assets/images/chapter-5/Sprint3/screenshot-3.png" 
+       alt="Paleta de Colores">
+</div>
+<div style="text-align:center;">
+  <img src="assets/images/chapter-5/Sprint3/screenshot-4.png" 
+       alt="Paleta de Colores">
+</div>
+
+---
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+<a id="5-2-4-6-services-documentation-evidence-for-sprint-review"></a>
+
+En este Sprint 4 se documentarán los servicios backend consolidados y optimizados que soportan la lógica de negocio de la plataforma Vantage PMO, enfocándose en la estabilización, refactorización y estandarización de los módulos desarrollados.
+
+La documentación incluirá los endpoints REST finales, los métodos HTTP utilizados, parámetros de entrada y salida, códigos de respuesta, mecanismos de autenticación y consideraciones de seguridad, reflejando el estado maduro de la solución.
+
+Las actividades realizadas durante este sprint incluyen:
+
+* Consolidación y refactorización de servicios REST existentes.
+* Optimización de los mecanismos de autenticación y autorización compatibles con el frontend.
+* Ajustes y validaciones en la persistencia de datos y modelos de dominio.
+* Implementación y mejora de endpoints para la gestión avanzada de proyectos y módulos asociados.
+* Integración final entre los módulos frontend y los servicios backend.
+* Publicación y validación de la documentación técnica mediante Swagger/OpenAPI en todos los entornos.
+* Verificación del consumo correcto de los servicios desde el frontend y control de errores.
+* Corrección de incidencias técnicas detectadas en sprints anteriores y preparación para despliegue final.
+
+### Detalle de Servicios Implementados
+
+| Recurso | Acción Implementada | HTTP | URL / Endpoint | Estado |
+|----------|----------|----------|----------|----------|
+| Render | Base de Datos | https://vantage-pmo.vercel.app/| https://vantage-pmo.vercel.app/ | Activo |
+
+La tabla será actualizada conforme se completen los servicios correspondientes al Sprint 4.
+
+---
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+<a id="5-2-4-7-software-deployment-evidence-for-sprint-review"></a>
+
+Durante este Sprint se realizarán las actividades necesarias para desplegar los servicios backend y consolidar el entorno de ejecución completo de la plataforma.
+
+Las actividades previstas incluyen:
+
+* Configuración de entornos de desarrollo y producción.
+* Despliegue de servicios backend en plataforma cloud.
+* Configuración de variables de entorno.
+* Integración entre frontend desplegado y backend publicado.
+* Validación de disponibilidad y conectividad de los servicios.
+* Validación de funcionamiento de los nuevos módulos implementados durante el Sprint 4.
+* Pruebas de integración entre ChatHub, gestión de proyectos y servicios backend.
+
+### Evidencias de Despliegue
+
+Se incorporarán capturas de pantalla correspondientes a:
+
+* Plataforma de despliegue backend.
+* Configuración de servicios.
+* Estado operativo de las APIs.
+* Conectividad entre frontend y backend.
+* Funcionamiento de ChatHub.
+* Funcionamiento de la creación de proyectos.
+* Vista de Emprendedor.
+* Configuración visual y modo oscuro.
+* Evidencias de funcionamiento en ambiente productivo.
+
+Render:
+<td><div align="center"><img src="assets/images/chapter-5/Sprint4/VANTAGE-PMO-WebService.png" alt=""></div></td>
+<td><div align="center"><img src="assets/images/chapter-5/Sprint4/VANTAGE-PMO-WebService2.png" alt=""></div></td>
+<td><div align="center"><img src="assets/images/chapter-5/Sprint4/VANTAGE-PMO-WebService3.png" alt=""></div></td>
+<td><div align="center"><img src="assets/images/chapter-5/Sprint4/VANTAGE-PMO-WebService4.png" alt=""></div></td>
+
+MySQL:
+<td><div align="center"><img src="assets/images/chapter-5/Sprint3/screenshot-evidence-mysql1.png" alt=""></div></td>
+<td><div align="center"><img src="assets/images/chapter-5/Sprint3/screenshot-evidence-mysql2.png" alt=""></div></td>
+<td><div align="center"><img src="assets/images/chapter-5/Sprint3/screenshot-evidence-mysql3.png" alt=""></div></td>
+<td><div align="center"><img src="assets/images/chapter-5/Sprint3/screenshot-evidence-mysql4.png" alt=""></div></td>
+<td><div align="center"><img src="assets/images/chapter-5/Sprint3/screenshot-evidence-mysql5.png" alt=""></div></td>
+<td><div align="center"><img src="assets/images/chapter-5/Sprint3/screenshot-evidence-mysql6.png" alt=""></div></td>
+<td><div align="center"><img src="assets/images/chapter-5/Sprint3/screenshot-evidence-mysql7.png" alt=""></div></td>
+<td><div align="center"><img src="assets/images/chapter-5/Sprint3/screenshot-evidence-mysql8.png" alt=""></div></td>
+
+Swagger:
+<td><div align="center"><img src="assets/images/chapter-5/Sprint4/VANTAGE-PMO-Swagger.png" alt=""></div></td>
+<td><div align="center"><img src="assets/images/chapter-5/Sprint4/VANTAGE-PMO-Backend.png" alt=""></div></td>
+<td><div align="center"><img src="assets/images/chapter-5/Sprint4/VANTAGE-PMO-Backend2.png" alt=""></div></td>
+
+---
+
+#### 5.2.4.8.Team Collaboration Insights during Sprint.
+<a id="5-2-4-8-team-collaboration-insights-during-sprint"></a>
+
+La ejecución del Sprint 4 estará orientada a la consolidación final, estabilización y cierre técnico de la plataforma, integrando de manera definitiva los servicios backend, los componentes frontend y las actividades de documentación y preparación para entrega académica.
+
+El trabajo colaborativo del equipo se apoyará en los siguientes aspectos:
+
+* **Integración Continua:** Se realizarán integraciones finales entre frontend y backend, verificando la correcta interoperabilidad de los módulos implementados y corrigiendo inconsistencias detectadas en sprints anteriores.
+* **Desarrollo Full Stack:** El equipo enfocará sus esfuerzos en la finalización de servicios backend críticos, ajustes de lógica de negocio y validación del consumo de APIs desde los módulos frontend.
+* **Gestión de Versiones:** Se mantendrá un control riguroso del código fuente mediante GitHub, merges controlados y revisión de cambios para asegurar estabilidad en la rama principal.
+* **Calidad de Software:** Se ejecutarán pruebas funcionales, validaciones de seguridad y verificación de flujos completos para garantizar el correcto funcionamiento de la plataforma.
+* **Documentación Técnica:** Se consolidará la documentación final de APIs, arquitectura y despliegue, utilizando Swagger/OpenAPI como referencia principal.
+* **Optimización y Corrección Final:** Se realizarán ajustes finales sobre módulos existentes, manejo de errores y configuraciones generales para asegurar una solución coherente y consistente.
+* **Comunicación y Coordinación del Equipo:** El equipo continuará utilizando herramientas colaborativas para coordinar actividades, resolver incidencias finales y asegurar el cumplimiento de los objetivos del sprint.
+
+### Analíticos de GitHub — Sprint 4
+
+Las métricas de actividad del repositorio serán incorporadas al finalizar el Sprint 4, incluyendo evidencias de commits, contribuciones individuales, merges y participación de los integrantes del equipo.
+
+<td><div align="center"><img src="assets/images/chapter-5/Sprint4/commits.png" alt=""></div></td>
+
+| Integrante | Usuario GitHub | Commits |
+| :--- | :--- | :---: |
+| Quispe Llacsahuanga, César Agusto | user20-bit | 28 |
+| Teran Zavala, Mauricio Alejandro | mau-tz | 8 |
+| Guillen Giraldo, Mike Dylan | FulLHous | 2 |
+| Esquicha Alcántara, Diego Alonso | DiegoEsquich | 0 |
+| Rocha Cotrina, Alvaro | alvarorc24 | 0 |
+
+Se espera mantener una participación equilibrada entre todos los integrantes del equipo, fortaleciendo la colaboración y asegurando el cumplimiento de los objetivos establecidos para este sprint.
+
 ## 5.3. Validation Interviews
 <a id="#53-validation-interviews"></a>
 En esta sección se documentan y describen las actividades relacionadas con las entrevistas de validación realizadas a lo largo del desarrollo del proyecto. Estas entrevistas tienen como propósito principal recopilar retroalimentación directa, entender las necesidades y expectativas de los usuarios, y confirmar o descartar las hipótesis planteadas sobre el producto. Para ello, los participantes de ambos segmentos interactuarán tanto con la landing page como con la aplicación web.
