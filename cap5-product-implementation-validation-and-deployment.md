@@ -1007,225 +1007,231 @@ Finalmente, se incluirá una tabla con la evidencia de desarrollo obtenida desde
     <th>Commit Message Body</th>
     <th>Commited on (Date)</th>
   </tr>
+
   <tr>
-  <td>user20-bit/Vantage-PMO-Front-End</td>
-  <td>main</td>
-  <td>f67572a</td>
-  <td>script: add chathub</td>
-  <td>Agrega el módulo ChatHub inicial mediante scripts.</td>
-  <td>2026-06-01</td>
-</tr>
+    <td>user20-bit/Vantage-PMO-Front-End</td>
+    <td>main</td>
+    <td>f67572a</td>
+    <td>script: add chathub</td>
+    <td>Agrega el módulo ChatHub inicial mediante scripts.</td>
+    <td>2026-06-01</td>
+  </tr>
 
-<tr>
-  <td>user20-bit/Vantage-PMO-Front-End</td>
-  <td>main</td>
-  <td>9d76336</td>
-  <td>Merge pull request #5 from BL-Aplicaciones-Web-1ASI0730-2610-12158/ChatBot</td>
-  <td>Integra al branch principal los cambios desarrollados para el módulo ChatBot.</td>
-  <td>2026-06-01</td>
-</tr>
-
-<tr>
-  <td>mau-tz/Vantage-PMO-Front-End</td>
-  <td>main</td>
-  <td>3c46d92</td>
-  <td>feat(create-project): add create project button with styles</td>
-  <td>Agrega el botón de creación de proyectos con estilos visuales definidos.</td>
-  <td>2026-06-01</td>
-</tr>
-
-<tr>
-  <td>mau-tz/Vantage-PMO-Front-End</td>
-  <td>main</td>
-  <td>c957996</td>
-  <td>Merge pull request #6 from BL-Aplicaciones-Web-1ASI0730-2610-12158/feat/create-project</td>
-  <td>Integra al branch principal la funcionalidad de creación de proyectos.</td>
-  <td>2026-06-01</td>
-</tr>
   <tr>
-  <td>mau-tz/Vantage-PMO-Front-End</td>
-  <td>main</td>
-  <td>68cb135</td>
-  <td>fix: refactor button texts in system administration</td>
-  <td>Corrige y estandariza los textos de botones en el módulo de administración del sistema.</td>
-  <td>2026-06-02</td>
-</tr>
+    <td>user20-bit/Vantage-PMO-Front-End</td>
+    <td>main</td>
+    <td>9d76336</td>
+    <td>Merge pull request #5 from BL-Aplicaciones-Web-1ASI0730-2610-12158/ChatBot</td>
+    <td>Integra al branch principal los cambios desarrollados para el módulo ChatBot.</td>
+    <td>2026-06-01</td>
+  </tr>
+
   <tr>
-  <td>user20-bit/Vantage-PMO-Front-End</td>
-  <td>main</td>
-  <td>19addb8</td>
-  <td>scripts. add new chathub</td>
-  <td>Agrega una nueva implementación inicial del ChatHub mediante scripts.</td>
-  <td>2026-06-05</td>
-</tr>
+    <td>mau-tz/Vantage-PMO-Front-End</td>
+    <td>main</td>
+    <td>3c46d92</td>
+    <td>feat(create-project): add create project button with styles</td>
+    <td>Agrega el botón de creación de proyectos con estilos visuales definidos.</td>
+    <td>2026-06-01</td>
+  </tr>
 
-<tr>
-  <td>mau-tz/Vantage-PMO-Front-End</td>
-  <td>main</td>
-  <td>0d3f921</td>
-  <td>refactor: enhance infrastructure for both segments</td>
-  <td>Mejora la infraestructura base del frontend para soportar ambos segmentos de usuarios.</td>
-  <td>2026-06-05</td>
-</tr>
   <tr>
-  <td>user20-bit/Vantage-PMO-Front-End</td>
-  <td>main</td>
-  <td>02e8811</td>
-  <td>refactor: structure view2 supports and chathub</td>
-  <td>Reestructura los archivos de soporte de la vista 2 y el módulo de ChatHub para mejorar mantenibilidad y orden del código.</td>
-  <td>2026-06-06</td>
-</tr>
+    <td>mau-tz/Vantage-PMO-Front-End</td>
+    <td>main</td>
+    <td>c957996</td>
+    <td>Merge pull request #6 from BL-Aplicaciones-Web-1ASI0730-2610-12158/feat/create-project</td>
+    <td>Integra al branch principal la funcionalidad de creación de proyectos.</td>
+    <td>2026-06-01</td>
+  </tr>
 
-<tr>
-  <td>alvarorc24/Vantage-PMO-Front-End</td>
-  <td>main</td>
-  <td>a475852</td>
-  <td>refactor(view-2): clean up layout and home views, i18n, and stores</td>
-  <td>Limpia y optimiza layouts, vistas principales, internacionalización y stores para una arquitectura más clara.</td>
-  <td>2026-06-06</td>
-</tr>
-
-<tr>
-  <td>alvarorc24/Vantage-PMO-Front-End</td>
-  <td>main</td>
-  <td>df24412</td>
-  <td>feat(view-2): add portfolio routes and layout</td>
-  <td>Agrega nuevas rutas y layout para la visualización de portafolios dentro del sistema.</td>
-  <td>2026-06-06</td>
-</tr>
-<tr>
-  <td>alvarorc24/Vantage-PMO-Front-End</td>
-  <td>main</td>
-  <td>f46a14a</td>
-  <td>feat(view-2): update home.vue layout and styles</td>
-  <td>Actualiza la estructura visual y estilos del home de la vista 2 para mejorar la experiencia de usuario.</td>
-  <td>2026-06-06</td>
-</tr>
-
-<tr>
-  <td>alvarorc24/Vantage-PMO-Front-End</td>
-  <td>main</td>
-  <td>e2631f3</td>
-  <td>feat(view-2): add layout, home, 404 and language switcher</td>
-  <td>Incorpora layouts base, vista home, página 404 y selector de idioma para la vista 2.</td>
-  <td>2026-06-06</td>
-</tr>
-
-<tr>
-  <td>alvarorc24/Vantage-PMO-Front-End</td>
-  <td>main</td>
-  <td>2ab6de2</td>
-  <td>feat(view-2): add layout, components and views structure</td>
-  <td>Define la estructura inicial de layouts, componentes y vistas para la vista 2 del sistema.</td>
-  <td>2026-06-06</td>
-</tr>
-
-<tr>
-  <td>mau-tz/Vantage-PMO-Front-End</td>
-  <td>main</td>
-  <td>a457897</td>
-  <td>add bounded contexts folders for view2</td>
-  <td>Crea carpetas de bounded contexts para organizar modularmente la vista 2.</td>
-  <td>2026-06-06</td>
-</tr>
-
-<tr>
-  <td>mau-tz/Vantage-PMO-Front-End</td>
-  <td>main</td>
-  <td>d5dc87b</td>
-  <td>refactor: bounded context routes</td>
-  <td>Refactoriza las rutas para alinearlas con la arquitectura de bounded contexts.</td>
-  <td>2026-06-06</td>
-</tr>
-
-<tr>
-  <td>mau-tz/Vantage-PMO-Front-End</td>
-  <td>main</td>
-  <td>86c3cf2</td>
-  <td>fix: route in presentation for view1</td>
-  <td>Corrige el ruteo de presentación para evitar errores de navegación en la vista 1.</td>
-  <td>2026-06-06</td>
-</tr>
-
-<tr>
-  <td>mau-tz/Vantage-PMO-Front-End</td>
-  <td>main</td>
-  <td>de8824d</td>
-  <td>fix: move shared out of view 1</td>
-  <td>Mueve componentes compartidos fuera de la vista 1 para mejorar reutilización.</td>
-  <td>2026-06-06</td>
-</tr>
-
-<tr>
-  <td>mau-tz/Vantage-PMO-Front-End</td>
-  <td>main</td>
-  <td>2f02c20</td>
-  <td>feat(project): update project status and calculate progress bar</td>
-  <td>Permite actualizar el estado del proyecto y calcular dinámicamente la barra de progreso.</td>
-  <td>2026-06-06</td>
-</tr>
-
-<tr>
-  <td>mau-tz/Vantage-PMO-Front-End</td>
-  <td>main</td>
-  <td>14bc171</td>
-  <td>feat(project): add update option in projects</td>
-  <td>Agrega la opción de actualización de proyectos desde la interfaz.</td>
-  <td>2026-06-06</td>
-</tr>
-
-<tr>
-  <td>mau-tz/Vantage-PMO-Front-End</td>
-  <td>main</td>
-  <td>f4ad6a9</td>
-  <td>feat: add files md for view2</td>
-  <td>Agrega archivos de documentación markdown asociados a la vista 2.</td>
-  <td>2026-06-06</td>
-</tr>
-
-<tr>
-  <td>user20-bit/Vantage-PMO-Front-End</td>
-  <td>main</td>
-  <td>947a325</td>
-  <td>chathub correction</td>
-  <td>Corrige errores funcionales y visuales detectados en el módulo ChatHub.</td>
-  <td>2026-06-06</td>
-</tr>
-
-<tr>
-  <td>user20-bit/Vantage-PMO-Front-End</td>
-  <td>main</td>
-  <td>f57f9fe</td>
-  <td>scripts: finall version chathub designs</td>
-  <td>Incluye la versión final de los diseños del ChatHub mediante scripts.</td>
-  <td>2026-06-06</td>
-</tr>
-
-<tr>
-  <td>user20-bit/Vantage-PMO-Front-End</td>
-  <td>main</td>
-  <td>9be8b44</td>
-  <td>scripts: finall version chathub designs</td>
-  <td>Refuerza y ajusta los scripts finales de diseño del ChatHub.</td>
-  <td>2026-06-06</td>
-</tr>
-<tr>
-  <td>alvarorc24/Vantage-PMO-Front-End</td>
-  <td>main</td>
-  <td>da618d1</td>
-  <td>feat(view-2): add context parameter to dashboard fetch and apis</td>
-  <td>Incorpora el parámetro de contexto en las llamadas al dashboard y APIs para soportar múltiples entornos.</td>
-  <td>2026-06-06</td>
-</tr>
   <tr>
-  <td>mau-tz/Vantage-PMO-Front-End</td>
-  <td>main</td>
-  <td>83d5645</td>
-  <td>feat(workspace): add workspace selection</td>
-  <td>Implementa la funcionalidad de selección de workspace.</td>
-  <td>2026-06-07</td>
-</tr>
-    <tr>
+    <td>mau-tz/Vantage-PMO-Front-End</td>
+    <td>main</td>
+    <td>68cb135</td>
+    <td>fix: refactor button texts in system administration</td>
+    <td>Corrige y estandariza los textos de botones en el módulo de administración del sistema.</td>
+    <td>2026-06-02</td>
+  </tr>
+
+  <tr>
+    <td>user20-bit/Vantage-PMO-Front-End</td>
+    <td>main</td>
+    <td>19addb8</td>
+    <td>scripts. add new chathub</td>
+    <td>Agrega una nueva implementación inicial del ChatHub mediante scripts.</td>
+    <td>2026-06-05</td>
+  </tr>
+
+  <tr>
+    <td>mau-tz/Vantage-PMO-Front-End</td>
+    <td>main</td>
+    <td>0d3f921</td>
+    <td>refactor: enhance infrastructure for both segments</td>
+    <td>Mejora la infraestructura base del frontend para soportar ambos segmentos de usuarios.</td>
+    <td>2026-06-05</td>
+  </tr>
+  <tr>
+    <td>user20-bit/Vantage-PMO-Front-End</td>
+    <td>main</td>
+    <td>02e8811</td>
+    <td>refactor: structure view2 supports and chathub</td>
+    <td>Reestructura los archivos de soporte de la vista 2 y el módulo de ChatHub para mejorar mantenibilidad y orden del código.</td>
+    <td>2026-06-06</td>
+  </tr>
+
+  <tr>
+    <td>alvarorc24/Vantage-PMO-Front-End</td>
+    <td>main</td>
+    <td>a475852</td>
+    <td>refactor(view-2): clean up layout and home views, i18n, and stores</td>
+    <td>Limpia y optimiza layouts, vistas principales, internacionalización y stores para una arquitectura más clara.</td>
+    <td>2026-06-06</td>
+  </tr>
+
+  <tr>
+    <td>alvarorc24/Vantage-PMO-Front-End</td>
+    <td>main</td>
+    <td>df24412</td>
+    <td>feat(view-2): add portfolio routes and layout</td>
+    <td>Agrega nuevas rutas y layout para la visualización de portafolios dentro del sistema.</td>
+    <td>2026-06-06</td>
+  </tr>
+  <tr>
+    <td>alvarorc24/Vantage-PMO-Front-End</td>
+    <td>main</td>
+    <td>f46a14a</td>
+    <td>feat(view-2): update home.vue layout and styles</td>
+    <td>Actualiza la estructura visual y estilos del home de la vista 2 para mejorar la experiencia de usuario.</td>
+    <td>2026-06-06</td>
+  </tr>
+
+  <tr>
+    <td>alvarorc24/Vantage-PMO-Front-End</td>
+    <td>main</td>
+    <td>e2631f3</td>
+    <td>feat(view-2): add layout, home, 404 and language switcher</td>
+    <td>Incorpora layouts base, vista home, página 404 y selector de idioma para la vista 2.</td>
+    <td>2026-06-06</td>
+  </tr>
+
+  <tr>
+    <td>alvarorc24/Vantage-PMO-Front-End</td>
+    <td>main</td>
+    <td>2ab6de2</td>
+    <td>feat(view-2): add layout, components and views structure</td>
+    <td>Define la estructura inicial de layouts, componentes y vistas para la vista 2 del sistema.</td>
+    <td>2026-06-06</td>
+  </tr>
+
+  <tr>
+    <td>mau-tz/Vantage-PMO-Front-End</td>
+    <td>main</td>
+    <td>a457897</td>
+    <td>add bounded contexts folders for view2</td>
+    <td>Crea carpetas de bounded contexts para organizar modularmente la vista 2.</td>
+    <td>2026-06-06</td>
+  </tr>
+
+  <tr>
+    <td>mau-tz/Vantage-PMO-Front-End</td>
+    <td>main</td>
+    <td>d5dc87b</td>
+    <td>refactor: bounded context routes</td>
+    <td>Refactoriza las rutas para alinearlas con la arquitectura de bounded contexts.</td>
+    <td>2026-06-06</td>
+  </tr>
+
+  <tr>
+    <td>mau-tz/Vantage-PMO-Front-End</td>
+    <td>main</td>
+    <td>86c3cf2</td>
+    <td>fix: route in presentation for view1</td>
+    <td>Corrige el ruteo de presentación para evitar errores de navegación en la vista 1.</td>
+    <td>2026-06-06</td>
+  </tr>
+
+  <tr>
+    <td>mau-tz/Vantage-PMO-Front-End</td>
+    <td>main</td>
+    <td>de8824d</td>
+    <td>fix: move shared out of view 1</td>
+    <td>Mueve componentes compartidos fuera de la vista 1 para mejorar reutilización.</td>
+    <td>2026-06-06</td>
+  </tr>
+
+  <tr>
+    <td>mau-tz/Vantage-PMO-Front-End</td>
+    <td>main</td>
+    <td>2f02c20</td>
+    <td>feat(project): update project status and calculate progress bar</td>
+    <td>Permite actualizar el estado del proyecto y calcular dinámicamente la barra de progreso.</td>
+    <td>2026-06-06</td>
+  </tr>
+
+  <tr>
+    <td>mau-tz/Vantage-PMO-Front-End</td>
+    <td>main</td>
+    <td>14bc171</td>
+    <td>feat(project): add update option in projects</td>
+    <td>Agrega la opción de actualización de proyectos desde la interfaz.</td>
+    <td>2026-06-06</td>
+  </tr>
+
+  <tr>
+    <td>mau-tz/Vantage-PMO-Front-End</td>
+    <td>main</td>
+    <td>f4ad6a9</td>
+    <td>feat: add files md for view2</td>
+    <td>Agrega archivos de documentación markdown asociados a la vista 2.</td>
+    <td>2026-06-06</td>
+  </tr>
+
+  <tr>
+    <td>user20-bit/Vantage-PMO-Front-End</td>
+    <td>main</td>
+    <td>947a325</td>
+    <td>chathub correction</td>
+    <td>Corrige errores funcionales y visuales detectados en el módulo ChatHub.</td>
+    <td>2026-06-06</td>
+  </tr>
+
+  <tr>
+    <td>user20-bit/Vantage-PMO-Front-End</td>
+    <td>main</td>
+    <td>f57f9fe</td>
+    <td>scripts: finall version chathub designs</td>
+    <td>Incluye la versión final de los diseños del ChatHub mediante scripts.</td>
+    <td>2026-06-06</td>
+  </tr>
+
+  <tr>
+    <td>user20-bit/Vantage-PMO-Front-End</td>
+    <td>main</td>
+    <td>9be8b44</td>
+    <td>scripts: finall version chathub designs</td>
+    <td>Refuerza y ajusta los scripts finales de diseño del ChatHub.</td>
+    <td>2026-06-06</td>
+  </tr>
+
+  <tr>
+    <td>alvarorc24/Vantage-PMO-Front-End</td>
+    <td>main</td>
+    <td>da618d1</td>
+    <td>feat(view-2): add context parameter to dashboard fetch and apis</td>
+    <td>Incorpora el parámetro de contexto en las llamadas al dashboard y APIs para soportar múltiples entornos.</td>
+    <td>2026-06-06</td>
+  </tr>
+
+  <tr>
+    <td>mau-tz/Vantage-PMO-Front-End</td>
+    <td>main</td>
+    <td>83d5645</td>
+    <td>feat(workspace): add workspace selection</td>
+    <td>Implementa la funcionalidad de selección de workspace.</td>
+    <td>2026-06-07</td>
+  </tr>
+
+  <tr>
     <td>mau-tz/Vantage-PMO-Front-End</td>
     <td>main</td>
     <td>2c81c0b</td>
@@ -1233,6 +1239,7 @@ Finalmente, se incluirá una tabla con la evidencia de desarrollo obtenida desde
     <td>Se eliminó un archivo markdown que ya no era necesario.</td>
     <td>2026-06-08</td>
   </tr>
+
   <tr>
     <td>mau-tz/Vantage-PMO-Front-End</td>
     <td>main</td>
@@ -1241,6 +1248,7 @@ Finalmente, se incluirá una tabla con la evidencia de desarrollo obtenida desde
     <td>Se añadieron archivos base para el módulo de analíticas.</td>
     <td>2026-06-08</td>
   </tr>
+
   <tr>
     <td>DiegoEsquich/Vantage-PMO-Front-End</td>
     <td>main</td>
@@ -1249,7 +1257,8 @@ Finalmente, se incluirá una tabla con la evidencia de desarrollo obtenida desde
     <td>Se agregó un usuario director al mock de base de datos.</td>
     <td>2026-06-08</td>
   </tr>
-    <tr>
+
+  <tr>
     <td>alvarorc24/Vantage-PMO-Front-End</td>
     <td>main</td>
     <td>d1a6f2a</td>
@@ -1257,6 +1266,7 @@ Finalmente, se incluirá una tabla con la evidencia de desarrollo obtenida desde
     <td>Se creó la estructura base para la funcionalidad de planificación de recursos.</td>
     <td>2026-06-10</td>
   </tr>
+
   <tr>
     <td>alvarorc24/Vantage-PMO-Front-End</td>
     <td>main</td>
@@ -1265,6 +1275,7 @@ Finalmente, se incluirá una tabla con la evidencia de desarrollo obtenida desde
     <td>Se revirtieron cambios del merge anterior por inconsistencias detectadas.</td>
     <td>2026-06-10</td>
   </tr>
+
   <tr>
     <td>alvarorc24/Vantage-PMO-Front-End</td>
     <td>main</td>
@@ -1273,6 +1284,7 @@ Finalmente, se incluirá una tabla con la evidencia de desarrollo obtenida desde
     <td>Se sincronizó la rama principal con la rama de desarrollo view-2.</td>
     <td>2026-06-10</td>
   </tr>
+
   <tr>
     <td>alvarorc24/Vantage-PMO-Front-End</td>
     <td>main</td>
@@ -1281,6 +1293,7 @@ Finalmente, se incluirá una tabla con la evidencia de desarrollo obtenida desde
     <td>Se integraron funcionalidades iniciales de la vista 2.</td>
     <td>2026-06-10</td>
   </tr>
+
   <tr>
     <td>mau-tz/Vantage-PMO-Back-End</td>
     <td>main</td>
@@ -1289,6 +1302,7 @@ Finalmente, se incluirá una tabla con la evidencia de desarrollo obtenida desde
     <td>Se incorporaron nuevas dependencias requeridas por funcionalidades recientes.</td>
     <td>2026-06-11</td>
   </tr>
+
   <tr>
     <td>mau-tz/Vantage-PMO-Back-End</td>
     <td>main</td>
@@ -1297,6 +1311,7 @@ Finalmente, se incluirá una tabla con la evidencia de desarrollo obtenida desde
     <td>Se refactorizaron los archivos de configuración para mejorar claridad y mantenimiento.</td>
     <td>2026-06-11</td>
   </tr>
+
   <tr>
     <td>mau-tz/Vantage-PMO-Front-End</td>
     <td>main</td>
@@ -1305,6 +1320,7 @@ Finalmente, se incluirá una tabla con la evidencia de desarrollo obtenida desde
     <td>Se eliminaron archivos y botones innecesarios para simplificar la vista 1.</td>
     <td>2026-06-11</td>
   </tr>
+
   <tr>
     <td>FulLHous/Vantage-PMO-Front-End</td>
     <td>main</td>
@@ -1313,6 +1329,7 @@ Finalmente, se incluirá una tabla con la evidencia de desarrollo obtenida desde
     <td>Se integraron a main los cambios completos del módulo de riesgos.</td>
     <td>2026-06-11</td>
   </tr>
+
   <tr>
     <td>FulLHous/Vantage-PMO-Front-End</td>
     <td>main</td>
@@ -1321,6 +1338,7 @@ Finalmente, se incluirá una tabla con la evidencia de desarrollo obtenida desde
     <td>Se implementó la página de cumplimiento de riesgos con heatmap, métricas y tabla crítica.</td>
     <td>2026-06-11</td>
   </tr>
+
   <tr>
     <td>FulLHous/Vantage-PMO-Front-End</td>
     <td>main</td>
@@ -1329,6 +1347,7 @@ Finalmente, se incluirá una tabla con la evidencia de desarrollo obtenida desde
     <td>Se mejoró el ensamblador y consumo de API para métricas y matrices de riesgo.</td>
     <td>2026-06-11</td>
   </tr>
+
   <tr>
     <td>FulLHous/Vantage-PMO-Front-End</td>
     <td>main</td>
@@ -1337,6 +1356,7 @@ Finalmente, se incluirá una tabla con la evidencia de desarrollo obtenida desde
     <td>Se añadieron variables de entorno para endpoints del módulo de riesgos.</td>
     <td>2026-06-11</td>
   </tr>
+
   <tr>
     <td>FulLHous/Vantage-PMO-Front-End</td>
     <td>main</td>
@@ -1345,6 +1365,7 @@ Finalmente, se incluirá una tabla con la evidencia de desarrollo obtenida desde
     <td>Se desarrollaron componentes del dashboard para la gestión visual de riesgos.</td>
     <td>2026-06-11</td>
   </tr>
+
   <tr>
     <td>FulLHous/Vantage-PMO-Front-End</td>
     <td>main</td>
@@ -1353,6 +1374,7 @@ Finalmente, se incluirá una tabla con la evidencia de desarrollo obtenida desde
     <td>Se añadieron entidades para modelar métricas, riesgos y matrices.</td>
     <td>2026-06-11</td>
   </tr>
+
   <tr>
     <td>FulLHous/Vantage-PMO-Front-End</td>
     <td>main</td>
@@ -1361,6 +1383,7 @@ Finalmente, se incluirá una tabla con la evidencia de desarrollo obtenida desde
     <td>Se incorporaron matrices de riesgo y planes de acción para vulnerabilidades.</td>
     <td>2026-06-11</td>
   </tr>
+
   <tr>
     <td>FulLHous/Vantage-PMO-Front-End</td>
     <td>main</td>
@@ -1369,6 +1392,7 @@ Finalmente, se incluirá una tabla con la evidencia de desarrollo obtenida desde
     <td>Se añadió soporte de idioma inglés y español al módulo de riesgos.</td>
     <td>2026-06-11</td>
   </tr>
+
   <tr>
     <td>FulLHous/Vantage-PMO-Front-End</td>
     <td>main</td>
@@ -1377,6 +1401,7 @@ Finalmente, se incluirá una tabla con la evidencia de desarrollo obtenida desde
     <td>Se mejoró el store para manejo de datos y métricas de riesgos.</td>
     <td>2026-06-11</td>
   </tr>
+
   <tr>
     <td>mau-tz/Vantage-PMO-Back-End</td>
     <td>main</td>
@@ -1385,6 +1410,7 @@ Finalmente, se incluirá una tabla con la evidencia de desarrollo obtenida desde
     <td>Se creó un contexto compartido para reutilizar lógica y entidades comunes entre módulos.</td>
     <td>2026-06-12</td>
   </tr>
+
   <tr>
     <td>mau-tz/Vantage-PMO-Back-End</td>
     <td>main</td>
@@ -1393,6 +1419,7 @@ Finalmente, se incluirá una tabla con la evidencia de desarrollo obtenida desde
     <td>Se añadió un Dockerfile para permitir la contenedorización del backend.</td>
     <td>2026-06-12</td>
   </tr>
+
   <tr>
     <td>mau-tz/Vantage-PMO-Back-End</td>
     <td>main</td>
@@ -1401,7 +1428,6 @@ Finalmente, se incluirá una tabla con la evidencia de desarrollo obtenida desde
     <td>Se organizaron y añadieron rutas para la gestión de archivos, mejorando la estructura del backend.</td>
     <td>2026-06-15</td>
   </tr>
-
 </table>
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
@@ -1657,7 +1683,8 @@ Finalmente, se incluye una tabla con la evidencia de desarrollo obtenida a parti
     <th>Commit Message Body</th>
     <th>Commited on (Date)</th>
   </tr>
-    <tr>
+
+  <tr>
     <td>user20-bit/Vantage-PMO-Back-End</td>
     <td>main</td>
     <td>j3cgrf</td>
@@ -1692,7 +1719,8 @@ Finalmente, se incluye una tabla con la evidencia de desarrollo obtenida a parti
     <td>Implementa módulo ChatHub con dominio, API y configuración EF.</td>
     <td>2026-07-03</td>
   </tr>
-    <tr>
+
+  <tr>
     <td>user20-bit/Vantage-PMO-Back-End</td>
     <td>main</td>
     <td>b4b001</td>
@@ -1754,7 +1782,8 @@ Finalmente, se incluye una tabla con la evidencia de desarrollo obtenida a parti
     <td>Refactoriza el módulo Profiles usando recursos localizados.</td>
     <td>2026-07-04</td>
   </tr>
-<tr>
+
+  <tr>
     <td>user20-bit/Vantage-PMO-Back-End</td>
     <td>main</td>
     <td>17df188</td>
